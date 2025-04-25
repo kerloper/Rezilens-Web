@@ -1,0 +1,65 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+body{
+    font-family: "Vazirmatn" ,sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6,p,span{
+    @apply text-gray-800
+}
+.dir-rtl {
+    direction: rtl;
+}
+.line-clamp-3 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}
+
+.line-clamp-2 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+@layer base {
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+}
+.default-r-m{
+    @apply mr-8 sm:mr-16 md:mr-32 lg:mr-44 xl:mr-56 2xl:mr-64
+}
+.default-x-m{
+    @apply mx-8 sm:mx-16 md:mx-32 lg:mx-44 xl:mx-56 2xl:mx-64
+}
+
+.fade-enter-active, .fade-leave-active {
+    transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+    opacity: 0;
+}
+::-webkit-scrollbar {
+    width: 10px;
+    cursor:pointer
+
+}
+
+::-webkit-scrollbar-track {
+    background: #dadada;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
