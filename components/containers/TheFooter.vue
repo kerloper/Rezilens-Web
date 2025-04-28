@@ -15,8 +15,7 @@
 
           <div class="md:col-span-3 lg:col-span-3 xl:col-span-3 col-span-6">
             <div class="  pl-2 my-3">
-              <div class="  text-sm">
-                <img src="../../static/uae.png" alt="rezilens" class="my-2"/>
+              <div class="text-sm">
                 <strong>Address:
                 </strong>Meydan Free Zone, Meydan Hotel, M Floor, No.1109
                 <br/>

@@ -1,6 +1,6 @@
 <template>
 <!--  <div class="mx-auto bg-[#211952] font-sans pb-10">-->
-  <div class="mx-auto font-sans pb-10">
+  <div class="mx-auto font-sans">
     <TheHeader/>
     <main>
       <slot />

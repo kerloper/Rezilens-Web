@@ -8,11 +8,11 @@
 
           <div class="block sm:hidden md:hidden lg:hidden xl:hidden">
             <div>
-<!--              <img-->
-<!--                  src="../static/rezilens/banner-1.png"-->
-<!--                  alt="rezilens"-->
-<!--                  class="w-full scale-110"-->
-<!--              >-->
+              <!--              <img-->
+              <!--                  src="../static/rezilens/banner-1.png"-->
+              <!--                  alt="rezilens"-->
+              <!--                  class="w-full scale-110"-->
+              <!--              >-->
             </div>
           </div>
           <div>
@@ -52,19 +52,20 @@
 
         <div class="py-12  ">
           <div class="  mx-auto px-4 sm:px-6 lg:px-8">
-<!--            <div class="text-center mb-12">-->
-<!--              <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">-->
-<!--                What our clients say-->
-<!--              </h2>-->
-<!--              <p class="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">-->
-<!--                Don't just take our word for it - hear from our satisfied customers-->
-<!--              </p>-->
-<!--            </div>-->
+            <!--            <div class="text-center mb-12">-->
+            <!--              <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">-->
+            <!--                What our clients say-->
+            <!--              </h2>-->
+            <!--              <p class="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">-->
+            <!--                Don't just take our word for it - hear from our satisfied customers-->
+            <!--              </p>-->
+            <!--            </div>-->
 
             <div class="relative">
               <!-- Carousel container -->
               <div ref="carousel" class="overflow-hidden">
-                <div class="flex transition-transform duration-300 ease-in-out" :style="`transform: translateX(-${currentIndex * 100}%)`">
+                <div class="flex transition-transform duration-300 ease-in-out"
+                     :style="`transform: translateX(-${currentIndex * 100}%)`">
                   <!-- Testimonial cards -->
                   <div
                       v-for="(testimonial, index) in testimonials"
@@ -74,8 +75,10 @@
                     <div class="bg-white p-8 rounded-lg shadow-lg h-full">
                       <div class="flex items-start">
                         <svg class="h-12 w-12 text-blue-500" fill="currentColor" viewBox="0 0 36 36">
-                          <path d="M11.86 16.55a4.31 4.31 0 0 0-2.11.56a14.44 14.44 0 0 1 4.36-6a1.1 1.1 0 0 0-1.4-1.7c-4 3.25-5.78 7.75-5.78 10.54A5.08 5.08 0 0 0 10 24.58a4.4 4.4 0 0 0 1.88.44a4.24 4.24 0 1 0 0-8.47Z"/>
-                          <path d="M23 16.55a4.29 4.29 0 0 0-2.11.56a14.5 14.5 0 0 1 4.35-6a1.1 1.1 0 1 0-1.39-1.7c-4 3.25-5.78 7.75-5.78 10.54a5.08 5.08 0 0 0 3 4.61A4.37 4.37 0 0 0 23 25a4.24 4.24 0 1 0 0-8.47Z"/>
+                          <path
+                              d="M11.86 16.55a4.31 4.31 0 0 0-2.11.56a14.44 14.44 0 0 1 4.36-6a1.1 1.1 0 0 0-1.4-1.7c-4 3.25-5.78 7.75-5.78 10.54A5.08 5.08 0 0 0 10 24.58a4.4 4.4 0 0 0 1.88.44a4.24 4.24 0 1 0 0-8.47Z"/>
+                          <path
+                              d="M23 16.55a4.29 4.29 0 0 0-2.11.56a14.5 14.5 0 0 1 4.35-6a1.1 1.1 0 1 0-1.39-1.7c-4 3.25-5.78 7.75-5.78 10.54a5.08 5.08 0 0 0 3 4.61A4.37 4.37 0 0 0 23 25a4.24 4.24 0 1 0 0-8.47Z"/>
                         </svg>
                         <p class="ml-4 text-lg text-gray-600 italic">
                           "{{ testimonial.quote }}"
@@ -137,64 +140,64 @@
     </section>
 
 
-<!--    <section-->
-<!--        class="bg-white"-->
-<!--    >-->
-<!--      <div class="relative w-full max-w-[1440px] mx-auto overflow-hidden">-->
-<!--        <div class="absolute">-->
-<!--          <img src="../static/back-01.png" class=" w-full mb-16" alt="rezilens">-->
-<!--        </div>-->
+    <!--    <section-->
+    <!--        class="bg-white"-->
+    <!--    >-->
+    <!--      <div class="relative w-full max-w-[1440px] mx-auto overflow-hidden">-->
+    <!--        <div class="absolute">-->
+    <!--          <img src="../static/back-01.png" class=" w-full mb-16" alt="rezilens">-->
+    <!--        </div>-->
 
-<!--        <div class=" ">-->
-<!--          <div-->
-<!--              class="grid grid-cols-8 gap-2 md:p-16 lg:p-16 xl:p-16 p-6 relative"-->
-<!--          >-->
+    <!--        <div class=" ">-->
+    <!--          <div-->
+    <!--              class="grid grid-cols-8 gap-2 md:p-16 lg:p-16 xl:p-16 p-6 relative"-->
+    <!--          >-->
 
-<!--            <div-->
-<!--                class="col-span-8 mt-8"-->
-<!--            >-->
-<!--              <h1-->
-<!--                  class="text-5xl text-[#211952]"-->
-<!--              >-->
-<!--                Rezilens-->
-<!--              </h1>-->
-<!--              <p class="text-justify mt-6 text-base leading-9 text-[#211952]">-->
-<!--                Rezilens is a dynamic Queensland-based cybersecurity company which provides AI-enabled web-based-->
-<!--                cybersecurity resilience assessments and technical vulnerability assessments to Australian companies and-->
-<!--                organisations. Rezilens’ success is driven by its innovative technological edge. We’re looking for a-->
-<!--                talented and experienced Sales Lead to take our operations to the next level by extending the sales-->
-<!--                opportunities for our product offerings.-->
-<!--              </p>-->
-<!--              <p class="text-justify mt-6 text-base leading-9 text-[#211952]">-->
-<!--                The Sales Lead is responsible for seeking out and forming partnerships with new partners and resellers-->
-<!--                (e.g. IT MSP’s) who can deliver Rezilens’ web-based GRC and vulnerability assessment platforms to end-->
-<!--                customers. Direct sales to end users (such as Government entities or small/medium sized enterprises) is-->
-<!--                within the scope of this job. The Sales Lead’s responsibilities also include maintaining and deepening-->
-<!--                the company’s relationship with its existing client base.-->
-<!--              </p>-->
-<!--              <p class="text-justify mt-6 text-base leading-9 text-[#211952]">-->
-<!--                In this role, you’ll need to target markets which would be the most receptive to Rezilens’ product-->
-<!--                offerings. Building a relationship with the stakeholders at end user or partner companies, you’ll be-->
-<!--                expected to form and maintain long term relationships that can lead to sales for the company.-->
-<!--              </p>-->
-<!--              <p class="text-justify mt-6 text-base leading-9 text-[#211952]">-->
-<!--                The compensation package includes a base salary and an uncapped commission structure, with an earning-->
-<!--                potential well in excess of $130,000.-->
-<!--              </p>-->
-<!--              <div>-->
-<!--                <button-->
-<!--                    class="bg-[#57CCE0] text-[#211952] text-sm py-1 px-3 mt-4 rounded-md"-->
-<!--                >-->
-<!--                  <nuxt-link to="/about-us">-->
-<!--                    Read More-->
-<!--                  </nuxt-link>-->
-<!--                </button>-->
-<!--              </div>-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </div>-->
-<!--      </div>-->
-<!--    </section>-->
+    <!--            <div-->
+    <!--                class="col-span-8 mt-8"-->
+    <!--            >-->
+    <!--              <h1-->
+    <!--                  class="text-5xl text-[#211952]"-->
+    <!--              >-->
+    <!--                Rezilens-->
+    <!--              </h1>-->
+    <!--              <p class="text-justify mt-6 text-base leading-9 text-[#211952]">-->
+    <!--                Rezilens is a dynamic Queensland-based cybersecurity company which provides AI-enabled web-based-->
+    <!--                cybersecurity resilience assessments and technical vulnerability assessments to Australian companies and-->
+    <!--                organisations. Rezilens’ success is driven by its innovative technological edge. We’re looking for a-->
+    <!--                talented and experienced Sales Lead to take our operations to the next level by extending the sales-->
+    <!--                opportunities for our product offerings.-->
+    <!--              </p>-->
+    <!--              <p class="text-justify mt-6 text-base leading-9 text-[#211952]">-->
+    <!--                The Sales Lead is responsible for seeking out and forming partnerships with new partners and resellers-->
+    <!--                (e.g. IT MSP’s) who can deliver Rezilens’ web-based GRC and vulnerability assessment platforms to end-->
+    <!--                customers. Direct sales to end users (such as Government entities or small/medium sized enterprises) is-->
+    <!--                within the scope of this job. The Sales Lead’s responsibilities also include maintaining and deepening-->
+    <!--                the company’s relationship with its existing client base.-->
+    <!--              </p>-->
+    <!--              <p class="text-justify mt-6 text-base leading-9 text-[#211952]">-->
+    <!--                In this role, you’ll need to target markets which would be the most receptive to Rezilens’ product-->
+    <!--                offerings. Building a relationship with the stakeholders at end user or partner companies, you’ll be-->
+    <!--                expected to form and maintain long term relationships that can lead to sales for the company.-->
+    <!--              </p>-->
+    <!--              <p class="text-justify mt-6 text-base leading-9 text-[#211952]">-->
+    <!--                The compensation package includes a base salary and an uncapped commission structure, with an earning-->
+    <!--                potential well in excess of $130,000.-->
+    <!--              </p>-->
+    <!--              <div>-->
+    <!--                <button-->
+    <!--                    class="bg-[#57CCE0] text-[#211952] text-sm py-1 px-3 mt-4 rounded-md"-->
+    <!--                >-->
+    <!--                  <nuxt-link to="/about-us">-->
+    <!--                    Read More-->
+    <!--                  </nuxt-link>-->
+    <!--                </button>-->
+    <!--              </div>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--    </section>-->
 
 
     <div class="bg-cover w-full" style="background-image: url('/rezilens/page-banner.png')">
@@ -253,12 +256,9 @@
             class="grid grid-cols-1 gap-2"
         >
           <div class=" ">
-            <p
-                class="md:text-3xl xl:text-3xl lg:text-3xl text-3xl pt-3 text-[#211952]"
-            >
+            <p class="md:text-2xl xl:text-2xl lg:text-2xl text-2xl pt-3 text-[#211952] text-center">
               See how you can overcome your cybersecurity challenges with a simple and affordable solution.
             </p>
-
           </div>
           <div class="text-center pt-6">
             <button class="bg-[#6f78b2] hover:bg-blue-400 text-white py-2 px-4 border-b-4 border-blue-700 rounded">
@@ -268,6 +268,60 @@
 
         </div>
 
+      </div>
+    </section>
+
+    <section>
+      <div class="py-12 bg-white">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+          <!-- Section Header -->
+          <div class="text-center mb-8">
+            <h3 class=" text-2xl md:text-3xl ">Our industry certifications</h3>
+          </div>
+
+          <!-- Certifications Carousel -->
+          <div class="relative">
+            <!-- Carousel Container -->
+            <div ref="carousel2" class="overflow-hidden">
+              <div
+                  class="flex transition-transform duration-300 ease-in-out"
+                  :style="`transform: translateX(-${currentCertIndex * (100 / visibleCerts)}%)`"
+              >
+                <!-- Certification Items -->
+                <div
+                    v-for="(cert, index) in certifications"
+                    :key="index"
+                    class="flex-shrink-0 px-2 flex items-center justify-center"
+                    :class="`w-1/${visibleCerts}`"
+                >
+                  <img
+                      :src="cert.image"
+                      :alt="cert.name"
+                      class="h-20 object-contain grayscale hover:grayscale-0 transition-all duration-300"
+                  >
+                </div>
+              </div>
+            </div>
+
+            <!-- Navigation Arrows -->
+            <button
+                @click="prevCert"
+                class="absolute left-0 top-1/2 -translate-y-1/2 -ml-4 p-2 rounded-full bg-white shadow-md hover:bg-gray-100 focus:outline-none"
+            >
+              <svg class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+              </svg>
+            </button>
+            <button
+                @click="nextCert"
+                class="absolute right-0 top-1/2 -translate-y-1/2 -mr-4 p-2 rounded-full bg-white shadow-md hover:bg-gray-100 focus:outline-none"
+            >
+              <svg class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </button>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -297,7 +351,7 @@ useSeoMeta({
 })
 
 
-const services =  ([
+const services = ([
   {
     title: "Cost-Efficient",
     image: "",
@@ -320,7 +374,7 @@ const services =  ([
     slug: "/"
   },
 ])
-const features =  ([
+const features = ([
   {
     title: "SaaS Based",
     abstract: "A cybersecurity platform designed with SaaS architecture, backed by AI and machine learning expertise."
@@ -347,7 +401,7 @@ const features =  ([
   }
 ])
 
- const testimonials = [
+const testimonials = [
   {
     "quote": "Partnering with this cybersecurity firm has revolutionized our approach to digital safety. Their expertise and tailored solutions have kept our e-commerce platform safe and efficient, boosting customer trust.Thanks to their support, we've significantly reduced security incidents and our team feels more confident. They're more than a service provider; they're a vital part of our success.I highly recommend them for their reliable and effective cybersecurity support.",
     "author": "Abbey Dean",
@@ -472,6 +526,43 @@ const cards = [
     description: 'From discovery through deployment, we deliver real metrics and real impact.'
   }
 ];
+
+
+const certifications = [
+  { image: 'https://www.rezilens.com/upload/widget/61724f092d3e0.png', name: 'Exin IT service management' },
+  { image: 'https://www.rezilens.com/upload/widget/61724f0ba2981.png', name: 'CISM' },
+  { image: 'https://www.rezilens.com/upload/widget/61724f0c1fe28.png', name: 'CRISC' },
+  { image: 'https://www.rezilens.com/upload/widget/61724f0cca4fa.png', name: 'AWS certified' },
+  { image: 'https://www.rezilens.com/upload/widget/61724f0e73779.png', name: 'PMI RMP' },
+  { image: 'https://www.rezilens.com/upload/widget/61724f0ee912a.png', name: 'PMP' },
+  { image: 'https://www.rezilens.com/upload/widget/61724f1059704.png', name: 'ITIL 4' },
+  { image: 'https://www.rezilens.com/upload/widget/61724f1085f5a.png', name: 'Cobit 5' },
+  { image: 'https://www.rezilens.com/upload/widget/61724f1237f45.png', name: 'ISO 27001' },
+  { image: 'https://www.rezilens.com/upload/widget/6172745a1cdf1.png', name: 'CEH' }
+]
+
+const currentCertIndex = ref(0)
+const carousel2 = ref(null)
+
+// Calculate number of visible certifications based on screen size
+const visibleCerts = computed(() => {
+  return 3
+})
+
+const nextCert = () => {
+  currentCertIndex.value = (currentCertIndex.value + 1) % (certifications.length - visibleCerts.value + 1)
+}
+
+const prevCert = () => {
+  currentCertIndex.value = (currentCertIndex.value - 1 + (certifications.length - visibleCerts.value + 1)) % (certifications.length - visibleCerts.value + 1)
+}
+
+// Auto-advance (optional)
+onMounted(() => {
+  setInterval(() => {
+    nextCert()
+  }, 3000)
+})
 
 </script>
 <style scoped>
