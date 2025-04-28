@@ -35,7 +35,7 @@
                 v-for="item in menuItems"
                 class="hover:cursor-pointer w-[85px] mx-2 px-2 text-center items-center justify-center text-sm text-white hover:text-blue-300 rounded-lg transition-all "
             >
-              <nuxt-link :to="item.target" class="flex items-center text-white justify-center text-center">
+              <nuxt-link :to="item.target" class="flex items-center text-black justify-center text-center">
                 {{ item.title }}
               </nuxt-link>
             </li>
@@ -82,40 +82,86 @@ const path = ref(route.path)
 const isTransparent = false;
 
 const basketTabFlag = useCookie('basket_tab_flag')
-const menuItems = ref([
-  {
-    title: "Home",
-    target: "/",
-  },
-  {
-    title: "Services",
-    target: "/services",
-  },
-  {
-    title: "Solutions",
-    target: "/solutions",
-  },
-  {
-    title: "Blog",
-    target: "/blog",
-  },
-  {
-    title: "About Us",
-    target: "/about-us",
-  },
-  {
-    title: "Contact Us",
-    target: "/contact-us",
-  },
-  // {
-  //   title: "Support",
-  //   target: "/contact-us",
-  // },
-  // {
-  //   title: "Login",
-  //   target: "/",
-  // },
-])
+const menuItems = ref(
+    [
+      {
+        "title": "Home",
+        "description": "A high-level overview of our value proposition, customer success story, and quick links to core offerings.",
+        "target": "home"
+      },
+      {
+        "title": "About Us",
+        "target": "about-us",
+        "subitems": [
+          {
+            "title": "Firm story & mission",
+            "target": "firm-story-mission"
+          },
+          {
+            "title": "Leadership team bios",
+            "target": "leadership-team-bios"
+          },
+          {
+            "title": "Core values & differentiators",
+            "target": "core-values-differentiators"
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "target": "services",
+        "subitems": [
+          {
+            "title": "Strategic Foresight",
+            "target": "strategic-foresight"
+          },
+          {
+            "title": "Intelligent Solutions (AI & Data)",
+            "target": "intelligent-solutions-ai-data"
+          },
+          {
+            "title": "Trust & Resilience (Cybersecurity & Risk)",
+            "target": "trust-resilience-cybersecurity-risk"
+          },
+          {
+            "title": "Adaptive Transformation (Change Management & ESG)",
+            "target": "adaptive-transformation-change-management-esg"
+          }
+        ]
+      },
+      {
+        "title": "Industries",
+        "target": "industries"
+      },
+      {
+        "title": "Resources",
+        "target": "resources",
+        "subitems": [
+          {
+            "title": "Blog posts",
+            "target": "blog-posts"
+          },
+          {
+            "title": "Reports",
+            "target": "reports"
+          },
+          {
+            "title": "News & Events",
+            "target": "news-events"
+          }
+        ]
+      },
+      {
+        "title": "Careers",
+        "target": "careers"
+      },
+      {
+        "title": "Contact",
+        "description": "Inquiry forms, office locations & direct-reach information.",
+        "target": "contact"
+      }
+    ]
+)
 
 watch(() => basketTabFlag.value, (value) => {
   if (!showBasketTab.value) {

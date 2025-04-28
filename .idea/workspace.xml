@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="improve" />
+    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="initialize">
+      <change afterPath="$PROJECT_DIR$/public/rezilens/page-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/rezilens/page-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/rezilens/banner-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/rezilens/banner-mob-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/rezilens/idea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/rezilens/web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/containers/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,38 +67,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kerloper/Developer/rezilens/Rezilens-Web/static/rezilens",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kerloper/Developer/rezilens/Rezilens-Web/static/rezilens&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "vue.recent.templates": [
-      "Vue Composition API Component"
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/rezilens" />
+      <recent name="$PROJECT_DIR$/public/rezilens" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/static/flags" />
       <recent name="$PROJECT_DIR$/pages" />
-      <recent name="$PROJECT_DIR$/static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/rezilens" />
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/pages/payment" />
       <recent name="C:\Users\Amir\Desktop\Projects\Yadman\pages\tours" />
       <recent name="C:\Users\Amir\Desktop\Projects\Yadman\components\containers" />
@@ -310,7 +323,11 @@
       <workItem from="1715968550164" duration="12116000" />
       <workItem from="1745571415323" duration="3140000" />
       <workItem from="1745583780029" duration="6000" />
-      <workItem from="1745583791535" duration="4362000" />
+      <workItem from="1745583791535" duration="4817000" />
+      <workItem from="1745646119250" duration="1104000" />
+      <workItem from="1745730744155" duration="1749000" />
+      <workItem from="1745751850242" duration="3222000" />
+      <workItem from="1745794497720" duration="4023000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676985169343</created>
@@ -416,14 +433,6 @@
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1686567858199</updated>
-    </task>
-    <task id="LOCAL-00231" summary="add data for payment">
-      <option name="closed" value="true" />
-      <created>1702662756383</created>
-      <option name="number" value="00231" />
-      <option name="presentableId" value="LOCAL-00231" />
-      <option name="project" value="LOCAL" />
-      <updated>1702662756383</updated>
     </task>
     <task id="LOCAL-00232" summary="print">
       <option name="closed" value="true" />
@@ -689,7 +698,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715988667098</updated>
     </task>
-    <option name="localTasksCounter" value="265" />
+    <task id="LOCAL-00265" summary="initialize">
+      <option name="closed" value="true" />
+      <created>1745588308587</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1745588308587</updated>
+    </task>
+    <option name="localTasksCounter" value="266" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -707,7 +724,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add data for payment" />
     <MESSAGE value="print" />
     <MESSAGE value="add gift" />
     <MESSAGE value="header" />
@@ -732,7 +748,8 @@
     <MESSAGE value="footer" />
     <MESSAGE value="contact us card" />
     <MESSAGE value="improve" />
-    <option name="LAST_COMMIT_MESSAGE" value="improve" />
+    <MESSAGE value="initialize" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialize" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
