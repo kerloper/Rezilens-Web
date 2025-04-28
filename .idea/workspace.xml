@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="initialize">
-      <change afterPath="$PROJECT_DIR$/public/rezilens/page-banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/rezilens/page-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/rezilens/banner-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/rezilens/banner-mob-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/rezilens/idea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/rezilens/web.png" afterDir="false" />
+    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="base">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/containers/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheHeader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/containers/TheFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheFooter.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -327,7 +320,7 @@
       <workItem from="1745646119250" duration="1104000" />
       <workItem from="1745730744155" duration="1749000" />
       <workItem from="1745751850242" duration="3222000" />
-      <workItem from="1745794497720" duration="4023000" />
+      <workItem from="1745794497720" duration="5094000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676985169343</created>
@@ -433,14 +426,6 @@
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1686567858199</updated>
-    </task>
-    <task id="LOCAL-00232" summary="print">
-      <option name="closed" value="true" />
-      <created>1702664625250</created>
-      <option name="number" value="00232" />
-      <option name="presentableId" value="LOCAL-00232" />
-      <option name="project" value="LOCAL" />
-      <updated>1702664625250</updated>
     </task>
     <task id="LOCAL-00233" summary="add gift">
       <option name="closed" value="true" />
@@ -706,7 +691,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745588308587</updated>
     </task>
-    <option name="localTasksCounter" value="266" />
+    <task id="LOCAL-00266" summary="base">
+      <option name="closed" value="true" />
+      <created>1745809590523</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1745809590523</updated>
+    </task>
+    <option name="localTasksCounter" value="267" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -724,7 +717,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="print" />
     <MESSAGE value="add gift" />
     <MESSAGE value="header" />
     <MESSAGE value="set category" />
@@ -749,7 +741,8 @@
     <MESSAGE value="contact us card" />
     <MESSAGE value="improve" />
     <MESSAGE value="initialize" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize" />
+    <MESSAGE value="base" />
+    <option name="LAST_COMMIT_MESSAGE" value="base" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

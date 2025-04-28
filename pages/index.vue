@@ -218,35 +218,26 @@
           <!--        </div>-->
         </div>
         <div
-            class="grid grid-cols-2 gap-2 py-5"
+            class="grid grid-cols-1 gap-2  "
         >
           <div class="md:col-span-1 lg:col-span-1 xl:col-span-1 col-span-2">
 
           </div>
-          <div class="md:pl-10 lg:pl-10 xl:pl-10  pt-4 md:col-span-1 lg:col-span-1 xl:col-span-1 col-span-2">
-            <nuxt-link class="cursor-pointer" v-for="service in services" :to="service.slug">
-              <div class="mb-4">
-                <div class="flex">
-                  <div class="w-8 pt-1">
-                    <img src="../static/point.png" alt="rezilens"/>
+          <div class="  pt-4 md:col-span-1 lg:col-span-1 xl:col-span-1 col-span-2">
+            <div class="py-12  ">
+              <div class="max-w-7xl mx-auto">
+                <div class="grid gap-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+                  <div
+                      v-for="(item, index) in cards"
+                      :key="index"
+                      class="bg-white rounded-2xl shadow-md p-6 hover:shadow-lg transition-shadow duration-300"
+                  >
+                    <h3 class="text-xl font-semibold text-gray-800 mb-3">{{ item.title }}</h3>
+                    <p class="text-gray-600">{{ item.description }}</p>
                   </div>
-                  <div class="w-full text-xl text-white">
-                    {{ service.title }}
-                  </div>
-                </div>
-                <div class="text-gray-300 my-2 leading-7">
-                  {{ service.abstract }}
                 </div>
               </div>
-
-            </nuxt-link>
-          </div>
-          <div
-              class="col-span-2 text-justify text-white pt-4 text-xl"
-          >
-            At Rezilens, we empower organizations to build resilience with confidence. Our platform is designed to
-            streamline cybersecurity management, combining affordability, ease of use, and comprehensive risk coverage —
-            all from a single, intuitive dashboard.
+            </div>
           </div>
         </div>
 
@@ -257,51 +248,22 @@
         class=" bg-[#ECFCFF]"
     >
 
-      <div class="relative w-full max-w-[1440px] mx-auto md:p-16 lg:p-16 xl:p-16 p-6">
+      <div class="relative w-full max-w-[1440px] mx-auto md:p-6 lg:p-6 xl:p-6 p-6">
         <div
-            class="grid grid-cols-6 gap-2"
+            class="grid grid-cols-1 gap-2"
         >
-          <div class="col-span-4">
-            <h1
-                class="md:text-5xl xl:text-5xl lg:text-5xl text-3xl pt-3 text-[#211952]"
+          <div class=" ">
+            <p
+                class="md:text-3xl xl:text-3xl lg:text-3xl text-3xl pt-3 text-[#211952]"
             >
-              Main Features
-            </h1>
+              See how you can overcome your cybersecurity challenges with a simple and affordable solution.
+            </p>
+
           </div>
-          <!--          <div class="dir-rtl pt-4 col-span-2"> -->
-          <!--            <nuxt-link to="/solutions">-->
-          <!--              <img src="../static/open-blue.png" alt="rezilens"/>-->
-          <!--            </nuxt-link>-->
-          <!--          </div>-->
-        </div>
-        <div
-            class="grid grid-cols-3 gap-2 py-6"
-        >
-          <div class="md:hidden lg:hidden xl:hidden col-span-2">
-            <img src="../static/solutions.png" alt="rezilens"/>
-          </div>
-          <div
-              class="md:pr-24 lg:pr-24 xl:pr-24 md:pt-16 lg:pt-16 xl:pt-16  pt-0 md:col-span-1 lg:col-span-1 xl:col-span-1 col-span-3">
-            <nuxt-link class="flex mb-4 cursor-pointer" v-for="feature in features" to="/">
-              <div class="w-16 pt-1">
-                <img src="../static/point-sky.png" alt="rezilens"/>
-              </div>
-              <div class="w-96 text-xl text-[#211952]">
-                {{ feature.title }}
-              </div>
-              <div class="w-full dir-rtl">
-                <!--                <img src="../static/arrow-sky.png" alt="rezilens"/>-->
-              </div>
-            </nuxt-link>
-          </div>
-          <div class="md:block lg:block xl:block hidden col-span-2 text-[#211952] pt-[62px] leading-8 text-xl">
-            Our cybersecurity platform offers an advanced, affordable, and intuitive solution powered by AI and machine
-            learning. Tailored to meet the evolving security needs of businesses, it ensures simplicity with no
-            technical expertise required. The platform provides bespoke remediations and actionable insights based on
-            each organization’s unique security posture. With a focus on transparency, it delivers an intuitive portal
-            for real-time tracking of cyber maturity, empowering managers and executives with detailed insights. Fully
-            white-labeled, it can be seamlessly integrated into your offerings, enabling you to deliver a personalized
-            cybersecurity service to your clients.
+          <div class="text-center pt-6">
+            <button class="bg-[#6f78b2] hover:bg-blue-400 text-white py-2 px-4 border-b-4 border-blue-700 rounded">
+              Book a Demo
+            </button>
           </div>
 
         </div>
@@ -309,39 +271,6 @@
       </div>
     </section>
 
-    <section
-        class="md:px-16 lg:px-16 xl:px-16 px-6 mt-6 md:pb-0 lg:pb-0 xl:pb-0 pb-6 max-w-[1440px] mx-auto"
-    >
-      <div
-          class="grid grid-cols-11 gap-2 "
-      >
-        <div class="md:col-span-5 lg:col-span-5 xl:col-span-5 col-span-11 ">
-          <img src="../static/lump.png" alt="rezilens"/>
-        </div>
-        <div class="md:col-span-6 lg:col-span-6 xl:col-span-6 col-span-11 md:pt-12 lg:pt-12 xl:pt-12 pt-0">
-          <div class="md:pt-16 xl:pt-16 lg:pt-16 pt-0">
-            <h1 class="text-white md:text-3xl font-medium leading-10 lg:text-3xl xl:text-3xl text-3xl">
-              Do You Have An Awesome Project In Your Mind?
-            </h1>
-            <div
-                class="text-white md:text-xl xl:text-xl lg:text-xl text-base text-justify md:mt-10 xl:mt-10 lg:mt-10 md:mb-0 xl:mb-0 lg:mb-0 mt-5 ">
-              Just let us know ... we will make it for you !
-            </div>
-            <div>
-              <nuxt-link to="/contact-us">
-                <button
-                    class="bg-[#57CCE0] text-[#211952] text-sm py-1 px-3 mt-10 rounded-md"
-                >
-                  Get in touch
-                </button>
-              </nuxt-link>
-            </div>
-
-          </div>
-        </div>
-      </div>
-
-    </section>
   </div>
 </template>
 
@@ -520,6 +449,30 @@ onMounted(() => {
     nextSlide()
   }, 10000)
 })
+
+const cards = [
+  {
+    title: 'Holistic, Pillar-Based Consulting',
+    description: 'Four interconnected pillars—Foresight, Intelligence, Trust & Resilience, Adaptive Transformation—ensure no gap is left unaddressed.'
+  },
+  {
+    title: 'Custom-Built Intelligence',
+    description: 'Tailored AI and data solutions aligned with your unique business DNA.'
+  },
+  {
+    title: 'Trust & Resilience at the Core',
+    description: 'Security, privacy, and compliance built in from day one, aligned with ISO, NIST, GDPR and leading global standards.'
+  },
+  {
+    title: 'ESG-Embedded Strategy',
+    description: 'Measurable, sustainable practices that meet regulatory demands and stakeholder expectations.'
+  },
+  {
+    title: 'End-to-End Execution',
+    description: 'From discovery through deployment, we deliver real metrics and real impact.'
+  }
+];
+
 </script>
 <style scoped>
 /* Custom transition for smoother sliding */
