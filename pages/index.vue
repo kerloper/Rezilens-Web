@@ -8,11 +8,6 @@
 
           <div class="block sm:hidden md:hidden lg:hidden xl:hidden">
             <div>
-              <!--              <img-->
-              <!--                  src="../static/rezilens/banner-1.png"-->
-              <!--                  alt="rezilens"-->
-              <!--                  class="w-full scale-110"-->
-              <!--              >-->
             </div>
           </div>
           <div>
@@ -52,15 +47,6 @@
 
         <div class="py-12  ">
           <div class="  mx-auto px-4 sm:px-6 lg:px-8">
-            <!--            <div class="text-center mb-12">-->
-            <!--              <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">-->
-            <!--                What our clients say-->
-            <!--              </h2>-->
-            <!--              <p class="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">-->
-            <!--                Don't just take our word for it - hear from our satisfied customers-->
-            <!--              </p>-->
-            <!--            </div>-->
-
             <div class="relative">
               <!-- Carousel container -->
               <div ref="carousel" class="overflow-hidden">
@@ -247,11 +233,8 @@
       </section>
     </div>
 
-    <section
-        class=" bg-[#ECFCFF]"
-    >
-
-      <div class="relative w-full max-w-[1440px] mx-auto md:p-6 lg:p-6 xl:p-6 p-6">
+    <section>
+      <div class="relative w-full max-w-[1440px] mx-auto p-20">
         <div
             class="grid grid-cols-1 gap-2"
         >
@@ -261,7 +244,7 @@
             </p>
           </div>
           <div class="text-center pt-6">
-            <button class="bg-[#6f78b2] hover:bg-blue-400 text-white py-2 px-4 border-b-4 border-blue-700 rounded">
+            <button class="px-6 py-3 bg-[#3e1660] text-white font-medium rounded-lg transition-colors duration-300">
               Book a Demo
             </button>
           </div>
@@ -271,56 +254,61 @@
       </div>
     </section>
 
-    <section>
-      <div class="py-12 bg-white">
-        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
-          <!-- Section Header -->
-          <div class="text-center mb-8">
-            <h3 class=" text-2xl md:text-3xl ">Our industry certifications</h3>
-          </div>
+    <div class="bg-cover w-full bg-gradient-to-br from-gray-50 to-blue-50 pt-8">
+      <section
+          class="md:mx-16 lg:mx-16 xl:mx-16 mx-6  "
+      >
+        <div class="container mx-auto px-4">
+          <BaseSwiper :data="certifications" :title="'Our industry certifications'" />
+        </div>
+      </section>
+    </div>
 
-          <!-- Certifications Carousel -->
-          <div class="relative">
-            <!-- Carousel Container -->
-            <div ref="carousel2" class="overflow-hidden">
-              <div
-                  class="flex transition-transform duration-300 ease-in-out"
-                  :style="`transform: translateX(-${currentCertIndex * (100 / visibleCerts)}%)`"
-              >
-                <!-- Certification Items -->
-                <div
-                    v-for="(cert, index) in certifications"
-                    :key="index"
-                    class="flex-shrink-0 px-2 flex items-center justify-center"
-                    :class="`w-1/${visibleCerts}`"
-                >
-                  <img
-                      :src="cert.image"
-                      :alt="cert.name"
-                      class="h-20 object-contain grayscale hover:grayscale-0 transition-all duration-300"
-                  >
-                </div>
+    <div class="bg-cover w-full mt-10">
+      <section
+          class="md:mx-16 lg:mx-16 xl:mx-16 mx-6 pb-10 "
+      >
+        <div class="container mx-auto px-4">
+          <BaseSwiper :data="partners" :title="'Partners'" />
+
+        </div>
+      </section>
+    </div>
+
+    <section class="py-16 bg-gradient-to-br from-gray-50 to-blue-50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">
+            Impact at a Glance
+          </h2>
+          <p class="mt-4 max-w-2xl mx-auto text-xl text-gray-600">
+            Quantifiable results from our strategic transformations
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
+          <div
+              v-for="(metric, index) in impactMetrics"
+              :key="index"
+              class="bg-white rounded-xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-xl hover:-translate-y-1 pb-4"
+          >
+            <div class="p-6 h-full flex flex-col">
+              <div class="flex items-center mb-4 ">
+                <h3 class="text-xl font-semibold text-[#5A1D68]">{{ metric.title }}</h3>
+              </div>
+
+              <div class="mt-auto h-24">
+                <p class="text-3xl font-bold text-[#6C2275] mb-2">{{ metric.value }}</p>
+                <p class="text-gray-600">{{ metric.description }}</p>
               </div>
             </div>
-
-            <!-- Navigation Arrows -->
-            <button
-                @click="prevCert"
-                class="absolute left-0 top-1/2 -translate-y-1/2 -ml-4 p-2 rounded-full bg-white shadow-md hover:bg-gray-100 focus:outline-none"
-            >
-              <svg class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
-              </svg>
-            </button>
-            <button
-                @click="nextCert"
-                class="absolute right-0 top-1/2 -translate-y-1/2 -mr-4 p-2 rounded-full bg-white shadow-md hover:bg-gray-100 focus:outline-none"
-            >
-              <svg class="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
-              </svg>
-            </button>
           </div>
+        </div>
+
+        <div class="mt-12 text-center">
+          <button class="px-6 py-3 bg-[#3e1660] text-white font-medium rounded-lg   transition-colors duration-300">
+            Request Detailed Case Study
+          </button>
         </div>
       </div>
     </section>
@@ -329,16 +317,15 @@
 </template>
 
 <script setup>
-import {computed, onMounted, ref, watch} from "vue";
-import {fetcher, responder, uri} from "~/utils";
-import BaseErrorComponent from "~/components/error/BaseErrorComponent.vue";
-import {Swiper, SwiperSlide} from 'swiper/vue';
+import {computed, onMounted, ref} from "vue";
 import 'swiper/swiper-bundle.css';
-import ComponentBoxProduct1 from "~/components/box/ComponentBoxProduct1.vue";
-import ComponentBoxBlog1 from "~/components/box/ComponentBoxBlog1.vue";
-import ComponentBoxBlog2 from "~/components/box/ComponentBoxBlog2.vue";
-import ComponentBoxBlog3 from "~/components/box/ComponentBoxBlog3.vue"; // Import Swiper styles
-// Create a ref for the Swiper instance
+// Import Swiper
+import {Swiper, SwiperSlide} from 'swiper/vue'
+
+// Import Swiper styles
+import 'swiper/css'
+import 'swiper/css/navigation'
+import 'swiper/css/autoplay'
 
 ///SEO
 useSeoMeta({
@@ -350,56 +337,184 @@ useSeoMeta({
   twitterCard: 'summary_large_image',
 })
 
-
-const services = ([
+const impactMetrics = [
   {
-    title: "Cost-Efficient",
-    image: "",
-    abstract: "An affordable yet feature-rich SaaS tool that improves transparency and decreases cybersecurity costs.",
-    description: "",
-    slug: "/"
+    "title": "Technology ROI Boost",
+    "value": "30–40%",
+    "description": "Increase in technology ROI via smarter AI investments",
   },
   {
-    title: "Easy to Use",
-    image: "",
-    abstract: "Manage yours and your clients’ cybersecurity journeys with minimal technical experience required.",
-    description: "",
-    slug: "/"
+    "title": "Compliance Speed",
+    "value": "Up to 50%",
+    "description": "Faster compliance achievement",
   },
   {
-    title: "Two Birds With One Stone",
-    image: "",
-    abstract: "Identify and reduce both your technical and non-technical risks through a single pane of glass.",
-    description: "",
-    slug: "/"
-  },
-])
-const features = ([
-  {
-    title: "SaaS Based",
-    abstract: "A cybersecurity platform designed with SaaS architecture, backed by AI and machine learning expertise."
+    "title": "Threat Reduction",
+    "value": "60–80%",
+    "description": "Reduction in cybersecurity threats",
   },
   {
-    title: "Affordable",
-    abstract: "More cost-effective and faster than many traditional manual processes in the cybersecurity industry."
+    "title": "ESG Performance",
+    "value": "Measurable",
+    "description": "ESG performance uplift in Year 1",
   },
   {
-    title: "Intuitive",
-    abstract: "User-friendly interface requiring no technical expertise, with clear insights for senior teams."
-  },
-  {
-    title: "Bespoke",
-    abstract: "Customized remediations and improvement suggestions based on unique security posture and cyber maturity."
-  },
-  {
-    title: "Transparent",
-    abstract: "Detailed and granular visibility into client security postures through an intuitive portal."
-  },
-  {
-    title: "White Labeled",
-    abstract: "Full white-labeling options to promote the platform as your own with customized branding."
+    "title": "Workforce Readiness",
+    "value": "90%+",
+    "description": "Employee readiness post-transformation",
   }
-])
+]
+
+const impacts = [
+  {
+    title: "30–40% increase in technology ROI",
+    subtitle: "via smarter AI investments"
+  },
+  {
+    title: "Up to 50% faster compliance achievement"
+  },
+  {
+    title: "60–80% reduction in cybersecurity threats"
+  },
+  {
+    title: "Measurable ESG performance uplift",
+    subtitle: "in Year 1"
+  },
+  {
+    title: "90%+ employee readiness",
+    subtitle: "post-transformation"
+  }
+];
+
+const cards = [
+  {
+    title: 'Holistic, Pillar-Based Consulting',
+    description: 'Four interconnected pillars—Foresight, Intelligence, Trust & Resilience, Adaptive Transformation—ensure no gap is left unaddressed.'
+  },
+  {
+    title: 'Custom-Built Intelligence',
+    description: 'Tailored AI and data solutions aligned with your unique business DNA.'
+  },
+  {
+    title: 'Trust & Resilience at the Core',
+    description: 'Security, privacy, and compliance built in from day one, aligned with ISO, NIST, GDPR and leading global standards.'
+  },
+  {
+    title: 'ESG-Embedded Strategy',
+    description: 'Measurable, sustainable practices that meet regulatory demands and stakeholder expectations.'
+  },
+  {
+    title: 'End-to-End Execution',
+    description: 'From discovery through deployment, we deliver real metrics and real impact.'
+  }
+];
+
+
+const certifications = [
+  {image: 'https://www.rezilens.com/upload/widget/61724f092d3e0.png', name: 'Exin IT service management'},
+  {image: 'https://www.rezilens.com/upload/widget/61724f0ba2981.png', name: 'CISM'},
+  {image: 'https://www.rezilens.com/upload/widget/61724f0c1fe28.png', name: 'CRISC'},
+  {image: 'https://www.rezilens.com/upload/widget/61724f0cca4fa.png', name: 'AWS certified'},
+  {image: 'https://www.rezilens.com/upload/widget/61724f0e73779.png', name: 'PMI RMP'},
+  {image: 'https://www.rezilens.com/upload/widget/61724f0ee912a.png', name: 'PMP'},
+  {image: 'https://www.rezilens.com/upload/widget/61724f1059704.png', name: 'ITIL 4'},
+  {image: 'https://www.rezilens.com/upload/widget/61724f1085f5a.png', name: 'Cobit 5'},
+  {image: 'https://www.rezilens.com/upload/widget/61724f1237f45.png', name: 'ISO 27001'},
+  {image: 'https://www.rezilens.com/upload/widget/6172745a1cdf1.png', name: 'CEH'}
+]
+const partners = [{
+  image: "https://www.rezilens.com/upload/widget/61763f2ba0837.png",
+  "alt": "Cloud security alliance",
+  "width": "182.5px",
+  "margin": "3px"
+},
+  {
+    image: "https://www.rezilens.com/upload/widget/61763f2ce9a5e.png",
+    "alt": "bsi",
+    "width": "182.5px",
+    "margin": "3px"
+  },
+  {
+    image: "https://www.rezilens.com/upload/widget/61763f2d649e3.png",
+    "alt": "Australian cyber security center",
+    "width": "182.5px",
+    "margin": "3px"
+  },
+  {
+    image: "https://www.rezilens.com/upload/widget/61763f2d91565.png",
+    "alt": "Knowbe4",
+    "width": "182.5px",
+    "margin": "3px"
+  },
+  {
+    image: "https://www.rezilens.com/upload/widget/61763f2dcbe19.png",
+    "alt": "Australian signals directorate",
+    "width": "182.5px",
+    "margin": "3px"
+  },
+  {
+    image: "https://www.rezilens.com/upload/widget/61763f2e75417.png",
+    "alt": "ISACA",
+    "width": "182.5px",
+    "margin": "3px"
+  },
+  {
+    image: "https://www.rezilens.com/upload/widget/617641f425b5e.png",
+    "alt": "Joint cuber security center",
+    "width": "182.5px",
+    "margin": "3px"
+  }
+]
+
+// const services = ([
+//   {
+//     title: "Cost-Efficient",
+//     image: "",
+//     abstract: "An affordable yet feature-rich SaaS tool that improves transparency and decreases cybersecurity costs.",
+//     description: "",
+//     slug: "/"
+//   },
+//   {
+//     title: "Easy to Use",
+//     image: "",
+//     abstract: "Manage yours and your clients’ cybersecurity journeys with minimal technical experience required.",
+//     description: "",
+//     slug: "/"
+//   },
+//   {
+//     title: "Two Birds With One Stone",
+//     image: "",
+//     abstract: "Identify and reduce both your technical and non-technical risks through a single pane of glass.",
+//     description: "",
+//     slug: "/"
+//   },
+// ])
+// const features = ([
+//   {
+//     title: "SaaS Based",
+//     abstract: "A cybersecurity platform designed with SaaS architecture, backed by AI and machine learning expertise."
+//   },
+//   {
+//     title: "Affordable",
+//     abstract: "More cost-effective and faster than many traditional manual processes in the cybersecurity industry."
+//   },
+//   {
+//     title: "Intuitive",
+//     abstract: "User-friendly interface requiring no technical expertise, with clear insights for senior teams."
+//   },
+//   {
+//     title: "Bespoke",
+//     abstract: "Customized remediations and improvement suggestions based on unique security posture and cyber maturity."
+//   },
+//   {
+//     title: "Transparent",
+//     abstract: "Detailed and granular visibility into client security postures through an intuitive portal."
+//   },
+//   {
+//     title: "White Labeled",
+//     abstract: "Full white-labeling options to promote the platform as your own with customized branding."
+//   }
+// ])
 
 const testimonials = [
   {
@@ -504,70 +619,23 @@ onMounted(() => {
   }, 10000)
 })
 
-const cards = [
-  {
-    title: 'Holistic, Pillar-Based Consulting',
-    description: 'Four interconnected pillars—Foresight, Intelligence, Trust & Resilience, Adaptive Transformation—ensure no gap is left unaddressed.'
-  },
-  {
-    title: 'Custom-Built Intelligence',
-    description: 'Tailored AI and data solutions aligned with your unique business DNA.'
-  },
-  {
-    title: 'Trust & Resilience at the Core',
-    description: 'Security, privacy, and compliance built in from day one, aligned with ISO, NIST, GDPR and leading global standards.'
-  },
-  {
-    title: 'ESG-Embedded Strategy',
-    description: 'Measurable, sustainable practices that meet regulatory demands and stakeholder expectations.'
-  },
-  {
-    title: 'End-to-End Execution',
-    description: 'From discovery through deployment, we deliver real metrics and real impact.'
-  }
-];
-
-
-const certifications = [
-  { image: 'https://www.rezilens.com/upload/widget/61724f092d3e0.png', name: 'Exin IT service management' },
-  { image: 'https://www.rezilens.com/upload/widget/61724f0ba2981.png', name: 'CISM' },
-  { image: 'https://www.rezilens.com/upload/widget/61724f0c1fe28.png', name: 'CRISC' },
-  { image: 'https://www.rezilens.com/upload/widget/61724f0cca4fa.png', name: 'AWS certified' },
-  { image: 'https://www.rezilens.com/upload/widget/61724f0e73779.png', name: 'PMI RMP' },
-  { image: 'https://www.rezilens.com/upload/widget/61724f0ee912a.png', name: 'PMP' },
-  { image: 'https://www.rezilens.com/upload/widget/61724f1059704.png', name: 'ITIL 4' },
-  { image: 'https://www.rezilens.com/upload/widget/61724f1085f5a.png', name: 'Cobit 5' },
-  { image: 'https://www.rezilens.com/upload/widget/61724f1237f45.png', name: 'ISO 27001' },
-  { image: 'https://www.rezilens.com/upload/widget/6172745a1cdf1.png', name: 'CEH' }
-]
-
-const currentCertIndex = ref(0)
-const carousel2 = ref(null)
-
-// Calculate number of visible certifications based on screen size
-const visibleCerts = computed(() => {
-  return 3
-})
-
-const nextCert = () => {
-  currentCertIndex.value = (currentCertIndex.value + 1) % (certifications.length - visibleCerts.value + 1)
-}
-
-const prevCert = () => {
-  currentCertIndex.value = (currentCertIndex.value - 1 + (certifications.length - visibleCerts.value + 1)) % (certifications.length - visibleCerts.value + 1)
-}
-
-// Auto-advance (optional)
-onMounted(() => {
-  setInterval(() => {
-    nextCert()
-  }, 3000)
-})
 
 </script>
 <style scoped>
 /* Custom transition for smoother sliding */
 .flex {
   transition: transform 0.5s ease-in-out;
+}
+
+/* Custom Swiper navigation buttons */
+.swiper-button-prev,
+.swiper-button-next {
+  @apply bg-white p-2 rounded-full shadow-md w-10 h-10;
+  color: #000;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  @apply text-sm;
 }
 </style>
