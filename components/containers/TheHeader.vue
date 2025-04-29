@@ -92,78 +92,78 @@ const menuItems = ref(
       {
         "title": "Home",
         "description": "A high-level overview of our value proposition, customer success story, and quick links to core offerings.",
-        "target": "home"
+        "target": "/"
       },
       {
         "title": "About Us",
-        "target": "about-us",
+        "target": "/",
         "subitems": [
           {
             "title": "Firm story & mission",
-            "target": "firm-story-mission"
+            "target": "/"
           },
           {
             "title": "Leadership team bios",
-            "target": "leadership-team-bios"
+            "target": "/"
           },
           {
             "title": "Core values & differentiators",
-            "target": "core-values-differentiators"
+            "target": "/"
           }
         ]
       },
       {
         "title": "Services",
-        "target": "services",
+        "target": "/",
         "subitems": [
           {
             "title": "Strategic Foresight",
-            "target": "strategic-foresight"
+            "target": "/"
           },
           {
             "title": "Intelligent Solutions (AI & Data)",
-            "target": "intelligent-solutions-ai-data"
+            "target": "/"
           },
           {
             "title": "Trust & Resilience (Cybersecurity & Risk)",
-            "target": "trust-resilience-cybersecurity-risk"
+            "target": "/"
           },
           {
             "title": "Adaptive Transformation (Change Management & ESG)",
-            "target": "adaptive-transformation-change-management-esg"
+            "target": "/"
           }
         ]
       },
       {
         "title": "Industries",
-        "target": "industries"
+        "target": "/"
       },
       {
         "title": "Resources",
-        "target": "resources",
+        "target": "/",
         "subitems": [
           {
             "title": "Blog posts",
-            "target": "blog-posts"
+            "target": "/"
           },
           {
             "title": "Reports",
-            "target": "reports"
+            "target": "/"
           },
           {
             "title": "News & Events",
-            "target": "news-events"
+            "target": "/"
           }
         ]
       },
       {
         "title": "Careers",
-        "target": "careers"
+        "target": "/"
       },
       {
         "title": "Contact",
         "description": "Inquiry forms, office locations & direct-reach information.",
-        "target": "contact"
+        "target": "/"
       }
     ]
 )

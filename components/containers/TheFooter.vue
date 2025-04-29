@@ -7,14 +7,14 @@
           class="border-t-2 border-[#F5F5F5] md:px-16 lg:px-16 xl:px-16 px-6 text-white pt-6 max-w-[1440px] mx-auto"
       >
 
-        <div>
-          <img src="../../static/rezilens/Logo-Main.png" alt="rezilens" class="h-20"/>
-        </div>
+
 
         <div class="grid grid-cols-6">
-
           <div class="md:col-span-3 lg:col-span-3 xl:col-span-3 col-span-6">
-            <div class="  pl-2 my-3">
+            <div>
+              <img src="../../static/rezilens/white-logo-zero.png" alt="rezilens" class="h-20"/>
+            </div>
+            <div class="    my-3">
               <div class="text-sm">
                 <strong>Address:
                 </strong>Meydan Free Zone, Meydan Hotel, M Floor, No.1109
@@ -22,7 +22,6 @@
                 <strong>Mobile:</strong> +971 4348 3599
                 <br/>
                 <strong>Email:</strong> accounts@rezilens.com
-
               </div>
             </div>
           </div>
