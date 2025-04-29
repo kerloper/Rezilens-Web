@@ -4,7 +4,7 @@
     <section>
 
       <div
-          class="border-t-2 border-[#F5F5F5] md:px-16 lg:px-16 xl:px-16 px-6 text-white pt-6 max-w-[1440px] mx-auto"
+          class="md:px-16 lg:px-16 xl:px-16 px-6 text-white pt-6 max-w-[1440px] mx-auto"
       >
 
 
@@ -59,6 +59,9 @@
           </div>
 
         </div>
+        <div class="text-center pb-2 text-base">
+          Copyright © 2025. All Rights Reserved for Rezilens
+        </div>
 
       </div>
     </section>
@@ -66,31 +69,78 @@
 </template>
 
 <script setup>
-
-const menuItems = ref([
-  {
-    title: "Home",
-    target: "/",
-  },
-  {
-    title: "Services",
-    target: "/services",
-  },
-  {
-    title: "Solutions",
-    target: "/solutions",
-  },
-  {
-    title: "Blog",
-    target: "/blog",
-  },
-  {
-    title: "About Us",
-    target: "/about-us",
-  },
-  {
-    title: "Contact Us",
-    target: "/contact-us",
-  },
-])
+const menuItems = ref( [
+      {
+        "title": "About Us",
+        "target": "/",
+        "subitems": [
+          {
+            "title": "Firm story & mission",
+            "target": "/"
+          },
+          {
+            "title": "Leadership team bios",
+            "target": "/"
+          },
+          {
+            "title": "Core values & differentiators",
+            "target": "/"
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "target": "/",
+        "subitems": [
+          {
+            "title": "Strategic Foresight",
+            "target": "/"
+          },
+          {
+            "title": "Intelligent Solutions (AI & Data)",
+            "target": "/"
+          },
+          {
+            "title": "Trust & Resilience (Cybersecurity & Risk)",
+            "target": "/"
+          },
+          {
+            "title": "Adaptive Transformation (Change Management & ESG)",
+            "target": "/"
+          }
+        ]
+      },
+      {
+        "title": "Industries",
+        "target": "/"
+      },
+      {
+        "title": "Resources",
+        "target": "/",
+        "subitems": [
+          {
+            "title": "Blog posts",
+            "target": "/"
+          },
+          {
+            "title": "Reports",
+            "target": "/"
+          },
+          {
+            "title": "News & Events",
+            "target": "/"
+          }
+        ]
+      },
+      {
+        "title": "Careers",
+        "target": "/"
+      },
+      {
+        "title": "Contact",
+        "description": "Inquiry forms, office locations & direct-reach information.",
+        "target": "/"
+      }
+    ]
+)
 </script>
