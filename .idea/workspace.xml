@@ -5,8 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="base">
+      <change afterPath="$PROJECT_DIR$/pages/about-us/diff/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about-us/frame-story/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about-us/leadership/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/careers/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/industries/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/resources/new/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/resources/post/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/resources/report/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/services/cybersecurity/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/services/esg/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/services/intelligent/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/services/strategic/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/containers/TheFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheFooter.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/containers/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about-us/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-us/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact-us/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact-us/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/services/[slug].vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/services/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/solutions/[slug].vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/solutions/index.vue" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +41,8 @@
       <list>
         <option value="CSS File" />
         <option value="Vue Single File Component" />
-        <option value="Vue Composition API Component" />
         <option value="JavaScript File" />
+        <option value="Vue Composition API Component" />
       </list>
     </option>
   </component>
@@ -33,6 +53,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -59,43 +80,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kerloper/Developer/rezilens/Rezilens-Web/static/rezilens&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kerloper/Developer/rezilens/Rezilens-Web/pages/contact-us",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;vue.recent.templates&quot;: [
-      &quot;Vue Composition API Component&quot;
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/static/rezilens" />
-      <recent name="$PROJECT_DIR$/public/rezilens" />
-      <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/static/flags" />
-      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/pages/contact-us" />
+      <recent name="$PROJECT_DIR$/pages/industries" />
+      <recent name="$PROJECT_DIR$/pages/resources/report" />
+      <recent name="$PROJECT_DIR$/pages/resources/post" />
+      <recent name="$PROJECT_DIR$/pages/resources/new" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/pages/services/resources" />
+      <recent name="$PROJECT_DIR$/pages/about-us" />
       <recent name="$PROJECT_DIR$/public/rezilens" />
       <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/pages/payment" />
-      <recent name="C:\Users\Amir\Desktop\Projects\Yadman\pages\tours" />
-      <recent name="C:\Users\Amir\Desktop\Projects\Yadman\components\containers" />
     </key>
   </component>
   <component name="RunManager">

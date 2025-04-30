@@ -17,7 +17,7 @@
               :class="{'text-white':isTransparent,'text-black':!isTransparent}">
             <li>
               <nuxt-link to="/">
-                <img src="../../static/rezilens/Logo-Main.png" class="h-16" alt="Rezilens"/>
+                <img src="../../static/rezilens/Logo-Main.png" class="h-16 object-contain" alt="Rezilens"/>
               </nuxt-link>
             </li>
           </ul>
@@ -25,22 +25,45 @@
         <div class="basis-1/5 flex justify-start pt-12">
 
         </div>
-        <div
-            class="basis-2/5  text-left"
-        >
+        <div class="basis-2/5 text-left">
           <ul
-              class=" left-menu-title-box hidden lg:relative lg:flex justify-end transition-all ease-in delay-300 pt-4"
-              :class="{'text-white':isTransparent,'text-black':!isTransparent}">
+              class="left-menu-title-box hidden lg:relative lg:flex justify-end transition-all ease-in delay-300 pt-4"
+              :class="{ 'text-white': isTransparent, 'text-black': !isTransparent }"
+          >
             <li
-                v-for="item in menuItems"
-                class="hover:cursor-pointer w-[85px] mx-2 px-2 text-center items-center justify-center text-sm text-white hover:text-blue-300 rounded-lg transition-all "
+                v-for="(item, index) in menuItems"
+                :key="index"
+                class="hover:cursor-pointer w-[95px] mx-1 px-2 text-center items-center justify-center text-sm   rounded-lg transition-all relative group"
+                @mouseenter="toggleSubmenu(index)"
+                @mouseleave="closeSubmenus"
             >
-              <nuxt-link :to="item.target" class="flex items-center text-black justify-center text-center">
+              <nuxt-link
+                  :to="item.target"
+                  class="flex items-center text-black justify-center text-center hover:text-pink-900"
+              >
                 {{ item.title }}
+                <span v-if="item.subitems" class="ml-1">▼</span>
               </nuxt-link>
+
+              <!-- Submenu Dropdown -->
+              <div
+                  v-if="item.subitems && activeSubmenu === index"
+                  class="absolute left-0   mt-0 w-56 text-start bg-white shadow-lg rounded-md py-1 z-50"
+              >
+                <nuxt-link
+                    v-for="(subitem, subIndex) in item.subitems"
+                    :key="subIndex"
+                    :to="subitem.target"
+                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-pink-900"
+                >
+                  {{ subitem.title }}
+                </nuxt-link>
+              </div>
             </li>
             <li>
-              <button class="py-1.5   -mt-4 text-xs bg-[#3e1660] text-white font-medium rounded-lg w-36 transition-colors duration-300">
+              <button
+                  class="py-1.5 -mt-4 text-xs bg-[#3e1660] text-white font-medium rounded-lg w-36 transition-colors duration-300"
+              >
                 Our State of the Art GRC
               </button>
             </li>
@@ -70,10 +93,7 @@
 </template>
 
 <script setup>
-import TheNavbar from "~/components/nav/TheNavbar.vue";
 import MobileNav from "~/components/nav/MobileNav.vue";
-import {useMainStore} from "~/store";
-import BasketTab from "~/components/BasketTab.vue";
 
 const header = ref(null)
 const isOpenMainNav = ref(false)
@@ -86,6 +106,16 @@ const route = useRoute()
 const path = ref(route.path)
 const isTransparent = false;
 
+const activeSubmenu = ref(null);
+
+const toggleSubmenu = (index) => {
+  activeSubmenu.value = activeSubmenu.value === index ? null : index;
+};
+
+const closeSubmenus = () => {
+  activeSubmenu.value = null;
+};
+
 const basketTabFlag = useCookie('basket_tab_flag')
 const menuItems = ref(
     [
@@ -96,19 +126,19 @@ const menuItems = ref(
       },
       {
         "title": "About Us",
-        "target": "/",
+        "target": "/about-us",
         "subitems": [
           {
             "title": "Firm story & mission",
-            "target": "/"
+            "target": "/about-us/frame-story"
           },
           {
             "title": "Leadership team bios",
-            "target": "/"
+            "target": "/about-us/leadership"
           },
           {
             "title": "Core values & differentiators",
-            "target": "/"
+            "target": "/about-us/diff"
           }
         ]
       },
@@ -118,19 +148,19 @@ const menuItems = ref(
         "subitems": [
           {
             "title": "Strategic Foresight",
-            "target": "/"
+            "target": "/services/strategic"
           },
           {
-            "title": "Intelligent Solutions (AI & Data)",
-            "target": "/"
+            "title": "Intelligent Solutions",
+            "target": "/services/intelligent"
           },
           {
-            "title": "Trust & Resilience (Cybersecurity & Risk)",
-            "target": "/"
+            "title": "Trust & Resilience",
+            "target": "/services/cybersecurity"
           },
           {
-            "title": "Adaptive Transformation (Change Management & ESG)",
-            "target": "/"
+            "title": "Adaptive Transformation",
+            "target": "/services/esg"
           }
         ]
       },
@@ -144,26 +174,26 @@ const menuItems = ref(
         "subitems": [
           {
             "title": "Blog posts",
-            "target": "/"
+            "target": "/resources/post"
           },
           {
             "title": "Reports",
-            "target": "/"
+            "target": "/resources/report"
           },
           {
             "title": "News & Events",
-            "target": "/"
+            "target": "/resources/new"
           }
         ]
       },
       {
         "title": "Careers",
-        "target": "/"
+        "target": "/careers"
       },
       {
         "title": "Contact",
         "description": "Inquiry forms, office locations & direct-reach information.",
-        "target": "/"
+        "target": "/contact-us"
       }
     ]
 )
