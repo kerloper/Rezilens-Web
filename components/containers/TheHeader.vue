@@ -130,7 +130,7 @@ const menuItems = ref(
         "subitems": [
           {
             "title": "Firm story & mission",
-            "target": "/about-us/frame-story"
+            "target": "/about-us/firm-story"
           },
           {
             "title": "Leadership team bios",
@@ -144,7 +144,7 @@ const menuItems = ref(
       },
       {
         "title": "Services",
-        "target": "/",
+        "target": "/services",
         "subitems": [
           {
             "title": "Strategic Foresight",
@@ -166,11 +166,11 @@ const menuItems = ref(
       },
       {
         "title": "Industries",
-        "target": "/"
+        "target": "/industries"
       },
       {
         "title": "Resources",
-        "target": "/",
+        "target": "/resources",
         "subitems": [
           {
             "title": "Blog posts",

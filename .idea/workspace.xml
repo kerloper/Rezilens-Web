@@ -5,28 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="base">
-      <change afterPath="$PROJECT_DIR$/pages/about-us/diff/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/about-us/frame-story/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/about-us/leadership/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/careers/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/industries/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/resources/new/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/resources/post/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/resources/report/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/services/cybersecurity/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/services/esg/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/services/intelligent/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/services/strategic/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about-us/firm-story/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/resources/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/services/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/containers/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheHeader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about-us/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-us/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about-us/diff/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-us/diff/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about-us/frame-story/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/careers/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/careers/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/contact-us/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact-us/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services/[slug].vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/solutions/[slug].vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/solutions/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/industries/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/industries/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/resources/new/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/resources/new/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/resources/post/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/resources/post/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/resources/report/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/resources/report/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/services/cybersecurity/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/cybersecurity/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/services/esg/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/esg/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/services/intelligent/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/intelligent/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/services/strategic/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/strategic/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +81,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kerloper/Developer/rezilens/Rezilens-Web/pages/contact-us",
+    "last_opened_file_path": "/Users/kerloper/Developer/rezilens/Rezilens-Web/pages/services",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -105,11 +100,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/services" />
+      <recent name="$PROJECT_DIR$/pages/resources" />
       <recent name="$PROJECT_DIR$/pages/contact-us" />
       <recent name="$PROJECT_DIR$/pages/industries" />
       <recent name="$PROJECT_DIR$/pages/resources/report" />
-      <recent name="$PROJECT_DIR$/pages/resources/post" />
-      <recent name="$PROJECT_DIR$/pages/resources/new" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pages" />
@@ -448,14 +443,6 @@
       <option name="project" value="LOCAL" />
       <updated>1686567858199</updated>
     </task>
-    <task id="LOCAL-00235" summary="set category">
-      <option name="closed" value="true" />
-      <created>1703948778722</created>
-      <option name="number" value="00235" />
-      <option name="presentableId" value="LOCAL-00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1703948778722</updated>
-    </task>
     <task id="LOCAL-00236" summary="instagram">
       <option name="closed" value="true" />
       <created>1703949317517</created>
@@ -720,7 +707,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745923872229</updated>
     </task>
-    <option name="localTasksCounter" value="269" />
+    <task id="LOCAL-00269" summary="base">
+      <option name="closed" value="true" />
+      <created>1746002857872</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1746002857873</updated>
+    </task>
+    <option name="localTasksCounter" value="270" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

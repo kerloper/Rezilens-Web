@@ -20,7 +20,7 @@
             >
             <div class="text-center pt-2">
               <h1 class="text-white md:text-5xl lg:text-5xl xl:text-5xl text-4xl font-medium" style="line-height:150%">
-                Careers
+                Resources
               </h1>
               <div class="text-white text-3xl leading-10 mt-6">
                 lorem ipsum....
