@@ -41,7 +41,7 @@
           <div class="space-y-6">
             <div class="flex items-start">
               <div class="flex-shrink-0 bg-indigo-100 rounded-lg p-2 mr-4">
-                <svg class="h-6 w-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg class="h-6 w-6 text-pink-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                 </svg>
               </div>
@@ -52,8 +52,8 @@
             </div>
 
             <div class="flex items-start">
-              <div class="flex-shrink-0 bg-blue-100 rounded-lg p-2 mr-4">
-                <svg class="h-6 w-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div class="flex-shrink-0 bg-indigo-100 rounded-lg p-2 mr-4">
+                <svg class="h-6 w-6 text-pink-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path>
                 </svg>
               </div>
@@ -64,8 +64,8 @@
             </div>
 
             <div class="flex items-start">
-              <div class="flex-shrink-0 bg-purple-100 rounded-lg p-2 mr-4">
-                <svg class="h-6 w-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div class="flex-shrink-0 bg-indigo-100 rounded-lg p-2 mr-4">
+                <svg class="h-6 w-6 text-pink-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                 </svg>
               </div>
@@ -78,7 +78,7 @@
 
           <!-- CTA Button -->
           <div class="mt-10">
-            <button class="w-full sm:w-auto px-8 py-3 bg-gradient-to-r from-indigo-600 to-blue-600 text-white font-medium rounded-lg shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300">
+            <button class="w-full sm:w-auto px-8 py-3 bg-[#3e1660] from-indigo-600 to-blue-600 text-white font-medium rounded-lg shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300">
               Submit Your Resume
               <svg class="w-4 h-4 ml-2 inline" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>

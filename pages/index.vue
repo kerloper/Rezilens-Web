@@ -39,7 +39,6 @@
       </section>
     </div>
 
-
     <section
         class="bg-white"
     >
@@ -125,67 +124,6 @@
       </div>
     </section>
 
-
-    <!--    <section-->
-    <!--        class="bg-white"-->
-    <!--    >-->
-    <!--      <div class="relative w-full max-w-[1440px] mx-auto overflow-hidden">-->
-    <!--        <div class="absolute">-->
-    <!--          <img src="../static/back-01.png" class=" w-full mb-16" alt="rezilens">-->
-    <!--        </div>-->
-
-    <!--        <div class=" ">-->
-    <!--          <div-->
-    <!--              class="grid grid-cols-8 gap-2 md:p-16 lg:p-16 xl:p-16 p-6 relative"-->
-    <!--          >-->
-
-    <!--            <div-->
-    <!--                class="col-span-8 mt-8"-->
-    <!--            >-->
-    <!--              <h1-->
-    <!--                  class="text-5xl text-[#211952]"-->
-    <!--              >-->
-    <!--                Rezilens-->
-    <!--              </h1>-->
-    <!--              <p class="text-justify mt-6 text-base leading-9 text-[#211952]">-->
-    <!--                Rezilens is a dynamic Queensland-based cybersecurity company which provides AI-enabled web-based-->
-    <!--                cybersecurity resilience assessments and technical vulnerability assessments to Australian companies and-->
-    <!--                organisations. Rezilens’ success is driven by its innovative technological edge. We’re looking for a-->
-    <!--                talented and experienced Sales Lead to take our operations to the next level by extending the sales-->
-    <!--                opportunities for our product offerings.-->
-    <!--              </p>-->
-    <!--              <p class="text-justify mt-6 text-base leading-9 text-[#211952]">-->
-    <!--                The Sales Lead is responsible for seeking out and forming partnerships with new partners and resellers-->
-    <!--                (e.g. IT MSP’s) who can deliver Rezilens’ web-based GRC and vulnerability assessment platforms to end-->
-    <!--                customers. Direct sales to end users (such as Government entities or small/medium sized enterprises) is-->
-    <!--                within the scope of this job. The Sales Lead’s responsibilities also include maintaining and deepening-->
-    <!--                the company’s relationship with its existing client base.-->
-    <!--              </p>-->
-    <!--              <p class="text-justify mt-6 text-base leading-9 text-[#211952]">-->
-    <!--                In this role, you’ll need to target markets which would be the most receptive to Rezilens’ product-->
-    <!--                offerings. Building a relationship with the stakeholders at end user or partner companies, you’ll be-->
-    <!--                expected to form and maintain long term relationships that can lead to sales for the company.-->
-    <!--              </p>-->
-    <!--              <p class="text-justify mt-6 text-base leading-9 text-[#211952]">-->
-    <!--                The compensation package includes a base salary and an uncapped commission structure, with an earning-->
-    <!--                potential well in excess of $130,000.-->
-    <!--              </p>-->
-    <!--              <div>-->
-    <!--                <button-->
-    <!--                    class="bg-[#57CCE0] text-[#211952] text-sm py-1 px-3 mt-4 rounded-md"-->
-    <!--                >-->
-    <!--                  <nuxt-link to="/about-us">-->
-    <!--                    Read More-->
-    <!--                  </nuxt-link>-->
-    <!--                </button>-->
-    <!--              </div>-->
-    <!--            </div>-->
-    <!--          </div>-->
-    <!--        </div>-->
-    <!--      </div>-->
-    <!--    </section>-->
-
-
     <div class="bg-cover w-full" style="background-image: url('/rezilens/page-banner.png')">
       <section
           class="pd:mx-16 pg:mx-16 xl:px-16 px-6 pb-10 max-w-[1440px] mx-auto"
@@ -200,11 +138,6 @@
               Our Value Proposition
             </h1>
           </div>
-          <!--        <div class="dir-rtl pt-4 col-span-2">-->
-          <!--          <nuxt-link to="/services">-->
-          <!--            <img src="../static/open.png" alt="rezilens"/>-->
-          <!--          </nuxt-link>-->
-          <!--        </div>-->
         </div>
         <div
             class="grid grid-cols-1 gap-2  "
