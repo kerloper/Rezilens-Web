@@ -6,16 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="base">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/containers/TheFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheFooter.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about-us/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-us/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/careers/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/careers/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact-us/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact-us/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/industries/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/industries/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services/cybersecurity/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/cybersecurity/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services/esg/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/esg/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/services/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services/intelligent/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/intelligent/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services/strategic/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/strategic/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -437,14 +428,6 @@
       <option name="project" value="LOCAL" />
       <updated>1686567858199</updated>
     </task>
-    <task id="LOCAL-00237" summary="footer structure">
-      <option name="closed" value="true" />
-      <created>1703999862123</created>
-      <option name="number" value="00237" />
-      <option name="presentableId" value="LOCAL-00237" />
-      <option name="project" value="LOCAL" />
-      <updated>1703999862123</updated>
-    </task>
     <task id="LOCAL-00238" summary="footer structure">
       <option name="closed" value="true" />
       <created>1704000466181</created>
@@ -709,7 +692,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746003662285</updated>
     </task>
-    <option name="localTasksCounter" value="271" />
+    <task id="LOCAL-00271" summary="base">
+      <option name="closed" value="true" />
+      <created>1746006414907</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1746006414907</updated>
+    </task>
+    <option name="localTasksCounter" value="272" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
