@@ -62,7 +62,7 @@
                     </svg>
                   </div>
                   <div>
-                    <h4 class="text-sm font-medium text-gray-500 mt-3">Phone</h4>
+                    <h4 class="text-sm font-medium text-gray-500  ">Phone</h4>
                     <p class="text-gray-900">+971 4348 3599</p>
                   </div>
                 </li>
