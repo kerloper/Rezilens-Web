@@ -23,7 +23,8 @@
                 Services
               </h1>
               <div class="text-white text-3xl leading-10 mt-6">
-                lorem ipsum....
+                Our services are organized into four strategic pillars, each representing a core competency that drives
+                resilient, responsible growth.
               </div>
             </div>
           </div>
@@ -31,6 +32,143 @@
 
         </div>
       </section>
+    </div>
+
+    <div class="py-16 px-4 sm:px-6 lg:px-8 bg-gray-50">
+      <div class="max-w-8xl mx-auto">
+        <!-- Section Header -->
+        <div class="text-center mb-16">
+          <h2 class="text-3xl font-bold text-gray-900 mb-4">Our Four Pillars</h2>
+        </div>
+
+        <!-- Pillars Grid -->
+        <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-4">
+          <!-- Pillar 1 -->
+          <nuxt-link to="/services/strategic">
+            <div class="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow">
+              <div class="mb-4">
+                <span
+                    class="inline-block bg-indigo-100 text-indigo-800 text-xs font-semibold px-3 py-1 rounded-full">1</span>
+              </div>
+              <h3 class="text-xl font-bold text-gray-900 mb-2">Strategic Foresight</h3>
+              <p class="text-indigo-600 font-medium mb-4">Anticipate. Plan. Thrive.</p>
+
+              <div class="mb-4">
+                <h4 class="font-semibold text-gray-800 mb-2">Key Services:</h4>
+                <ul class="space-y-1 pl-5 list-disc text-gray-600">
+                  <li>AI Readiness Assessment</li>
+                  <li>Cybersecurity Maturity Assessment</li>
+                  <li>ESG Roadmapping</li>
+                  <li>Technology Investment Planning</li>
+                </ul>
+              </div>
+
+              <div>
+                <h4 class="font-semibold text-gray-800 mb-2">Outcomes:</h4>
+                <ul class="space-y-1 pl-5 list-disc text-gray-600">
+                  <li>Future-ready strategic plans</li>
+                  <li>Prioritized technology and risk management roadmaps</li>
+                  <li>Alignment with long-term ESG goals</li>
+                </ul>
+              </div>
+            </div>
+          </nuxt-link>
+          <!-- Pillar 2 -->
+
+          <nuxt-link to="/services/intelligent">
+            <div class="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow">
+              <div class="mb-4">
+                <span
+                    class="inline-block bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">2</span>
+              </div>
+              <h3 class="text-xl font-bold text-gray-900 mb-2">Intelligent Solutions (AI & Data)</h3>
+              <p class="text-blue-600 font-medium mb-4">From Insight to Innovation</p>
+
+              <div class="mb-4">
+                <h4 class="font-semibold text-gray-800 mb-2">Key Services:</h4>
+                <ul class="space-y-1 pl-5 list-disc text-gray-600">
+                  <li>AI Use Case Discovery</li>
+                  <li>Custom AI Development</li>
+                  <li>AI System Integration</li>
+                  <li>Data Strategy & Optimization</li>
+                </ul>
+              </div>
+
+              <div>
+                <h4 class="font-semibold text-gray-800 mb-2">Outcomes:</h4>
+                <ul class="space-y-1 pl-5 list-disc text-gray-600">
+                  <li>Enhanced operational efficiency</li>
+                  <li>New revenue streams and business-model innovation</li>
+                  <li>Competitive differentiation through data</li>
+                </ul>
+              </div>
+            </div>
+          </nuxt-link>
+
+          <!-- Pillar 3 -->
+          <nuxt-link to="/services/cybersecurity">
+            <div class="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow">
+              <div class="mb-4">
+              <span
+                  class="inline-block bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">3</span>
+              </div>
+              <h3 class="text-xl font-bold text-gray-900 mb-2">Trust & Resilience (Cybersecurity & Risk)</h3>
+              <p class="text-green-600 font-medium mb-4">Secure. Compliant. Trusted.</p>
+
+              <div class="mb-4">
+                <h4 class="font-semibold text-gray-800 mb-2">Key Services:</h4>
+                <ul class="space-y-1 pl-5 list-disc text-gray-600">
+                  <li>Cybersecurity Implementation</li>
+                  <li>Privacy Program Development</li>
+                  <li>ESG Metrics & Reporting</li>
+                  <li>Regulatory Compliance Support</li>
+                </ul>
+              </div>
+
+              <div>
+                <h4 class="font-semibold text-gray-800 mb-2">Outcomes:</h4>
+                <ul class="space-y-1 pl-5 list-disc text-gray-600">
+                  <li>Reduced operational and cyber risk</li>
+                  <li>Regulatory assurance and audit readiness</li>
+                  <li>Elevated stakeholder trust</li>
+                </ul>
+              </div>
+            </div>
+          </nuxt-link>
+
+          <!-- Pillar 4 -->
+          <nuxt-link to="/services/esg">
+          <div class="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow">
+            <div class="mb-4">
+              <span
+                  class="inline-block bg-purple-100 text-purple-800 text-xs font-semibold px-3 py-1 rounded-full">4</span>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-2">Adaptive Transformation (Change Management & ESG)</h3>
+            <p class="text-purple-600 font-medium mb-4">Empowering People and Systems</p>
+
+            <div class="mb-4">
+              <h4 class="font-semibold text-gray-800 mb-2">Key Services:</h4>
+              <ul class="space-y-1 pl-5 list-disc text-gray-600">
+                <li>Change Readiness Assessment</li>
+                <li>Cultural Transformation Planning</li>
+                <li>Skills Gap Analysis</li>
+                <li>Transformation Metrics & Reporting</li>
+              </ul>
+            </div>
+
+            <div>
+              <h4 class="font-semibold text-gray-800 mb-2">Outcomes:</h4>
+              <ul class="space-y-1 pl-5 list-disc text-gray-600">
+                <li>Scalable, sustainable change initiatives</li>
+                <li>Workforce agility and capability uplift</li>
+                <li>Enhanced organizational adaptability</li>
+              </ul>
+            </div>
+          </div>
+          </nuxt-link>
+
+        </div>
+      </div>
     </div>
 
   </section>

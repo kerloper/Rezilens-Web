@@ -17,7 +17,8 @@
             <div class="    my-3">
               <div class="text-sm">
                 <strong>Address:
-                </strong>Meydan Free Zone, Meydan Hotel, M Floor, No.1109
+                </strong>113, SOL Bay, Business Bay, Dubai, UAE
+                PO Box: 25313
                 <br/>
                 <strong>Mobile:</strong> +971 4348 3599
                 <br/>

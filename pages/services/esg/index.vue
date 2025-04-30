@@ -18,15 +18,71 @@
             >
             <div class="text-center pt-2">
               <h1 class="text-white md:text-5xl lg:text-5xl xl:text-5xl text-4xl font-medium" style="line-height:150%">
-                 Adaptive Transformation
+                Adaptive Transformation (Change Management & ESG)
               </h1>
               <div class="text-white text-3xl leading-10 mt-6">
-                lorem ipsum....
+                Empowering People and Systems
               </div>
             </div>
           </div>
         </div>
       </section>
+    </div>
+
+    <div class="bg-white p-6 transition-all duration-300 border-l-4">
+
+      <!-- Key Services -->
+      <div class="services-section mb-5">
+        <h3 class="text-gray-800 font-bold mb-3 flex items-center">
+          <svg class="w-5 h-5 mr-2 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+          </svg>
+          Key Services:
+        </h3>
+        <ul class="space-y-2 pl-7">
+          <li class="flex items-start">
+            <span class="bullet-indicator text-indigo-500 mr-2">●</span>
+            <span class="text-gray-700">Change Readiness Assessment</span>
+          </li>
+          <li class="flex items-start">
+            <span class="bullet-indicator text-indigo-500 mr-2">●</span>
+            <span class="text-gray-700">Cultural Transformation Planning</span>
+          </li>
+          <li class="flex items-start">
+            <span class="bullet-indicator text-indigo-500 mr-2">●</span>
+            <span class="text-gray-700">Skills Gap Analysis</span>
+          </li>
+          <li class="flex items-start">
+            <span class="bullet-indicator text-indigo-500 mr-2">●</span>
+            <span class="text-gray-700">Transformation Metrics & Reporting</span>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Outcomes -->
+      <div class="outcomes-section">
+        <h3 class="text-gray-800 font-bold mb-3 flex items-center">
+          <svg class="w-5 h-5 mr-2 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+          </svg>
+          Outcomes:
+        </h3>
+        <ul class="space-y-2 pl-7">
+
+          <li class="flex items-start">
+            <span class="bullet-indicator text-green-500 mr-2">✓</span>
+            <span class="text-gray-700">Scalable, sustainable change initiatives</span>
+          </li>
+          <li class="flex items-start">
+            <span class="bullet-indicator text-green-500 mr-2">✓</span>
+            <span class="text-gray-700">Workforce agility and capability uplift</span>
+          </li>
+          <li class="flex items-start">
+            <span class="bullet-indicator text-green-500 mr-2">✓</span>
+            <span class="text-gray-700">Enhanced organizational adaptability</span>
+          </li>
+        </ul>
+      </div>
     </div>
 
   </section>
