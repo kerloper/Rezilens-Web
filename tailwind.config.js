@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'sans': ['"Exo 2"'],
+        'sans': ['"Titillium Web"', 'sans-serif'],
       },
       colors: {
         primary: '#af0365', // This is a pink color - adjust the hex code to your preferred pink
@@ -37,4 +37,3 @@ module.exports = {
     // require('flowbite/plugin')
   ],
 }
-

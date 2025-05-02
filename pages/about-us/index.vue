@@ -37,7 +37,7 @@
         <div class="lg:grid lg:grid-cols-3 lg:gap-8">
           <div class="space-y-8 lg:col-span-2">
             <div>
-              <h2 class="text-3xl font-extrabold text-gray-900">Our Approach</h2>
+              <h2 class="text-3xl font-semibold text-gray-900">Our Approach</h2>
               <p class="mt-4 text-lg text-gray-500">
                 By weaving together strategic foresight, intelligent solutions, cybersecurity resilience, and adaptive
                 transformation, we guide clients from vision to value—ensuring they are equipped to compete today and
@@ -47,7 +47,7 @@
 
             <!-- Our Story Section -->
             <div class="mt-12">
-              <h2 class="text-3xl font-extrabold text-gray-900">Our Story</h2>
+              <h2 class="text-3xl font-semibold text-gray-900">Our Story</h2>
               <div class="mt-6 border-t border-gray-200 pt-6">
                 <p class="text-lg text-gray-500">
                   Born out of a shared passion for innovation and impact, our firm was founded by senior leaders with
@@ -65,7 +65,7 @@
 
             <!-- Mission Section -->
             <div class="mt-12">
-              <h2 class="text-3xl font-extrabold text-gray-900">Our Mission</h2>
+              <h2 class="text-3xl font-semibold text-gray-900">Our Mission</h2>
               <div class="mt-6 border-t border-gray-200 pt-6">
                 <p class="text-lg text-gray-500">
                   To empower organizations to anticipate disruption, harness intelligent technology, manage risk
@@ -124,7 +124,7 @@
                 advantage.
               </p>
               <div class="mt-6">
-                <a href="#"
+                <a href="/contact-us"
                    class="inline-flex btn-secondary items-center px-6 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-primary hover:bg-secondary">
                   Contact Us
                 </a>

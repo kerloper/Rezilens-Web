@@ -38,10 +38,6 @@
       <div class="max-w-7xl mx-auto">
 
         <!-- Section Header -->
-        <div class="text-center mb-16">
-          <h2 class="text-3xl font-bold text-gray-900 mb-4">Our Four Pillars</h2>
-        </div>
-
         <!-- Pillars Grid -->
         <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-2">
           <!-- Pillar 1 -->
