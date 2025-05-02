@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(global) : set color">
+    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(global) : about us">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/containers/TheFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheFooter.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/containers/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheHeader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about-us/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-us/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,7 +322,7 @@
       <workItem from="1745751850242" duration="3222000" />
       <workItem from="1745794497720" duration="5094000" />
       <workItem from="1745932088257" duration="932000" />
-      <workItem from="1746184902936" duration="3081000" />
+      <workItem from="1746184902936" duration="3226000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676985169343</created>
@@ -430,14 +428,6 @@
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1686567858199</updated>
-    </task>
-    <task id="LOCAL-00242" summary="remove feature from bottom">
-      <option name="closed" value="true" />
-      <created>1704437208772</created>
-      <option name="number" value="00242" />
-      <option name="presentableId" value="LOCAL-00242" />
-      <option name="project" value="LOCAL" />
-      <updated>1704437208772</updated>
     </task>
     <task id="LOCAL-00243" summary="filter">
       <option name="closed" value="true" />
@@ -703,7 +693,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746186861621</updated>
     </task>
-    <option name="localTasksCounter" value="276" />
+    <task id="LOCAL-00276" summary="chore(global) : about us">
+      <option name="closed" value="true" />
+      <created>1746188016092</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1746188016092</updated>
+    </task>
+    <option name="localTasksCounter" value="277" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -721,7 +719,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="header" />
     <MESSAGE value="set category" />
     <MESSAGE value="instagram" />
     <MESSAGE value="footer structure" />
@@ -746,7 +743,8 @@
     <MESSAGE value="initialize" />
     <MESSAGE value="base" />
     <MESSAGE value="chore(global) : set color" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore(global) : set color" />
+    <MESSAGE value="chore(global) : about us" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore(global) : about us" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

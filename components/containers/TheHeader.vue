@@ -73,21 +73,20 @@
       </div>
 
       <!--      mobile-->
-      <div class="w-full z-[100]  flex items-center justify-center fixed bottom-0">
-        <ul
-            class="  z-[100] shadow-xl bottom-0 bg-sky-600 mx-auto mb-4 flex rounded-lg justify-center items-center lg:hidden
-            transition-all ease-in delay-300">
+<!--      <div class="w-full z-[100]  flex items-center justify-center fixed bottom-0">-->
+<!--        <ul-->
+<!--            class="  z-[100] shadow-xl bottom-0 bg-sky-600 mx-auto mb-4 flex rounded-lg justify-center items-center lg:hidden-->
+<!--            transition-all ease-in delay-300">-->
 
-          <li class="py-2 px-4 hover:cursor-pointer hover:text-white   rounded-lg transition-all "
-              @click="openMobileNav">
-            <Icon name="ic:round-menu" class="text-2xl text-white " v-if="!isOpenMobileNav"/>
-            <Icon name="gg:close" class="text-2xl text-white " v-else/>
-          </li>
+<!--          <li class="py-2 px-4 hover:cursor-pointer hover:text-white   rounded-lg transition-all "-->
+<!--              @click="openMobileNav">-->
+<!--            <Icon name="ic:round-menu" class="text-2xl text-white " v-if="!isOpenMobileNav"/>-->
+<!--            <Icon name="gg:close" class="text-2xl text-white " v-else/>-->
+<!--          </li>-->
 
-        </ul>
-
-      </div>
-      <MobileNav :isOpenMobileNav="isOpenMobileNav" @close-mobile-nav="closeMobileNav"/>
+<!--        </ul> -->
+<!--      </div>-->
+<!--      <MobileNav :isOpenMobileNav="isOpenMobileNav" @close-mobile-nav="closeMobileNav"/>-->
     </client-only>
   </div>
 
