@@ -177,7 +177,7 @@
             </p>
           </div>
           <div class="text-center pt-6">
-            <button class="px-6 py-3 bg-[#3e1660] text-white font-medium rounded-lg transition-colors duration-300">
+            <button class="px-6 py-3 bg-primary text-white font-medium rounded-lg transition-colors duration-300">
               Book a Demo
             </button>
           </div>
@@ -239,7 +239,7 @@
         </div>
 
         <div class="mt-12 text-center">
-          <button class="px-6 py-3 bg-[#3e1660] text-white font-medium rounded-lg   transition-colors duration-300">
+          <button class="px-6 py-3 bg-primary text-white font-medium rounded-lg hover:bg-secondary transition-colors duration-300">
             Request Detailed Case Study
           </button>
         </div>

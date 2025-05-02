@@ -88,10 +88,10 @@
             <div class="bg-white p-8 rounded-xl shadow-sm h-full flex flex-col">
               <h3 class="text-xl font-semibold text-gray-900 mb-6">How can we help?</h3>
               <div class="grid gap-4 sm:grid-cols-2 mb-8">
-                <button class="px-6 py-3 bg-[#3e1660] text-white font-medium rounded-lg hover:bg-indigo-700 transition-colors">
+                <button class="px-6 py-3 bg-primary text-white font-medium rounded-lg hover:bg-secondary transition-colors">
                   Contact Form
                 </button>
-                <button class="px-6 py-3 border border-[#3e1660] text-[#3e1660] font-medium rounded-lg hover:bg-indigo-50 transition-colors">
+                <button class="px-6 py-3 border border-primary text-primary font-medium rounded-lg hover:bg-indigo-50 transition-colors">
                   Request a Consultation
                 </button>
               </div>

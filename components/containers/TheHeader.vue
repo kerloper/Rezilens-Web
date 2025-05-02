@@ -62,7 +62,7 @@
             </li>
             <li>
               <button
-                  class="py-1.5 -mt-4 text-xs bg-[#3e1660] text-white font-medium rounded-lg w-36 transition-colors duration-300"
+                  class="py-1.5 -mt-4 text-xs bg-primary hover:bg-secondary text-white font-medium rounded-lg w-36 transition-colors duration-300"
               >
                 Our State of the Art GRC
               </button>

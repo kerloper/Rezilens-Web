@@ -78,7 +78,7 @@
 
           <!-- CTA Button -->
           <div class="mt-10">
-            <button class="w-full sm:w-auto px-8 py-3 bg-[#3e1660] from-indigo-600 to-blue-600 text-white font-medium rounded-lg shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300">
+            <button class="w-full sm:w-auto px-8 py-3 bg-primary from-indigo-600 to-blue-600 text-white font-medium rounded-lg shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300">
               Submit Your Resume
               <svg class="w-4 h-4 ml-2 inline" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
