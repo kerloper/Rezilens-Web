@@ -1,14 +1,15 @@
 <template>
   <div ref="header"
-       class="max-w-[1440px] mx-auto top-0 transition-all ease-in duration-500 z-20"
+       class="mx-auto top-0 transition-all ease-in duration-500 z-20 max-w-7xl"
   >
     <client-only>
-      <div class="pt-10 mb-4 md:hidden lg:hidden xl:hidden  ">
+      <div class="pt-10 mb-4 md:hidden lg:hidden xl:hidden">
         <nuxt-link to="/">
-          <img src="../../static/rezilens/Logo-Main.png" class="  mx-auto" alt="rezilens"/>
+          <img src="../../static/rezilens/Logo-Main.png" class="mx-auto" alt="rezilens"/>
         </nuxt-link>
       </div>
-      <div class="md:flex lg:flex xl:flex hidden flex-row py-6 md:pl-16 lg:pl-16 xl:pl-16 md:pr-12 lg:pr-12 xl:pr-12 ">
+      <div
+          class="md:flex lg:flex xl:flex hidden flex-row py-6 mx-auto px-4 sm:px-6 lg:px-8 md:pr-12 lg:pr-12 xl:pr-12">
         <div
             class="basis-2/5 text-right"
         >
@@ -17,7 +18,7 @@
               :class="{'text-white':isTransparent,'text-black':!isTransparent}">
             <li>
               <nuxt-link to="/">
-                <img src="../../static/rezilens/Logo-Main.png" class="h-16 object-contain" alt="Rezilens"/>
+                <img src="../../static/rezilens/Logo-Main.png" class="max-h-16 object-contain" alt="Rezilens"/>
               </nuxt-link>
             </li>
           </ul>

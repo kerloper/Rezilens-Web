@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="base">
+    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(global) : set color">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/containers/TheFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheFooter.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/containers/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheHeader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/careers/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/careers/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact-us/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact-us/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about-us/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about-us/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,7 +324,7 @@
       <workItem from="1745751850242" duration="3222000" />
       <workItem from="1745794497720" duration="5094000" />
       <workItem from="1745932088257" duration="932000" />
-      <workItem from="1746184902936" duration="1866000" />
+      <workItem from="1746184902936" duration="3081000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676985169343</created>
@@ -432,14 +430,6 @@
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1686567858199</updated>
-    </task>
-    <task id="LOCAL-00241" summary="enamad">
-      <option name="closed" value="true" />
-      <created>1704004435319</created>
-      <option name="number" value="00241" />
-      <option name="presentableId" value="LOCAL-00241" />
-      <option name="project" value="LOCAL" />
-      <updated>1704004435319</updated>
     </task>
     <task id="LOCAL-00242" summary="remove feature from bottom">
       <option name="closed" value="true" />
@@ -705,7 +695,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746010593931</updated>
     </task>
-    <option name="localTasksCounter" value="275" />
+    <task id="LOCAL-00275" summary="chore(global) : set color">
+      <option name="closed" value="true" />
+      <created>1746186861621</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1746186861621</updated>
+    </task>
+    <option name="localTasksCounter" value="276" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -723,7 +721,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add gift" />
     <MESSAGE value="header" />
     <MESSAGE value="set category" />
     <MESSAGE value="instagram" />
@@ -748,7 +745,8 @@
     <MESSAGE value="improve" />
     <MESSAGE value="initialize" />
     <MESSAGE value="base" />
-    <option name="LAST_COMMIT_MESSAGE" value="base" />
+    <MESSAGE value="chore(global) : set color" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore(global) : set color" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

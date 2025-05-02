@@ -4,7 +4,6 @@
 
 <template>
   <section class="min-h-[80vh]">
-
     <div class="bg-cover w-full" style="background-image: url('/rezilens/page-banner.png')">
       <section
           class="md:mx-16 lg:mx-16 xl:mx-16 mx-6 pb-10 "
@@ -32,66 +31,108 @@
         </div>
       </section>
     </div>
-    <div class="grid   gird-cols-1 gap-2 max-w-[1440px] mx-auto">
-      <div class="py-12 px-4 sm:px-6 lg:px-8 bg-white">
-        <div class=" pl-10 mx-auto space-y-12">
-          <!-- Section 1 -->
-          <section class="space-y-6">
-            <div class="space-y-4">
-              <h2 class="text-2xl font-semibold text-gray-800">Who We Are</h2>
-              <p class="text-lg text-gray-600">
-                A multidisciplinary consulting firm specializing in digital transformation, strategic foresight, and
-                sustainability.
-                We empower organizations to grow responsibly through advanced technologies, cyber resilience, and
-                adaptive strategies.
+      <!-- Main Content -->
+      <div class="max-w-7xl mx-auto px-4 py-16 sm:px-6 lg:px-8">
+        <!-- Overview Section -->
+        <div class="lg:grid lg:grid-cols-3 lg:gap-8">
+          <div class="space-y-8 lg:col-span-2">
+            <div>
+              <h2 class="text-3xl font-extrabold text-gray-900">Our Approach</h2>
+              <p class="mt-4 text-lg text-gray-500">
+                By weaving together strategic foresight, intelligent solutions, cybersecurity resilience, and adaptive
+                transformation, we guide clients from vision to value—ensuring they are equipped to compete today and
+                prepared for tomorrow's challenges.
               </p>
             </div>
 
-            <div class="space-y-4">
-              <h2 class="text-2xl font-semibold text-gray-800">Areas of Expertise</h2>
-              <ul class="space-y-2 pl-5 list-disc text-gray-600">
-                <li><span class="font-medium">Artificial Intelligence (AI):</span> Strategy, development, integration
-                </li>
-                <li><span class="font-medium">Cybersecurity & Privacy:</span> Risk mitigation, compliance, secure
-                  architecture
-                </li>
-                <li><span class="font-medium">ESG & Sustainability:</span> Frameworks, metrics and impact strategies
-                </li>
-                <li><span class="font-medium">Organizational Transformation:</span> Change enablement and capability
-                  building
-                </li>
-                <li><span class="font-medium">Strategic Planning & Investment:</span> Foresight and ROI-based planning
-                </li>
-              </ul>
+            <!-- Our Story Section -->
+            <div class="mt-12">
+              <h2 class="text-3xl font-extrabold text-gray-900">Our Story</h2>
+              <div class="mt-6 border-t border-gray-200 pt-6">
+                <p class="text-lg text-gray-500">
+                  Born out of a shared passion for innovation and impact, our firm was founded by senior leaders with
+                  decades of experience across AI, data science, cybersecurity, sustainability, and change management.
+                </p>
+                <p class="mt-4 text-lg text-gray-500">
+                  Witnessing firsthand how siloed initiatives too often fall short, we set out to create an integrated
+                  advisory model—one that combines big-picture strategy with deep technical execution and
+                  people-centered change. From our first engagement—designing a data-driven supply-chain dashboard—to
+                  leading large-scale digital transformations, our journey has been defined by delivering measurable
+                  outcomes and building enduring partnerships.
+                </p>
+              </div>
             </div>
-          </section>
 
-          <!-- Section 2 -->
-          <section class="space-y-4">
-            <h2 class="text-2xl font-semibold text-gray-800">Core Capabilities</h2>
-            <ul class="space-y-2 pl-5 list-disc text-gray-600">
-              <li>Strategic foresight & tech planning</li>
-              <li>AI readiness, use case design & custom development</li>
-              <li>Cybersecurity implementation & maturity building</li>
-              <li>ESG strategy, metrics & disclosure support</li>
-              <li>Organizational change & skills transformation</li>
-            </ul>
-          </section>
+            <!-- Mission Section -->
+            <div class="mt-12">
+              <h2 class="text-3xl font-extrabold text-gray-900">Our Mission</h2>
+              <div class="mt-6 border-t border-gray-200 pt-6">
+                <p class="text-lg text-gray-500">
+                  To empower organizations to anticipate disruption, harness intelligent technology, manage risk
+                  responsibly, and evolve their culture—creating resilient, sustainable enterprises that generate value
+                  for all stakeholders.
+                </p>
+              </div>
+            </div>
+          </div>
 
-          <!-- Section 3 -->
-          <section class="space-y-4">
-            <h2 class="text-2xl font-semibold text-gray-800">Outcomes We Enable</h2>
-            <ul class="space-y-2 pl-5 list-disc text-gray-600">
-              <li>Improved operational resilience & efficiency</li>
-              <li class="pl-4">- Future-ready technology adoption</li>
-              <li class="pl-4">- Compliance & risk reduction</li>
-              <li>ESG performance uplift</li>
-              <li>Change-ready cultures & capabilities</li>
-            </ul>
-          </section>
+          <!-- Sidebar with Value Proposition -->
+          <div class="mt-12 lg:mt-0">
+            <div class="bg-indigo-50 p-8 rounded-lg">
+              <h3 class="text-2xl font-bold text-gray-900">Our Value Proposition</h3>
+
+              <div class="mt-6 space-y-6">
+                <div>
+                  <h4 class="text-lg font-medium text-secondary">End-to-End Integration</h4>
+                  <p class="mt-2 text-gray-600">
+                    We don't just advise on strategy or build a point solution—we connect foresight, AI innovation,
+                    security, ESG, and change management into a unified roadmap.
+                  </p>
+                </div>
+
+                <div>
+                  <h4 class="text-lg font-medium text-secondary">Tailored Expertise</h4>
+                  <p class="mt-2 text-gray-600">
+                    Our senior consultants blend domain depth (e.g., energy, financial services, manufacturing) with
+                    functional mastery, ensuring every recommendation is both visionary and practical.
+                  </p>
+                </div>
+
+                <div>
+                  <h4 class="text-lg font-medium text-secondary">Measurable Impact</h4>
+                  <p class="mt-2 text-gray-600">
+                    We set clear KPIs and track always-on dashboards so you see ROI at every stage—from early POCs to
+                    enterprise-scale rollouts.
+                  </p>
+                </div>
+
+                <div>
+                  <h4 class="text-lg font-medium text-secondary">Sustainable Advantage</h4>
+                  <p class="mt-2 text-gray-600">
+                    By embedding ESG principles and upskilling your people, we help you not only comply with evolving
+                    regulations but also attract talent, investors, and customers who demand purpose-driven leadership.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- CTA Section -->
+            <div class="mt-8 bg-gray-50 p-8 rounded-lg">
+              <h3 class="text-2xl font-bold text-gray-900">Ready to Transform?</h3>
+              <p class="mt-4 text-gray-600">
+                Partner with us to transform complexity into clarity, risk into resilience, and change into competitive
+                advantage.
+              </p>
+              <div class="mt-6">
+                <a href="#"
+                   class="inline-flex btn-secondary items-center px-6 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-primary hover:bg-secondary">
+                  Contact Us
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
   </section>
 </template>
 
