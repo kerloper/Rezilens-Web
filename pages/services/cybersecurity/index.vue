@@ -30,59 +30,307 @@
     </div>
 
 
-    <div class="bg-white p-6 transition-all duration-300 border-l-4">
+    <!-- Cybersecurity & Compliance Services -->
+    <div class="py-16 bg-gray-50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
-      <!-- Key Services -->
-      <div class="services-section mb-5">
-        <h3 class="text-gray-800 font-bold mb-3 flex items-center">
-          <svg class="w-5 h-5 mr-2 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
-          </svg>
-          Key Services:
-        </h3>
-        <ul class="space-y-2 pl-7">
-          <li class="flex items-start">
-            <span class="bullet-indicator text-indigo-500 mr-2">●</span>
-            <span class="text-gray-700">Cybersecurity Implementation</span>
-          </li>
-          <li class="flex items-start">
-            <span class="bullet-indicator text-indigo-500 mr-2">●</span>
-            <span class="text-gray-700">Privacy Program Development</span>
-          </li>
-          <li class="flex items-start">
-            <span class="bullet-indicator text-indigo-500 mr-2">●</span>
-            <span class="text-gray-700">ESG Metrics & Reporting</span>
-          </li>
-          <li class="flex items-start">
-            <span class="bullet-indicator text-indigo-500 mr-2">●</span>
-            <span class="text-gray-700">Regulatory Compliance Support</span>
-          </li>
-        </ul>
-      </div>
+        <!-- Cybersecurity Implementation -->
+        <div class="mb-24">
+          <div class="bg-gradient-to-br from-white to-gray-50 p-8 rounded-2xl shadow-sm border border-gray-100">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+              <!-- Left Column -->
+              <div class="space-y-6">
+                <div>
+                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-red-100 text-red-800 mb-3">Security</span>
+                  <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Cybersecurity <span class="text-primary">Implementation</span></h2>
+                  <p class="mt-4 text-lg text-gray-600 leading-relaxed">
+                    Deployment and configuration of technical controls, processes, and policies to protect digital assets—from network security and endpoint protection to identity management and continuous monitoring.
+                  </p>
+                </div>
 
-      <!-- Outcomes -->
-      <div class="outcomes-section">
-        <h3 class="text-gray-800 font-bold mb-3 flex items-center">
-          <svg class="w-5 h-5 mr-2 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
-          </svg>
-          Outcomes:
-        </h3>
-        <ul class="space-y-2 pl-7">
+                <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100">
+                  <h3 class="text-xl font-semibold text-gray-900 flex items-center">
+                    <svg class="w-5 h-5 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                    </svg>
+                    Key Use Cases
+                  </h3>
+                  <ul class="mt-4 space-y-3">
+                    <li class="flex items-start group">
+                  <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                    <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                      <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                  </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                    <span class="font-medium">Network Segmentation & Zero Trust:</span> Implementing micro-segmentation to limit lateral movement
+                  </span>
+                    </li>
+                    <li class="flex items-start group">
+                  <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                    <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                      <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                  </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                    <span class="font-medium">Endpoint Detection & Response (EDR):</span> Monitoring and automatically remediating suspicious activity
+                  </span>
+                    </li>
+                    <li class="flex items-start group">
+                  <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                    <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                      <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                  </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                    <span class="font-medium">Threat Intelligence Integration:</span> Correlating indicators of compromise in real-time
+                  </span>
+                    </li>
+                    <li class="flex items-start group">
+                  <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                    <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                      <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                  </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                    <span class="font-medium">Security Automation:</span> Orchestrating routine tasks with SOAR playbooks
+                  </span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
 
-          <li class="flex items-start">
-            <span class="bullet-indicator text-green-500 mr-2">✓</span>
-            <span class="text-gray-700">Reduced operational and cyber risk</span>
-          </li>
-          <li class="flex items-start">
-            <span class="bullet-indicator text-green-500 mr-2">✓</span>
-            <span class="text-gray-700">Regulatory assurance and audit readiness</span>
-          </li>
-          <li class="flex items-start">
-            <span class="bullet-indicator text-green-500 mr-2">✓</span>
-            <span class="text-gray-700">Elevated stakeholder trust</span>
-          </li>
-        </ul>
+              <!-- Right Column -->
+              <div>
+                <div class="sticky top-6">
+                  <h3 class="text-xl font-semibold text-gray-900 mb-6">Value for Organizations</h3>
+                  <div class="space-y-4">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                      <div class="flex items-start">
+                        <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
+                          <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"></path>
+                          </svg>
+                        </div>
+                        <div class="ml-4">
+                          <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Reduced Attack Surface</h4>
+                          <p class="mt-2 text-gray-600">
+                            Hardened networks and endpoints shrink the window of exposure for adversaries.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                      <div class="flex items-start">
+                        <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
+                          <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                          </svg>
+                        </div>
+                        <div class="ml-4">
+                          <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Faster Incident Response</h4>
+                          <p class="mt-2 text-gray-600">
+                            Automated workflows cut mean time to identify and remediate threats.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                      <div class="flex items-start">
+                        <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
+                          <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 5a1 1 0 011-1h14a1 1 0 011 1v2a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM4 13a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H5a1 1 0 01-1-1v-6zM16 13a1 1 0 011-1h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6z"></path>
+                          </svg>
+                        </div>
+                        <div class="ml-4">
+                          <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Scalable Security Posture</h4>
+                          <p class="mt-2 text-gray-600">
+                            Modular implementation allows security to grow with your business.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Privacy Program Development -->
+        <div class="mb-24">
+          <div class="bg-gradient-to-br from-white to-gray-50 p-8 rounded-2xl shadow-sm border border-gray-100">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+              <!-- Left Column -->
+              <div class="space-y-6">
+                <div>
+                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-indigo-100 text-indigo-800 mb-3">Compliance</span>
+                  <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Privacy Program <span class="text-primary">Development</span></h2>
+                  <p class="mt-4 text-lg text-gray-600 leading-relaxed">
+                    Establishes governance, policies, and processes to manage personal data throughout its lifecycle, ensuring compliance with GDPR, CCPA, LGPD and other regulations.
+                  </p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100">
+                  <h3 class="text-xl font-semibold text-gray-900 flex items-center">
+                    <svg class="w-5 h-5 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                    </svg>
+                    Key Use Cases
+                  </h3>
+                  <ul class="mt-4 space-y-3">
+                    <li class="flex items-start group">
+                  <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                    <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                      <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                  </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                    <span class="font-medium">Data Mapping & Classification:</span> Cataloging personal data flows across applications
+                  </span>
+                    </li>
+                    <li class="flex items-start group">
+                  <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                    <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                      <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                  </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                    <span class="font-medium">Privacy Impact Assessments:</span> Evaluating new projects for privacy risks
+                  </span>
+                    </li>
+                    <li class="flex items-start group">
+                  <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                    <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                      <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                  </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                    <span class="font-medium">Consent & Preference Management:</span> Implementing solutions to capture user consents
+                  </span>
+                    </li>
+                    <li class="flex items-start group">
+                  <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                    <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                      <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                    </svg>
+                  </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                    <span class="font-medium">Third-Party Risk Management:</span> Assessing vendors with standardized agreements
+                  </span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+              <!-- Right Column -->
+              <div>
+                <div class="sticky top-6">
+                  <h3 class="text-xl font-semibold text-gray-900 mb-6">Value for Organizations</h3>
+                  <div class="space-y-4">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
+                      <div class="flex items-start">
+                        <div class="flex-shrink-0 bg-indigo-50 p-2 rounded-lg">
+                          <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                          </svg>
+                        </div>
+                        <div class="ml-4">
+                          <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Regulatory Alignment</h4>
+                          <p class="mt-2 text-gray-600">
+                            Reduces likelihood of fines and reputational damage from non-compliance.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
+                      <div class="flex items-start">
+                        <div class="flex-shrink-0 bg-indigo-50 p-2 rounded-lg">
+                          <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path>
+                          </svg>
+                        </div>
+                        <div class="ml-4">
+                          <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Customer Trust</h4>
+                          <p class="mt-2 text-gray-600">
+                            Transparent data-handling practices strengthen brand loyalty.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
+                      <div class="flex items-start">
+                        <div class="flex-shrink-0 bg-indigo-50 p-2 rounded-lg">
+                          <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                          </svg>
+                        </div>
+                        <div class="ml-4">
+                          <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Operational Consistency</h4>
+                          <p class="mt-2 text-gray-600">
+                            Reduces ad-hoc handling errors with repeatable, auditable workflows.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Expected Outcomes Section -->
+        <div class="bg-gradient-to-br from-primary to-secondary/40  p-8 rounded-2xl shadow-lg">
+          <div class="text-center max-w-3xl mx-auto">
+            <h2 class="text-3xl md:text-4xl font-bold text-white tracking-tight">Expected <span class="text-secondary-light">Outcomes</span></h2>
+            <p class="mt-4 text-lg text-blue-200 leading-relaxed">
+              Comprehensive security and compliance results that protect your organization while building trust
+            </p>
+          </div>
+
+          <div class="mt-10 grid gap-6 md:grid-cols-3">
+            <div class="bg-white bg-opacity-10 backdrop-blur-sm p-6 rounded-xl border border-white border-opacity-20 hover:border-opacity-30 transition-all">
+              <div class="flex items-center">
+                <svg class="w-8 h-8 text-blue-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                </svg>
+                <h3 class="ml-3 text-xl font-semibold text-white">Reduced Operational Risk</h3>
+              </div>
+              <p class="mt-4 text-primary-light">
+                Robust technical controls, governance structures, and proactive monitoring.
+              </p>
+            </div>
+
+            <div class="bg-white bg-opacity-10 backdrop-blur-sm p-6 rounded-xl border border-white border-opacity-20 hover:border-opacity-30 transition-all">
+              <div class="flex items-center">
+                <svg class="w-8 h-8 text-blue-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path>
+                </svg>
+                <h3 class="ml-3 text-xl font-semibold text-white">Regulatory Assurance</h3>
+              </div>
+              <p class="mt-4 text-primary-light">
+                Clear policies, documented processes, and regular compliance validations.
+              </p>
+            </div>
+
+            <div class="bg-white bg-opacity-10 backdrop-blur-sm p-6 rounded-xl border border-white border-opacity-20 hover:border-opacity-30 transition-all">
+              <div class="flex items-center">
+                <svg class="w-8 h-8 text-blue-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path>
+                </svg>
+                <h3 class="ml-3 text-xl font-semibold text-white">Elevated Stakeholder Trust</h3>
+              </div>
+              <p class="mt-4 text-primary-light">
+                Demonstrated strong data privacy, security, and governance practices.
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 
