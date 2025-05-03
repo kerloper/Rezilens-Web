@@ -43,7 +43,7 @@
                 <div>
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Security</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Cybersecurity <span class="text-primary">Implementation</span></h2>
-                   <p class="mt-4 text-xl text-gray-600 leading-relaxed text-justify">
+                   <p class="mt-4 text-xl text-gray-600 leading-relaxed">
                     Cybersecurity Implementation encompasses the deployment and configuration of technical controls, processes, and policies to protect an organization's digital assets. This service covers everything from network security (firewalls, segmentation) and endpoint protection (EDR, antivirus) to identity and access management (IAM), security orchestration, automation, and response (SOAR), and continuous monitoring through security information and event management (SIEM) systems.
                   </p>
                 </div>
@@ -169,7 +169,7 @@
                 <div>
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Privacy</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Privacy Program <span class="text-primary">Development</span></h2>
-                   <p class="mt-4 text-xl text-gray-600 leading-relaxed text-justify">
+                   <p class="mt-4 text-xl text-gray-600 leading-relaxed">
                     Privacy Program Development establishes the governance, policies, and operational processes needed to manage personal data throughout its lifecycle. It includes data mapping and inventories, privacy impact assessments (PIAs), consent management workflows, vendor data-processing due diligence, and ongoing training to ensure compliance with regulations such as GDPR, CCPA, and LGPD.
                   </p>
                 </div>
@@ -294,7 +294,7 @@
                 <div>
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">ESG</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">ESG Metrics & <span class="text-primary">Reporting</span></h2>
-                   <p class="mt-4 text-xl text-gray-600 leading-relaxed text-justify">
+                   <p class="mt-4 text-xl text-gray-600 leading-relaxed">
                     ESG Metrics & Reporting involves defining, collecting, and publishing quantitative and qualitative data on environmental, social, and governance performance. This service supports alignment with reporting frameworks such as SASB, TCFD, GRI, and IFRS S2, including software implementation for data collection, validation processes, and report generation for stakeholders and regulators.
                   </p>
                 </div>
@@ -419,7 +419,7 @@
                 <div>
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Compliance</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Regulatory Compliance <span class="text-primary">Support</span></h2>
-                   <p class="mt-4 text-xl text-gray-600 leading-relaxed text-justify">
+                   <p class="mt-4 text-xl text-gray-600 leading-relaxed">
                     Regulatory Compliance Support guides organizations through the interpretation, implementation, and maintenance of industry-specific and cross-jurisdictional regulations. Services include compliance gap assessments, policy and procedure development, training programs, internal auditing, and remediation planning for frameworks like SOX, PCI DSS, HIPAA, GDPR, and industry-specific standards.
                   </p>
                 </div>

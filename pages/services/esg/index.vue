@@ -43,7 +43,7 @@
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Strategy</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Change Management <span
                       class="text-primary">Strategy</span></h2>
-                  <p class="mt-4 text-xl text-gray-600 leading-relaxed text-justify">
+                  <p class="mt-4 text-xl text-gray-600 leading-relaxed">
                     Develops and executes tailored change-management frameworks to guide organizations through complex
                     transitions. This service encompasses stakeholder analysis, communication planning, training
                     pathways, and resistance-management tactics to ensure smooth adoption of new processes,
@@ -193,7 +193,7 @@
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Development</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Culture & Leadership <span
                       class="text-primary">Development</span></h2>
-                   <p class="mt-4 text-xl text-gray-600 leading-relaxed text-justify">
+                   <p class="mt-4 text-xl text-gray-600 leading-relaxed">
                     Transforms organizational culture and hones leadership capabilities to foster agility, innovation,
                     and inclusion. Combining culture-assessment diagnostics, executive coaching, and interactive
                     workshops, this service equips leaders and teams to champion change and model desired behaviors.
@@ -340,7 +340,7 @@
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Enablement</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Talent Enablement & <span
                       class="text-primary">Capability Building</span></h2>
-                   <p class="mt-4 text-xl text-gray-600 leading-relaxed text-justify">
+                   <p class="mt-4 text-xl text-gray-600 leading-relaxed">
                     Designs and delivers comprehensive learning journeys blending e-learning, workshops, and on-the-job
                     coaching to bridge skill gaps and prepare workforces for evolving roles. This service includes
                     competency-framework development, certification programs, and learning-technology implementation.
@@ -484,7 +484,7 @@
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Transformation</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Agile & Operating Model <span
                       class="text-primary">Transformation</span></h2>
-                   <p class="mt-4 text-xl text-gray-600 leading-relaxed text-justify">
+                   <p class="mt-4 text-xl text-gray-600 leading-relaxed">
                     Reconfigures organizational structures, processes, and governance to support continuous improvement,
                     rapid decision-making, and market responsiveness. Leveraging lean methodologies, agile scaling
                     frameworks (e.g., SAFe, LeSS), and process-optimization tools, this service reshapes how work gets

@@ -43,7 +43,7 @@
                         class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-indigo-100 text-indigo-800 mb-3">AI Solutions</span>
                     <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">AI Readiness <span
                         class="text-primary">Assessment</span></h2>
-                     <p class="mt-4 text-xl text-gray-600 leading-relaxed text-justify">
+                     <p class="mt-4 text-xl text-gray-600 leading-relaxed">
                       An AI Readiness Assessment evaluates an organization’s capacity to adopt and scale artificial
                       intelligence across people, processes, and technology. Leveraging a maturity-model approach (e.g.,
                       strategy, data, talent, infrastructure, governance), it benchmarks current capabilities against
@@ -199,7 +199,7 @@
                         class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-indigo-100 text-indigo-800 mb-3">Security</span>
                     <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Cybersecurity <span
                         class="text-primary">Maturity Assessment</span></h2>
-                     <p class="mt-4 text-xl text-gray-600 leading-relaxed text-justify">
+                     <p class="mt-4 text-xl text-gray-600 leading-relaxed">
                       A Cybersecurity Maturity Assessment measures an organization’s security posture against a
                       recognized framework such as NIST CSF or ISO 27001. It evaluates controls across domains (identity
                       & access, threat detection, incident response, resilience) through a combination of policy
@@ -354,7 +354,7 @@
                         class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-indigo-100 text-indigo-800 mb-3">Sustainability</span>
                     <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">ESG <span
                         class="text-primary">Roadmapping</span></h2>
-                     <p class="mt-4 text-xl text-gray-600 leading-relaxed text-justify">
+                     <p class="mt-4 text-xl text-gray-600 leading-relaxed">
                       crafts a multi-year plan that integrates Environmental, Social, and Governance objectives into
                       business strategy. Starting with a materiality assessment (identifying the ESG issues most
                       impactful to stakeholders), it defines targets, milestones, and governance structures required to
@@ -506,7 +506,7 @@
                         class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-indigo-100 text-indigo-800 mb-3">Technology Strategy</span>
                     <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Technology <span
                         class="text-primary">Investment Planning</span></h2>
-                     <p class="mt-4 text-xl text-gray-600 leading-relaxed text-justify">
+                     <p class="mt-4 text-xl text-gray-600 leading-relaxed">
                       Aligns IT IT and digital budgets with strategic priorities, balancing short-term improvements
                       against long-term transformation. The service includes total cost of ownership (TCO) and return on
                       investment (ROI) modeling, roadmap development for emerging technologies (cloud, AI/ML, IoT), and
