@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(global) : update font">
+    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(global) : update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/account/AccountPanelHeaderComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/account/AccountPanelHeaderComponent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/nav/MobileNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/nav/MobileNav.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/nav/TheNavbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/nav/TheNavbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/BaseSwiper.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/BaseSwiper.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,7 +324,7 @@
       <workItem from="1745932088257" duration="932000" />
       <workItem from="1746184902936" duration="8349000" />
       <workItem from="1746193688401" duration="505000" />
-      <workItem from="1746248612367" duration="15256000" />
+      <workItem from="1746248612367" duration="15801000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676985169343</created>
@@ -432,14 +430,6 @@
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1686567858199</updated>
-    </task>
-    <task id="LOCAL-00261" summary="improve">
-      <option name="closed" value="true" />
-      <created>1715986368752</created>
-      <option name="number" value="00261" />
-      <option name="presentableId" value="LOCAL-00261" />
-      <option name="project" value="LOCAL" />
-      <updated>1715986368752</updated>
     </task>
     <task id="LOCAL-00262" summary="contact us card">
       <option name="closed" value="true" />
@@ -705,7 +695,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746263979446</updated>
     </task>
-    <option name="localTasksCounter" value="295" />
+    <task id="LOCAL-00295" summary="chore(global) : update">
+      <option name="closed" value="true" />
+      <created>1746266188797</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
+      <option name="project" value="LOCAL" />
+      <updated>1746266188798</updated>
+    </task>
+    <option name="localTasksCounter" value="296" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -723,7 +721,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="filter" />
     <MESSAGE value="refactor footer" />
     <MESSAGE value="refactor special section" />
     <MESSAGE value="initial" />
@@ -748,7 +745,8 @@
     <MESSAGE value="chore(global) : update content" />
     <MESSAGE value="chore(global) : update header" />
     <MESSAGE value="chore(global) : update font" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore(global) : update font" />
+    <MESSAGE value="chore(global) : update" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore(global) : update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

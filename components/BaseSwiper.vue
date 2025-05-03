@@ -45,7 +45,7 @@ const props = defineProps({
             <SwiperSlide v-for="item in data"
                          :key="item.image"
                          class="w-screen sm:-mx-2 mt-4 pb-12 px-1 ">
-              <div class="flex-shrink-0 w-[120.5px]">
+              <div class="flex-shrink-0 w-[100.5px]">
                 <img :src="item.image" alt="AWS certified" class="mx-auto">
               </div>
 
