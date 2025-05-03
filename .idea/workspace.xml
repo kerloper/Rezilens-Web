@@ -7,46 +7,6 @@
     <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(global) : update content">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/containers/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheHeader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/24-7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Delivery.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Payment.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Return.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Standard.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Vector 4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Vector.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/arrow-sky.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/back-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/banner-6-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/box.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/brush.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/candelabra.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/chandelier.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/chine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/clock.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/desk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/graphic-element-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/i.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/insta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lampshade.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/link.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/logo-center.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/lump.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/main.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/open-blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/open.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/point-sky.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/services-banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/services-frame.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/services-it-consulting.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/services-light-main.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/solutions.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/t.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/uae.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -364,7 +324,7 @@
       <workItem from="1745932088257" duration="932000" />
       <workItem from="1746184902936" duration="8349000" />
       <workItem from="1746193688401" duration="505000" />
-      <workItem from="1746248612367" duration="12056000" />
+      <workItem from="1746248612367" duration="12690000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676985169343</created>
@@ -470,14 +430,6 @@
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1686567858199</updated>
-    </task>
-    <task id="LOCAL-00256" summary="solutions">
-      <option name="closed" value="true" />
-      <created>1707746083378</created>
-      <option name="number" value="00256" />
-      <option name="presentableId" value="LOCAL-00256" />
-      <option name="project" value="LOCAL" />
-      <updated>1707746083378</updated>
     </task>
     <task id="LOCAL-00257" summary="responsive">
       <option name="closed" value="true" />
@@ -743,7 +695,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746261070646</updated>
     </task>
-    <option name="localTasksCounter" value="290" />
+    <task id="LOCAL-00290" summary="chore(global) : update content">
+      <option name="closed" value="true" />
+      <created>1746261563077</created>
+      <option name="number" value="00290" />
+      <option name="presentableId" value="LOCAL-00290" />
+      <option name="project" value="LOCAL" />
+      <updated>1746261563077</updated>
+    </task>
+    <option name="localTasksCounter" value="291" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

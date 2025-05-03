@@ -62,7 +62,7 @@
               </div>
             </li>
             <li>
-              <nuxt-link to="">
+              <nuxt-link to="https://digrc.com/">
                 <button class="px-2 py-1 bg-primary text-white font-medium rounded-lg transition-colors duration-300">
                 Our State of the Art GRC
               </button>
