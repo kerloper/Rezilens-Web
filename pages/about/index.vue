@@ -40,7 +40,7 @@
               <h2 class="text-3xl font-semibold text-gray-900">Our Approach</h2>
               <p class="mt-4 text-lg text-gray-500">
                 By weaving together strategic foresight, intelligent solutions, cybersecurity resilience, and adaptive
-                transformation, we guide clients from vision to value—ensuring they are equipped to compete today and
+                transformation, we guide clients from vision to value ensuring they are equipped to compete today and
                 prepared for tomorrow's challenges.
               </p>
             </div>
@@ -55,8 +55,8 @@
                 </p>
                 <p class="mt-4 text-lg text-gray-500">
                   Witnessing firsthand how siloed initiatives too often fall short, we set out to create an integrated
-                  advisory model—one that combines big-picture strategy with deep technical execution and
-                  people-centered change. From our first engagement—designing a data-driven supply-chain dashboard—to
+                  advisory model one that combines big-picture strategy with deep technical execution and
+                  people-centered change. From our first engagement designing a data-driven supply-chain dashboard to
                   leading large-scale digital transformations, our journey has been defined by delivering measurable
                   outcomes and building enduring partnerships.
                 </p>
@@ -69,7 +69,7 @@
               <div class="mt-6 border-t border-gray-200 pt-6">
                 <p class="text-lg text-gray-500">
                   To empower organizations to anticipate disruption, harness intelligent technology, manage risk
-                  responsibly, and evolve their culture—creating resilient, sustainable enterprises that generate value
+                  responsibly, and evolve their culture creating resilient, sustainable enterprises that generate value
                   for all stakeholders.
                 </p>
               </div>
@@ -85,7 +85,7 @@
                 <div>
                   <h4 class="text-lg font-medium text-secondary">End-to-End Integration</h4>
                   <p class="mt-2 text-gray-600">
-                    We don't just advise on strategy or build a point solution—we connect foresight, AI innovation,
+                    We don't just advise on strategy or build a point solution we connect foresight, AI innovation,
                     security, ESG, and change management into a unified roadmap.
                   </p>
                 </div>
@@ -101,7 +101,7 @@
                 <div>
                   <h4 class="text-lg font-medium text-secondary">Measurable Impact</h4>
                   <p class="mt-2 text-gray-600">
-                    We set clear KPIs and track always-on dashboards so you see ROI at every stage—from early POCs to
+                    We set clear KPIs and track always-on dashboards so you see ROI at every stage from early POCs to
                     enterprise-scale rollouts.
                   </p>
                 </div>
@@ -124,7 +124,7 @@
                 advantage.
               </p>
               <div class="mt-6">
-                <a href="/contact-us"
+                <a href="/contact"
                    class="inline-flex btn-secondary items-center px-6 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-primary hover:bg-secondary">
                   Contact Us
                 </a>

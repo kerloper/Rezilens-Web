@@ -55,11 +55,11 @@ const navItems = reactive([
   },
   {
     title: "About Us",
-    target: "/about-us",
+    target: "/about",
   },
   {
     title: "Contact Us",
-    target: "/contact-us",
+    target: "/contact",
   },
   // {
   //   title: "Support",

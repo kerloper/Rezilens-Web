@@ -7,7 +7,7 @@ export const menuItems = [
     },
     {
         "title": "About Us",
-        "target": "/about-us",
+        "target": "/about",
     },
     {
         "title": "Services",
@@ -55,11 +55,11 @@ export const menuItems = [
     // },
     {
         "title": "Careers",
-        "target": "/careers"
+        "target": "/career"
     },
     {
-        "title": "Contact",
+        "title": "Contact Us",
         "description": "Inquiry forms, office locations & direct-reach information.",
-        "target": "/contact-us"
+        "target": "/contact"
     }
 ]

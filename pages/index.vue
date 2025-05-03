@@ -322,7 +322,7 @@ const impacts = [
 const cards = [
   {
     title: 'Holistic, Pillar-Based Consulting',
-    description: 'Four interconnected pillars—Foresight, Intelligence, Trust & Resilience, Adaptive Transformation—ensure no gap is left unaddressed.'
+    description: 'Four interconnected pillars Foresight, Intelligence, Trust & Resilience, Adaptive Transformation ensure no gap is left unaddressed.'
   },
   {
     title: 'Custom-Built Intelligence',
@@ -469,7 +469,7 @@ const testimonials = [
     "image": "https://digrc.com/images/testimonial/atlasgroup.png"
   },
   {
-    "quote": "Implementing DiGRC has significantly improved our compliance processes. The platform's tools and insights have streamlined our procedures and boosted regulatory adherence. Thanks to DiGRC, we're not just meeting compliance targets—we're exceeding them. The platform is user-friendly and powerful, enabling our team to manage compliance more effectively. I highly recommend DiGRC for any organization looking to enhance their compliance efforts. It's essential to our strategy.",
+    "quote": "Implementing DiGRC has significantly improved our compliance processes. The platform's tools and insights have streamlined our procedures and boosted regulatory adherence. Thanks to DiGRC, we're not just meeting compliance targets we're exceeding them. The platform is user-friendly and powerful, enabling our team to manage compliance more effectively. I highly recommend DiGRC for any organization looking to enhance their compliance efforts. It's essential to our strategy.",
     "author": "Hamid Bafghi",
     "position": "B-Online Technology",
     "image": "https://digrc.com/images/testimonial/hamid.jpeg"

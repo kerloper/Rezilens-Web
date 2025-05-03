@@ -173,8 +173,8 @@
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Roadmap
                               Clarity</h4>
                             <p class="mt-2 text-gray-600">
-                              A clear, phased plan—often with KPIs (e.g., model accuracy targets, data-pipeline
-                              uptime)—guides cross-functional teams toward scalable AI deployments.
+                              A clear, phased plan often with KPIs (e.g., model accuracy targets, data-pipeline
+                              uptime) guides cross-functional teams toward scalable AI deployments.
                             </p>
                           </div>
                         </div>
@@ -700,7 +700,7 @@
                   </div>
                   <p class="mt-4 text-primary-light">
                     Integrated plans that embed sustainability into operations, reporting, and corporate
-                    governance—driving stakeholder trust and measurable impact.
+                    governance driving stakeholder trust and measurable impact.
                   </p>
                 </div>
               </div>

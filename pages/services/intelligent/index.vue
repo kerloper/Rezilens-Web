@@ -43,7 +43,7 @@
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">AI Strategy</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">AI Use Case <span class="text-primary">Discovery</span></h2>
                   <p class="mt-4 text-lg text-gray-600 leading-relaxed">
-                    Identifies and prioritizes high-impact opportunities where artificial intelligence can drive tangible business value. Through stakeholder workshops, process mining, and cost–benefit analyses, we map your organization’s workflows against AI capabilities—such as computer vision, natural language processing, and predictive analytics—to build a ranked portfolio of proof-of-concept (POC) candidates.
+                    Identifies and prioritizes high-impact opportunities where artificial intelligence can drive tangible business value. Through stakeholder workshops, process mining, and cost–benefit analyses, we map your organization’s workflows against AI capabilities such as computer vision, natural language processing, and predictive analytics to build a ranked portfolio of proof-of-concept (POC) candidates.
                   </p>
                 </div>
 
@@ -169,7 +169,7 @@
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">AI Engineering</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Custom AI <span class="text-primary">Development</span></h2>
                   <p class="mt-4 text-lg text-gray-600 leading-relaxed">
-                    Tailors machine-learning and deep-learning solutions to your unique data environments and business challenges. From data engineering and feature engineering through model selection, tuning, and retraining pipelines, we build end-to-end AI applications—hosted on-premises or in the cloud—optimized for performance, scalability, and maintainability.
+                    Tailors machine-learning and deep-learning solutions to your unique data environments and business challenges. From data engineering and feature engineering through model selection, tuning, and retraining pipelines, we build end-to-end AI applications hosted on-premises or in the cloud optimized for performance, scalability, and maintainability.
                   </p>
                 </div>
 
@@ -294,7 +294,7 @@
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">AI Strategy</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">AI <span class="text-primary">System Integration</span></h2>
                   <p class="mt-4 text-lg text-gray-600 leading-relaxed">
-                    AI System Integration embeds AI capabilities seamlessly into existing enterprise architectures—ERP, CRM, data lakes, and operational systems—ensuring real-time data flows, secure APIs, and robust monitoring. This service includes middleware configuration, microservices deployment, and change-management support to align AI outputs with business-critical workflows.
+                    AI System Integration embeds AI capabilities seamlessly into existing enterprise architectures ERP, CRM, data lakes, and operational systems ensuring real-time data flows, secure APIs, and robust monitoring. This service includes middleware configuration, microservices deployment, and change-management support to align AI outputs with business-critical workflows.
                   </p>
                 </div>
 
@@ -419,7 +419,7 @@
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">AI Strategy</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Data Strategy <span class="text-primary">& Optimization</span></h2>
                   <p class="mt-4 text-lg text-gray-600 leading-relaxed">
-                    Data Strategy & Optimization establishes a blueprint for data as a strategic asset. We assess your data architecture, governance policies, and analytics maturity to design a data-platform roadmap—covering data-lakehouse architectures, master data management, metadata catalogs, and advanced analytics frameworks.
+                    Data Strategy & Optimization establishes a blueprint for data as a strategic asset. We assess your data architecture, governance policies, and analytics maturity to design a data-platform roadmap covering data-lakehouse architectures, master data management, metadata catalogs, and advanced analytics frameworks.
                   </p>
                 </div>
 
@@ -523,7 +523,7 @@
                         <div class="ml-4">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Business-Model Innovation</h4>
                           <p class="mt-2 text-gray-600">
-                            Robust data foundations enable novel offerings—such as pay-per-use analytics services—that open incremental revenue channels.
+                            Robust data foundations enable novel offerings such as pay-per-use analytics services that open incremental revenue channels.
                           </p>
                         </div>
                       </div>

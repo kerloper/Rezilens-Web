@@ -294,7 +294,7 @@
                   <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Enablement</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Talent Enablement & <span class="text-primary">Capability Building</span></h2>
                   <p class="mt-4 text-lg text-gray-600 leading-relaxed">
-                    Designs and delivers comprehensive learning journeys—blending e-learning, workshops, and on-the-job coaching—to bridge skill gaps and prepare workforces for evolving roles. This service includes competency-framework development, certification programs, and learning-technology implementation.
+                    Designs and delivers comprehensive learning journeys blending e-learning, workshops, and on-the-job coaching to bridge skill gaps and prepare workforces for evolving roles. This service includes competency-framework development, certification programs, and learning-technology implementation.
                   </p>
                 </div>
 
