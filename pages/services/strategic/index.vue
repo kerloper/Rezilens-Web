@@ -414,156 +414,256 @@
       </div>
 
 
-      <!-- Cybersecurity Maturity Assessment -->
-      <div class="mb-16">
-        <div class="mt-8 lg:mt-0 lg:col-span-4">
-          <div class="bg-gray-50 p-8 rounded-lg">
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
-              <div class="lg:col-span-1">
-                <h2 class="text-3xl font-semibold text-secondary">Cybersecurity Maturity Assessment</h2>
-                <p class="mt-4 text-lg text-gray-500">
-                  Measures your security posture against frameworks like NIST CSF or ISO 27001.
-                </p>
-              </div>
-              <div class="lg:col-span-1">
-                 <h3 class="text-xl font-semibold text-secondary">Key Use Cases</h3>
-                <ul class="mt-4 space-y-4">
-                  <li class="flex items-start">
-                    <span class="flex-shrink-0 text-primary">●</span>
-                    <span class="ml-3 text-gray-700"><span class="font-medium">Regulatory Readiness:</span> Ensuring alignment with GDPR, HIPAA, or sector-specific mandates</span>
-                  </li>
-                  <li class="flex items-start">
-                    <span class="flex-shrink-0 text-primary">●</span>
-                    <span class="ml-3 text-gray-700"><span class="font-medium">Supply-Chain Risk Management:</span> Evaluating third-party dependencies</span>
-                  </li>
-                  <li class="flex items-start">
-                    <span class="flex-shrink-0 text-primary">●</span>
-                    <span class="ml-3 text-gray-700"><span class="font-medium">Incident Preparedness:</span> Validating playbooks and communication protocols</span>
-                  </li>
-                  <li class="flex items-start">
-                    <span class="flex-shrink-0 text-primary">●</span>
-                    <span class="ml-3 text-gray-700"><span class="font-medium">Architecture Hardening:</span> Testing network segmentation and cloud configurations</span>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <h3 class="mt-8 text-xl font-semibold text-gray-900">Value for Organizations</h3>
-            <div class="mt-4 grid gap-4 sm:grid-cols-3">
-              <div class="bg-white p-4 rounded-lg shadow">
-                <h4 class="font-medium text-primary">Prioritized Investment</h4>
-                <p class="mt-2 text-gray-600 text-sm">Focus security spend on the highest-risk domains.</p>
-              </div>
-              <div class="bg-white p-4 rounded-lg shadow">
-                <h4 class="font-medium text-primary">Board-Level Reporting</h4>
-                <p class="mt-2 text-gray-600 text-sm">Quantitative maturity score provides executive-friendly snapshot of risk reduction.</p>
-              </div>
-              <div class="bg-white p-4 rounded-lg shadow">
-                <h4 class="font-medium text-primary">Continuous Improvement</h4>
-                <p class="mt-2 text-gray-600 text-sm">Establishes a repeatable audit cycle for proactive defense.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
 
       <!-- ESG Roadmapping -->
       <div class="mb-16">
-        <div class="mt-8 lg:mt-0 lg:col-span-4">
-          <div class="bg-gray-50 p-8 rounded-lg">
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+        <div class="mt-8 lg:mt-0">
+          <div class="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-2xl shadow-sm border border-gray-100">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+              <!-- Left Column -->
+              <div class="lg:col-span-1 space-y-6">
+                <div>
+                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-indigo-100 text-indigo-800 mb-3">Sustainability</span>
+                  <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">ESG <span class="text-primary">Roadmapping</span></h2>
+                  <p class="mt-4 text-lg text-gray-600 leading-relaxed">
+                    Crafts a multi-year plan that integrates Environmental, Social, and Governance objectives into core business strategy.
+                  </p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100">
+                  <h3 class="text-xl font-semibold text-gray-900 flex items-center">
+                    <svg class="w-5 h-5 text-primary mr-2" fill="currentColor" viewBox="0 0 20 20">
+                      <path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path>
+                    </svg>
+                    Key Use Cases
+                  </h3>
+                  <ul class="mt-4 space-y-3">
+                    <li class="flex items-start group">
+                      <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                        <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                        </svg>
+                      </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                        <span class="font-medium">Carbon Reduction:</span> Setting science-based targets for Scope 1-3 emissions
+                      </span>
+                    </li>
+                    <li class="flex items-start group">
+                      <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                        <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                        </svg>
+                      </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                        <span class="font-medium">Diversity & Inclusion:</span> Establishing metrics for workforce representation
+                      </span>
+                    </li>
+                    <li class="flex items-start group">
+                      <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                        <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                        </svg>
+                      </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                        <span class="font-medium">Governance:</span> Designing board-level ESG committees and risk processes
+                      </span>
+                    </li>
+                    <li class="flex items-start group">
+                      <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                        <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                        </svg>
+                      </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                        <span class="font-medium">Sustainable Finance:</span> Preparing for green bonds and ESG-linked compensation
+                      </span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+              <!-- Right Column -->
               <div class="lg:col-span-1">
-                <h2 class="text-3xl font-semibold text-secondary">ESG Roadmapping</h2>
-                <p class="mt-4 text-lg text-gray-500">
-                  Crafts a multi-year plan that integrates Environmental, Social, and Governance objectives into business strategy.
-                </p>
-              </div>
-              <div class="lg:col-span-1">
-                 <h3 class="text-xl font-semibold text-secondary">Key Use Cases</h3>
-                <ul class="mt-4 space-y-4">
-                  <li class="flex items-start">
-                    <span class="flex-shrink-0 text-primary">●</span>
-                    <span class="ml-3 text-gray-700"><span class="font-medium">Carbon Reduction Pathways:</span> Setting science-based targets for emissions</span>
-                  </li>
-                  <li class="flex items-start">
-                    <span class="flex-shrink-0 text-primary">●</span>
-                    <span class="ml-3 text-gray-700"><span class="font-medium">Diversity & Inclusion Plans:</span> Establishing metrics for workforce representation</span>
-                  </li>
-                  <li class="flex items-start">
-                    <span class="flex-shrink-0 text-primary">●</span>
-                    <span class="ml-3 text-gray-700"><span class="font-medium">Governance Enhancements:</span> Designing board-level ESG committees</span>
-                  </li>
-                  <li class="flex items-start">
-                    <span class="flex-shrink-0 text-primary">●</span>
-                    <span class="ml-3 text-gray-700"><span class="font-medium">Sustainable Finance Alignment:</span> Preparing for green bond issuance</span>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <h3 class="mt-8 text-xl font-semibold text-gray-900">Value for Organizations</h3>
-            <div class="mt-4 grid gap-4 sm:grid-cols-3">
-              <div class="bg-white p-4 rounded-lg shadow">
-                <h4 class="font-medium text-primary">Investor Confidence</h4>
-                <p class="mt-2 text-gray-600 text-sm">Clear ESG targets improve credit ratings and lower cost of capital.</p>
-              </div>
-              <div class="bg-white p-4 rounded-lg shadow">
-                <h4 class="font-medium text-primary">Regulatory Compliance</h4>
-                <p class="mt-2 text-gray-600 text-sm">Stay ahead of tightening disclosure requirements.</p>
-              </div>
-              <div class="bg-white p-4 rounded-lg shadow">
-                <h4 class="font-medium text-primary">Brand Reputation & Talent</h4>
-                <p class="mt-2 text-gray-600 text-sm">Attracts customers and top talent driven by purpose.</p>
+                <div class="sticky top-6">
+                  <h3 class="text-xl font-semibold text-gray-900 mb-6">Value for Organizations</h3>
+                  <div class="space-y-4">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
+                      <div class="flex items-start">
+                        <div class="flex-shrink-0 bg-indigo-50 p-2 rounded-lg">
+                          <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
+                          </svg>
+                        </div>
+                        <div class="ml-4">
+                          <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Investor Confidence</h4>
+                          <p class="mt-2 text-gray-600">
+                            Clear ESG targets improve credit ratings and can lower cost of capital by 1-2 percentage points.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
+                      <div class="flex items-start">
+                        <div class="flex-shrink-0 bg-indigo-50 p-2 rounded-lg">
+                          <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                          </svg>
+                        </div>
+                        <div class="ml-4">
+                          <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Regulatory Compliance</h4>
+                          <p class="mt-2 text-gray-600">
+                            Stay ahead of tightening disclosure requirements in key markets (EU CSRD, U.S. SEC).
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
+                      <div class="flex items-start">
+                        <div class="flex-shrink-0 bg-indigo-50 p-2 rounded-lg">
+                          <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path>
+                          </svg>
+                        </div>
+                        <div class="ml-4">
+                          <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Brand & Talent</h4>
+                          <p class="mt-2 text-gray-600">
+                            Demonstrating ESG commitment attracts purpose-driven customers and top talent.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
 
+
       <!-- Technology Investment Planning -->
       <div class="mb-16">
-        <div class="mt-8 lg:mt-0 lg:col-span-4">
-          <div class="bg-gray-50 p-8 rounded-lg">
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+        <div class="mt-8 lg:mt-0">
+          <div class="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-2xl shadow-sm border border-gray-100">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+              <!-- Left Column -->
+              <div class="lg:col-span-1 space-y-6">
+                <div>
+                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-indigo-100 text-indigo-800 mb-3">Technology Strategy</span>
+                  <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Technology <span class="text-primary">Investment Planning</span></h2>
+                  <p class="mt-4 text-lg text-gray-600 leading-relaxed">
+                    Aligns IT and digital budgets with strategic priorities, balancing short-term improvements against long-term transformation.
+                  </p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100">
+                  <h3 class="text-xl font-semibold text-gray-900 flex items-center">
+                    <svg class="w-5 h-5 text-primary mr-2" fill="currentColor" viewBox="0 0 20 20">
+                      <path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path>
+                    </svg>
+                    Key Use Cases
+                  </h3>
+                  <ul class="mt-4 space-y-3">
+                    <li class="flex items-start group">
+                <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                  <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                  </svg>
+                </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                  <span class="font-medium">Cost Rationalization:</span> Identifying redundant legacy systems
+                </span>
+                    </li>
+                    <li class="flex items-start group">
+                <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                  <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                  </svg>
+                </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                  <span class="font-medium">Innovation Funding:</span> Allocating funds for high-value pilots
+                </span>
+                    </li>
+                    <li class="flex items-start group">
+                <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                  <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                  </svg>
+                </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                  <span class="font-medium">Risk-Adjusted Prioritization:</span> Ranking projects by strategic advantage
+                </span>
+                    </li>
+                    <li class="flex items-start group">
+                <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                  <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                  </svg>
+                </span>
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors">
+                  <span class="font-medium">Vendor & Partnership Strategy:</span> Evaluating third-party providers
+                </span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+              <!-- Right Column -->
               <div class="lg:col-span-1">
-                <h2 class="text-3xl font-semibold text-secondary">Technology Investment Planning</h2>
-                <p class="mt-4 text-lg text-gray-500">
-                  Aligns IT and digital budgets with strategic priorities, balancing short-term improvements against long-term transformation.
-                </p>
-              </div>
-              <div class="lg:col-span-1">
-                 <h3 class="text-xl font-semibold text-secondary">Key Use Cases</h3>
-                <ul class="mt-4 space-y-4">
-                  <li class="flex items-start">
-                    <span class="flex-shrink-0 text-primary">●</span>
-                    <span class="ml-3 text-gray-700"><span class="font-medium">Cost Rationalization:</span> Identifying redundant legacy systems</span>
-                  </li>
-                  <li class="flex items-start">
-                    <span class="flex-shrink-0 text-primary">●</span>
-                    <span class="ml-3 text-gray-700"><span class="font-medium">Innovation Funding:</span> Allocating funds for high-value pilots</span>
-                  </li>
-                  <li class="flex items-start">
-                    <span class="flex-shrink-0 text-primary">●</span>
-                    <span class="ml-3 text-gray-700"><span class="font-medium">Risk-Adjusted Prioritization:</span> Ranking projects by strategic advantage</span>
-                  </li>
-                  <li class="flex items-start">
-                    <span class="flex-shrink-0 text-primary">●</span>
-                    <span class="ml-3 text-gray-700"><span class="font-medium">Vendor & Partnership Strategy:</span> Evaluating third-party providers</span>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <h3 class="mt-8 text-xl font-semibold text-gray-900">Value for Organizations</h3>
-            <div class="mt-4 grid gap-4 sm:grid-cols-3">
-              <div class="bg-white p-4 rounded-lg shadow">
-                <h4 class="font-medium text-primary">Financial Discipline</h4>
-                <p class="mt-2 text-gray-600 text-sm">Transparent TCO/ROI analyses justify spend to stakeholders.</p>
-              </div>
-              <div class="bg-white p-4 rounded-lg shadow">
-                <h4 class="font-medium text-primary">Agility & Growth</h4>
-                <p class="mt-2 text-gray-600 text-sm">Enables rapid reallocation of funds in response to market shifts.</p>
-              </div>
-              <div class="bg-white p-4 rounded-lg shadow">
-                <h4 class="font-medium text-primary">Competitive Differentiation</h4>
-                <p class="mt-2 text-gray-600 text-sm">Targeted investments keep you ahead of peers and emerging entrants.</p>
+                <div class="sticky top-6">
+                  <h3 class="text-xl font-semibold text-gray-900 mb-6">Value for Organizations</h3>
+                  <div class="space-y-4">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
+                      <div class="flex items-start">
+                        <div class="flex-shrink-0 bg-indigo-50 p-2 rounded-lg">
+                          <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                          </svg>
+                        </div>
+                        <div class="ml-4">
+                          <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Financial Discipline</h4>
+                          <p class="mt-2 text-gray-600">
+                            Transparent TCO/ROI analyses justify spend to stakeholders.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
+                      <div class="flex items-start">
+                        <div class="flex-shrink-0 bg-indigo-50 p-2 rounded-lg">
+                          <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+                          </svg>
+                        </div>
+                        <div class="ml-4">
+                          <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Agility & Growth</h4>
+                          <p class="mt-2 text-gray-600">
+                            Enables rapid reallocation of funds in response to market shifts.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
+                      <div class="flex items-start">
+                        <div class="flex-shrink-0 bg-indigo-50 p-2 rounded-lg">
+                          <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                          </svg>
+                        </div>
+                        <div class="ml-4">
+                          <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Competitive Differentiation</h4>
+                          <p class="mt-2 text-gray-600">
+                            Targeted investments keep you ahead of peers and emerging entrants.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -572,33 +672,77 @@
 
       <!-- Outcomes Section -->
       <div class="mb-16">
-        <div class="mt-8 lg:mt-0 lg:col-span-4">
-          <div class="bg-gray-50 p-8 rounded-lg">
-            <h2 class="text-3xl font-semibold text-secondary">Outcomes You Can Expect</h2>
-            <div class="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-              <div class="bg-white p-6 rounded-lg shadow">
-                <h3 class="text-xl font-semibold text-primary">Future-Ready Strategic Plans</h3>
-                <p class="mt-4 text-gray-600">
-                  Holistic roadmaps that position your organization to capitalize on AI, digital, and sustainability trends.
-                </p>
+        <div class="mt-8 lg:mt-0">
+          <div class="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-2xl shadow-sm border border-gray-100">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+              <!-- Left Column -->
+              <div class="lg:col-span-1 space-y-6">
+                <div>
+                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-indigo-100 text-indigo-800 mb-3">Results</span>
+                  <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Outcomes <span class="text-primary">You Can Expect</span></h2>
+                  <p class="mt-4 text-lg text-gray-600 leading-relaxed">
+                    Measurable results that transform your technology investment strategy into competitive advantage.
+                  </p>
+                </div>
               </div>
-              <div class="bg-white p-6 rounded-lg shadow">
-                <h3 class="text-xl font-semibold text-primary">Prioritized Technology & Risk Management Roadmaps</h3>
-                <p class="mt-4 text-gray-600">
-                  Data-driven sequencing of initiatives to maximize ROI and minimize security or compliance exposure.
-                </p>
-              </div>
-              <div class="bg-white p-6 rounded-lg shadow">
-                <h3 class="text-xl font-semibold text-primary">Alignment with Long-Term ESG Goals</h3>
-                <p class="mt-4 text-gray-600">
-                  Integrated plans that embed sustainability into operations, reporting, and corporate governance—driving stakeholder trust and measurable impact.
-                </p>
+
+              <!-- Right Column -->
+              <div class="lg:col-span-1">
+                <div class="grid gap-6 sm:grid-cols-1">
+                  <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
+                    <div class="flex items-start">
+                      <div class="flex-shrink-0 bg-indigo-50 p-2 rounded-lg">
+                        <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path>
+                        </svg>
+                      </div>
+                      <div class="ml-4">
+                        <h3 class="text-xl font-semibold text-gray-900 group-hover:text-primary transition-colors">Future-Ready Strategic Plans</h3>
+                        <p class="mt-2 text-gray-600">
+                          Holistic roadmaps that position your organization to capitalize on AI, digital, and sustainability trends.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
+                    <div class="flex items-start">
+                      <div class="flex-shrink-0 bg-indigo-50 p-2 rounded-lg">
+                        <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z"></path>
+                        </svg>
+                      </div>
+                      <div class="ml-4">
+                        <h3 class="text-xl font-semibold text-gray-900 group-hover:text-primary transition-colors">Prioritized Technology & Risk Management Roadmaps</h3>
+                        <p class="mt-2 text-gray-600">
+                          Data-driven sequencing of initiatives to maximize ROI and minimize security or compliance exposure.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
+                    <div class="flex items-start">
+                      <div class="flex-shrink-0 bg-indigo-50 p-2 rounded-lg">
+                        <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                        </svg>
+                      </div>
+                      <div class="ml-4">
+                        <h3 class="text-xl font-semibold text-gray-900 group-hover:text-primary transition-colors">Alignment with Long-Term ESG Goals</h3>
+                        <p class="mt-2 text-gray-600">
+                          Integrated plans that embed sustainability into operations, reporting, and corporate governance—driving stakeholder trust and measurable impact.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-
           </div>
         </div>
       </div>
+
     </div>
 
 
