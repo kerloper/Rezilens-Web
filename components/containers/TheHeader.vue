@@ -28,19 +28,19 @@
         </div>
         <div class="basis-2/5 text-left">
           <ul
-              class="left-menu-title-box hidden lg:relative lg:flex justify-end transition-all ease-in delay-300 pt-4"
+              class="left-menu-title-box hidden lg:relative lg:flex flex-wrap min-w-[800px] justify-end transition-all ease-in delay-300 pt-4"
               :class="{ 'text-white': isTransparent, 'text-black': !isTransparent }"
           >
             <li
                 v-for="(item, index) in menuItems"
                 :key="index"
-                class="hover:cursor-pointer w-[95px] mx-1 px-2 text-center items-center justify-center text-sm   rounded-lg transition-all relative group"
+                class="hover:cursor-pointer mt-1 mx-1 px-2 text-center items-center justify-center text-sm   rounded-lg transition-all relative group"
                 @mouseenter="toggleSubmenu(index)"
                 @mouseleave="closeSubmenus"
             >
               <nuxt-link
                   :to="item.target"
-                  class="flex items-center text-black justify-center text-center hover:text-pink-900"
+                  class="flex items-center  text-[16px] text-black justify-center text-center hover:text-pink-900"
               >
                 {{ item.title }}
                 <span v-if="item.subitems" class="ml-1">▼</span>
@@ -62,31 +62,16 @@
               </div>
             </li>
             <li>
-              <button
-                  class="py-1.5 -mt-10 text-xs bg-primary hover:bg-secondary text-white font-medium rounded-lg w-36 transition-colors duration-300"
-              >
+              <nuxt-link to="">
+                <button class="px-2 py-1 bg-primary text-white font-medium rounded-lg transition-colors duration-300">
                 Our State of the Art GRC
               </button>
+              </nuxt-link>
             </li>
           </ul>
         </div>
       </div>
 
-      <!--      mobile-->
-<!--      <div class="w-full z-[100]  flex items-center justify-center fixed bottom-0">-->
-<!--        <ul-->
-<!--            class="  z-[100] shadow-xl bottom-0 bg-sky-600 mx-auto mb-4 flex rounded-lg justify-center items-center lg:hidden-->
-<!--            transition-all ease-in delay-300">-->
-
-<!--          <li class="py-2 px-4 hover:cursor-pointer hover:text-white   rounded-lg transition-all "-->
-<!--              @click="openMobileNav">-->
-<!--            <Icon name="ic:round-menu" class="text-2xl text-white " v-if="!isOpenMobileNav"/>-->
-<!--            <Icon name="gg:close" class="text-2xl text-white " v-else/>-->
-<!--          </li>-->
-
-<!--        </ul> -->
-<!--      </div>-->
-<!--      <MobileNav :isOpenMobileNav="isOpenMobileNav" @close-mobile-nav="closeMobileNav"/>-->
     </client-only>
   </div>
 
