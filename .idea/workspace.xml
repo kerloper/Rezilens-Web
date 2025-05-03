@@ -6,17 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(global) : update content">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/LoginDialog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/LoginDialog.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/containers/TheFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheFooter.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/nav/MobileNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/nav/MobileNav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasketTab.vue" beforeDir="false" afterPath="$PROJECT_DIR$/BasketTab.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/BasketTab.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/BasketTab.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/containers/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheHeader.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constants/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/constants/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about-us/diff/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about/diff/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about-us/firm-story/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about/firm-story/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about-us/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about-us/leadership/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about/leadership/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/careers/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/career/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact-us/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/services/cybersecurity/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/cybersecurity/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/services/esg/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/esg/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/services/intelligent/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/intelligent/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/services/strategic/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/strategic/index.vue" afterDir="false" />
@@ -337,7 +332,7 @@
       <workItem from="1745932088257" duration="932000" />
       <workItem from="1746184902936" duration="8349000" />
       <workItem from="1746193688401" duration="505000" />
-      <workItem from="1746248612367" duration="10213000" />
+      <workItem from="1746248612367" duration="11541000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676985169343</created>
@@ -443,14 +438,6 @@
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1686567858199</updated>
-    </task>
-    <task id="LOCAL-00254" summary="solutions page responsive">
-      <option name="closed" value="true" />
-      <created>1707744424523</created>
-      <option name="number" value="00254" />
-      <option name="presentableId" value="LOCAL-00254" />
-      <option name="project" value="LOCAL" />
-      <updated>1707744424524</updated>
     </task>
     <task id="LOCAL-00255" summary="services">
       <option name="closed" value="true" />
@@ -716,7 +703,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746259055996</updated>
     </task>
-    <option name="localTasksCounter" value="288" />
+    <task id="LOCAL-00288" summary="chore(global) : update content">
+      <option name="closed" value="true" />
+      <created>1746259725867</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1746259725868</updated>
+    </task>
+    <option name="localTasksCounter" value="289" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -760,6 +755,18 @@
     <MESSAGE value="chore(global) : services - intelligent" />
     <MESSAGE value="chore(global) : update content" />
     <option name="LAST_COMMIT_MESSAGE" value="chore(global) : update content" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/pages/services/esg/index.vue</url>
+          <line>45</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

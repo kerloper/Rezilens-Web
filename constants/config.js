@@ -6,10 +6,6 @@ export const menuItems = [
         "target": "/"
     },
     {
-        "title": "About Us",
-        "target": "/about",
-    },
-    {
         "title": "Services",
         "target": "/services",
         "subitems": [
@@ -56,6 +52,10 @@ export const menuItems = [
     {
         "title": "Careers",
         "target": "/career"
+    },
+    {
+        "title": "About Us",
+        "target": "/about",
     },
     {
         "title": "Contact Us",

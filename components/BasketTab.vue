@@ -103,7 +103,7 @@
                   <div v-for="product in list " :key="product.id" class="border p-4 h-44 flex shadow-md rounded" dir="rtl">
                     <!-- First column: Product Image -->
                     <nuxt-link :to="'/products/'+product.slug">
-                      <div class="ml-4">
+                      <div class="ml-4 text-lg">
                         <img :src="product.image.src" :alt="product.title" class="w-24  h-36 object-contain"/>
                       </div>
                     </nuxt-link>
