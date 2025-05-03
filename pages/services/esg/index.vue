@@ -40,7 +40,7 @@
               <!-- Left Column -->
               <div class="space-y-6">
                 <div>
-                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-red-100 text-red-800 mb-3">Strategy</span>
+                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Strategy</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Change Management <span class="text-primary">Strategy</span></h2>
                   <p class="mt-4 text-lg text-gray-600 leading-relaxed">
                     Develops and executes tailored change-management frameworks to guide organizations through complex transitions. This service encompasses stakeholder analysis, communication planning, training pathways, and resistance-management tactics to ensure smooth adoption of new processes, technologies, or structures.
@@ -104,7 +104,8 @@
                 <div class="sticky top-6">
                   <h3 class="text-xl font-semibold text-gray-900 mb-6">Value for Organizations</h3>
                   <div class="space-y-4">
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                    <div
+                        class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -120,7 +121,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -136,7 +137,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -165,7 +166,7 @@
               <!-- Left Column -->
               <div class="space-y-6">
                 <div>
-                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-red-100 text-red-800 mb-3">Development</span>
+                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Development</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Culture & Leadership <span class="text-primary">Development</span></h2>
                   <p class="mt-4 text-lg text-gray-600 leading-relaxed">
                     Transforms organizational culture and hones leadership capabilities to foster agility, innovation, and inclusion. Combining culture-assessment diagnostics, executive coaching, and interactive workshops, this service equips leaders and teams to champion change and model desired behaviors.
@@ -229,7 +230,8 @@
                 <div class="sticky top-6">
                   <h3 class="text-xl font-semibold text-gray-900 mb-6">Value for Organizations</h3>
                   <div class="space-y-4">
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                    <div
+                        class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -245,7 +247,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -261,7 +263,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -289,7 +291,7 @@
               <!-- Left Column -->
               <div class="space-y-6">
                 <div>
-                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-red-100 text-red-800 mb-3">Enablement</span>
+                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Enablement</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Talent Enablement & <span class="text-primary">Capability Building</span></h2>
                   <p class="mt-4 text-lg text-gray-600 leading-relaxed">
                     Designs and delivers comprehensive learning journeys—blending e-learning, workshops, and on-the-job coaching—to bridge skill gaps and prepare workforces for evolving roles. This service includes competency-framework development, certification programs, and learning-technology implementation.
@@ -353,7 +355,8 @@
                 <div class="sticky top-6">
                   <h3 class="text-xl font-semibold text-gray-900 mb-6">Value for Organizations</h3>
                   <div class="space-y-4">
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                    <div
+                        class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -369,7 +372,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -385,7 +388,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -412,7 +415,7 @@
               <!-- Left Column -->
               <div class="space-y-6">
                 <div>
-                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-red-100 text-red-800 mb-3">Transformation</span>
+                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Transformation</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Agile & Operating Model <span class="text-primary">Transformation</span></h2>
                   <p class="mt-4 text-lg text-gray-600 leading-relaxed">
                     Reconfigures organizational structures, processes, and governance to support continuous improvement, rapid decision-making, and market responsiveness. Leveraging lean methodologies, agile scaling frameworks (e.g., SAFe, LeSS), and process-optimization tools, this service reshapes how work gets done.
@@ -476,7 +479,8 @@
                 <div class="sticky top-6">
                   <h3 class="text-xl font-semibold text-gray-900 mb-6">Value for Organizations</h3>
                   <div class="space-y-4">
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                    <div
+                        class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -492,7 +496,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -508,7 +512,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-red-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-red-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">

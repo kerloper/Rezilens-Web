@@ -104,7 +104,8 @@
                 <div class="sticky top-6">
                   <h3 class="text-xl font-semibold text-gray-900 mb-6">Value for Organizations</h3>
                   <div class="space-y-4">
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-blue-200 transition-all hover:shadow-sm group">
+                    <div
+                        class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-blue-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -120,7 +121,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-blue-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-blue-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -136,7 +137,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-blue-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-blue-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -165,7 +166,7 @@
               <!-- Left Column -->
               <div class="space-y-6">
                 <div>
-                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-purple-100 text-purple-800 mb-3">AI Engineering</span>
+                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">AI Engineering</span>
                   <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Custom AI <span class="text-primary">Development</span></h2>
                   <p class="mt-4 text-lg text-gray-600 leading-relaxed">
                     Tailors machine-learning and deep-learning solutions to your unique data environments and business challenges. From data engineering and feature engineering through model selection, tuning, and retraining pipelines, we build end-to-end AI applications—hosted on-premises or in the cloud—optimized for performance, scalability, and maintainability.
@@ -229,7 +230,8 @@
                 <div class="sticky top-6">
                   <h3 class="text-xl font-semibold text-gray-900 mb-6">Value for Organizations</h3>
                   <div class="space-y-4">
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-purple-200 transition-all hover:shadow-sm group">
+                    <div
+                        class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-purple-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -245,7 +247,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-purple-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-purple-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -261,7 +263,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-purple-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-purple-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -353,7 +355,8 @@
                 <div class="sticky top-6">
                   <h3 class="text-xl font-semibold text-gray-900 mb-6">Value for Organizations</h3>
                   <div class="space-y-4">
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-blue-200 transition-all hover:shadow-sm group">
+                    <div
+                        class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-blue-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -369,7 +372,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-blue-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-blue-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -385,7 +388,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-blue-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-blue-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -477,7 +480,8 @@
                 <div class="sticky top-6">
                   <h3 class="text-xl font-semibold text-gray-900 mb-6">Value for Organizations</h3>
                   <div class="space-y-4">
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-blue-200 transition-all hover:shadow-sm group">
+                    <div
+                        class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-blue-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -493,7 +497,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-blue-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-blue-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -509,7 +513,7 @@
                       </div>
                     </div>
 
-                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-blue-200 transition-all hover:shadow-sm group">
+                    <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:border-indigo-200 transition-all hover:shadow-sm group">
                       <div class="flex items-start">
                         <div class="flex-shrink-0 bg-blue-50 p-2 rounded-lg">
                           <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
