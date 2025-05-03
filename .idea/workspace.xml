@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(global) : update header">
+    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(global) : update font">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasketTab.vue" beforeDir="false" afterPath="$PROJECT_DIR$/BasketTab.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/BasketTab.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/BasketTab.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/account/AccountPanelOrders.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/account/AccountPanelOrders.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/containers/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheHeader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/career/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/career/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services/cybersecurity/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/cybersecurity/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services/esg/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/esg/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services/intelligent/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/intelligent/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services/strategic/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services/strategic/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/account/AccountPanelHeaderComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/account/AccountPanelHeaderComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/nav/MobileNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/nav/MobileNav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/nav/TheNavbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/nav/TheNavbar.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -334,7 +326,7 @@
       <workItem from="1745932088257" duration="932000" />
       <workItem from="1746184902936" duration="8349000" />
       <workItem from="1746193688401" duration="505000" />
-      <workItem from="1746248612367" duration="14465000" />
+      <workItem from="1746248612367" duration="15256000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676985169343</created>
@@ -440,14 +432,6 @@
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1686567858199</updated>
-    </task>
-    <task id="LOCAL-00260" summary="footer">
-      <option name="closed" value="true" />
-      <created>1715981931405</created>
-      <option name="number" value="00260" />
-      <option name="presentableId" value="LOCAL-00260" />
-      <option name="project" value="LOCAL" />
-      <updated>1715981931405</updated>
     </task>
     <task id="LOCAL-00261" summary="improve">
       <option name="closed" value="true" />
@@ -713,7 +697,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746263457826</updated>
     </task>
-    <option name="localTasksCounter" value="294" />
+    <task id="LOCAL-00294" summary="chore(global) : update font">
+      <option name="closed" value="true" />
+      <created>1746263979446</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1746263979446</updated>
+    </task>
+    <option name="localTasksCounter" value="295" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -731,7 +723,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove feature from bottom" />
     <MESSAGE value="filter" />
     <MESSAGE value="refactor footer" />
     <MESSAGE value="refactor special section" />
@@ -756,7 +747,8 @@
     <MESSAGE value="chore(global) : services - intelligent" />
     <MESSAGE value="chore(global) : update content" />
     <MESSAGE value="chore(global) : update header" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore(global) : update header" />
+    <MESSAGE value="chore(global) : update font" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore(global) : update font" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

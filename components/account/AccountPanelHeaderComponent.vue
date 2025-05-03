@@ -3,8 +3,7 @@
        dir="rtl">
     <nav class="flex lg:right-20 md:right-20 lx:right-20 right-0 pr-20">
       <nuxt-link to="/">
-        <img src="../../static/logo.png" alt="logo"
-             class="w-36 absolute    left-0 right-0  mx-auto lg:mx-0 lg:left-12  top-10 lg:right-auto "/>
+
       </nuxt-link>
       <ul
           class="hidden lg:flex  items-center justify-center transition-all ease-in delay-300 mt-10 gap-8 "

@@ -6,8 +6,7 @@
     <div class="flex flex-col  items-start gap-8 h-screen">
       <div class="flex w-full flex-row pt-10  justify-between">
         <div class="mx-6">
-          <img src="../../static/logo.png" alt="logo"
-               class="w-44"/>
+
         </div>
       </div>
 

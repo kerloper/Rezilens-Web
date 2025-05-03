@@ -5,8 +5,7 @@
     <div class="grid grid-cols-3 ">
       <div class="h-screen bg-green-100 relative">
         <nuxt-link to="/">
-          <img src="../../static/logo.png" alt="logo"
-               class="w-36 absolute left-0 right-0 -top-4.5 mx-auto "/>
+
         </nuxt-link>
         <img src="../../static/banner-6-1.jpg" class="w-full h-screen object-cover  " alt="Home"/>
       </div>
