@@ -35,24 +35,24 @@ export const menuItems = [
         "title": "Industries",
         "target": "/industries"
     },
-    {
-        "title": "Resources",
-        "target": "/resources",
-        "subitems": [
-            {
-                "title": "Blog posts",
-                "target": "/resources/post"
-            },
-            {
-                "title": "Reports",
-                "target": "/resources/report"
-            },
-            {
-                "title": "News & Events",
-                "target": "/resources/new"
-            }
-        ]
-    },
+    // {
+    //     "title": "Resources",
+    //     "target": "/resources",
+    //     "subitems": [
+    //         {
+    //             "title": "Blog posts",
+    //             "target": "/resources/post"
+    //         },
+    //         {
+    //             "title": "Reports",
+    //             "target": "/resources/report"
+    //         },
+    //         {
+    //             "title": "News & Events",
+    //             "target": "/resources/new"
+    //         }
+    //     ]
+    // },
     {
         "title": "Careers",
         "target": "/careers"

@@ -13,11 +13,11 @@
 
 
         <div>
-          <img
-              src="../../../static/code-slash.png"
-              alt="rezilens"
-              class="absolute md:left-auto lg:left-auto xl:left-auto left-0"
-          >
+<!--          <img-->
+<!--              src="../../../static/code-slash.png"-->
+<!--              alt="rezilens"-->
+<!--              class="absolute md:left-auto lg:left-auto xl:left-auto left-0"-->
+<!--          >-->
           <div class="text-center pt-2">
             <h1 class="text-white md:text-5xl lg:text-5xl xl:text-5xl text-4xl font-medium" style="line-height:150%">
               Leadership team bios
