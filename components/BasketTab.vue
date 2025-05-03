@@ -18,14 +18,14 @@
                 class="border-b-0 h-fit flex items-center w-full mx-8 sm:mx-0 sm:w-6/6 lg:w-4/4 2xl:w-5/5 focus-within:border-blue-500 transition-all duration-300 dir-rtl">
               <div class="flex items-center">
                 <Icon name="simple-line-icons:handbag" class="text-4xl"/>
-                <p class="mt-1 px-2 w-full text-right sm:text-xl placeholder:px-2 outline-0 placeholder:text-lg lg:justify-center hidden lg:block md:block xl:block">
+                <p class="mt-1 px-2 w-full text-right sm:text-xl placeholder:px-2 outline-0 placeholder:text-xl lg:justify-center hidden lg:block md:block xl:block">
                   سبد خرید
                 </p>
 
 
 
                 <div
-                    class=" flex mt-1 absolute md:left-14 lx:left-14 lg:left-14 left-3 md:hidden lg:hidden lx:hidden py-3 placeholder:px-2 outline-0 placeholder:text-lg lg:justify-center">
+                    class=" flex mt-1 absolute md:left-14 lx:left-14 lg:left-14 left-3 md:hidden lg:hidden lx:hidden py-3 placeholder:px-2 outline-0 placeholder:text-xl lg:justify-center">
                   <div class="col-span-3">
                     <nuxt-link v-if="list.length>0" @click="verifyOrder()"
                                class="h-10 cursor-pointer py-2 px-2 font-sans rounded-md bg-gold hover:bg-amber-500 border-gray-50 shadow-xl border w-full md:w-auto mt-1 mb-1 ml-1"
@@ -44,7 +44,7 @@
                 </div>
 
                 <div
-                    class=" pt-4 pb-4 bg-gray-50 shadow-xl border border-gold w-full bottom-0 absolute md:pl-24 lx:pl-24 lg:pl-24 pl-24  text-left items-end justify-end  py-3 placeholder:px-2 outline-0 placeholder:text-lg hidden md:flex lg:flex lx:flex">
+                    class=" pt-4 pb-4 bg-gray-50 shadow-xl border border-gold w-full bottom-0 absolute md:pl-24 lx:pl-24 lg:pl-24 pl-24  text-left items-end justify-end  py-3 placeholder:px-2 outline-0 placeholder:text-xl hidden md:flex lg:flex lx:flex">
                   <div
                       class="float-right right-4 pb-3 absolute"
                   >
@@ -103,7 +103,7 @@
                   <div v-for="product in list " :key="product.id" class="border p-4 h-44 flex shadow-md rounded" dir="rtl">
                     <!-- First column: Product Image -->
                     <nuxt-link :to="'/products/'+product.slug">
-                      <div class="ml-4 text-lg">
+                      <div class="ml-4 text-xl">
                         <img :src="product.image.src" :alt="product.title" class="w-24  h-36 object-contain"/>
                       </div>
                     </nuxt-link>

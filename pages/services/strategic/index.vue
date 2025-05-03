@@ -71,7 +71,7 @@
                                 clip-rule="evenodd"></path>
                         </svg>
                       </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                         <span class="font-medium">Strategic Alignment:</span> Validating that AI initiatives map to core business objectives (e.g., customer experience, cost optimization, new revenue streams).
                       </span>
                       </li>
@@ -83,7 +83,7 @@
                                 clip-rule="evenodd"></path>
                         </svg>
                       </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                         <span class="font-medium">Data Diagnostics:</span> Measuring data quality, accessibility, and integration readiness for machine learning workloads.
                       </span>
                       </li>
@@ -95,7 +95,7 @@
                                 clip-rule="evenodd"></path>
                         </svg>
                       </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                         <span class="font-medium">Talent & Skills Mapping:</span> Identifying existing skill sets versus required expertise (data science, MLOps, change management).
                       </span>
                       </li>
@@ -107,7 +107,7 @@
                                 clip-rule="evenodd"></path>
                         </svg>
                       </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                         <span class="font-medium">Infrastructure Audit:</span> Assessing compute, storage, and network resources for AI training and inference.
                       </span>
                       </li>
@@ -129,7 +129,7 @@
                                     d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
                             </svg>
                           </div>
-                          <div class="ml-4 text-lg">
+                          <div class="ml-4 text-xl">
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Risk
                               Mitigation</h4>
                             <p class="mt-2 text-gray-600">
@@ -149,7 +149,7 @@
                                     d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path>
                             </svg>
                           </div>
-                          <div class="ml-4 text-lg">
+                          <div class="ml-4 text-xl">
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Accelerated
                               ROI</h4>
                             <p class="mt-2 text-gray-600">
@@ -169,7 +169,7 @@
                                     d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"></path>
                             </svg>
                           </div>
-                          <div class="ml-4 text-lg">
+                          <div class="ml-4 text-xl">
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Roadmap
                               Clarity</h4>
                             <p class="mt-2 text-gray-600">
@@ -226,7 +226,7 @@
                                 clip-rule="evenodd"></path>
                         </svg>
                       </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                         <span class="font-medium">Regulatory Readiness:</span> Ensuring alignment with GDPR, HIPAA, or sector-specific mandates by pinpointing control gaps.
                       </span>
                       </li>
@@ -238,7 +238,7 @@
                                 clip-rule="evenodd"></path>
                         </svg>
                       </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                         <span class="font-medium">Supply-Chain Risk:</span> Evaluating third-party dependencies and their security postures.
                       </span>
                       </li>
@@ -250,7 +250,7 @@
                                 clip-rule="evenodd"></path>
                         </svg>
                       </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                         <span class="font-medium">Incident Preparedness:</span> Validating playbooks, escalation paths, and communication protocols through simulations.
                       </span>
                       </li>
@@ -262,7 +262,7 @@
                                 clip-rule="evenodd"></path>
                         </svg>
                       </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                         <span class="font-medium">Architecture Hardening:</span> Testing network segmentation, endpoint protection, and cloud configurations against best practices
                       </span>
                       </li>
@@ -284,7 +284,7 @@
                                     d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
                           </div>
-                          <div class="ml-4 text-lg">
+                          <div class="ml-4 text-xl">
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Prioritized
                               Investment</h4>
                             <p class="mt-2 text-gray-600">
@@ -304,7 +304,7 @@
                                     d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
                             </svg>
                           </div>
-                          <div class="ml-4 text-lg">
+                          <div class="ml-4 text-xl">
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Board-Level
                               Reporting</h4>
                             <p class="mt-2 text-gray-600">
@@ -324,7 +324,7 @@
                                     d="M13 10V3L4 14h7v7l9-11h-7z"></path>
                             </svg>
                           </div>
-                          <div class="ml-4 text-lg">
+                          <div class="ml-4 text-xl">
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Continuous
                               Improvement</h4>
                             <p class="mt-2 text-gray-600">
@@ -380,7 +380,7 @@
                                 clip-rule="evenodd"></path>
                         </svg>
                       </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                         <span class="font-medium">Carbon Reduction:</span> Setting science-based targets for Scope 1–3 emissions, with interim milestones and offset strategies.
                       </span>
                       </li>
@@ -392,7 +392,7 @@
                                 clip-rule="evenodd"></path>
                         </svg>
                       </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                         <span class="font-medium">Diversity & Inclusion:</span> Establishing metrics for workforce representation, supplier diversity programs, and inclusive leadership training.
                       </span>
                       </li>
@@ -404,7 +404,7 @@
                                 clip-rule="evenodd"></path>
                         </svg>
                       </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                         <span class="font-medium">Governance Enhancement:</span> Designing board-level ESG committees, risk-management processes, and transparent reporting dashboards.
                       </span>
                       </li>
@@ -416,7 +416,7 @@
                                 clip-rule="evenodd"></path>
                         </svg>
                       </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                         <span class="font-medium">Sustainable Finance:</span> Preparing for green bond issuance or linking executive compensation to ESG score improvements
                       </span>
                       </li>
@@ -438,7 +438,7 @@
                                     d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
                             </svg>
                           </div>
-                          <div class="ml-4 text-lg">
+                          <div class="ml-4 text-xl">
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Investor
                               Confidence</h4>
                             <p class="mt-2 text-gray-600">
@@ -457,7 +457,7 @@
                                     d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
                             </svg>
                           </div>
-                          <div class="ml-4 text-lg">
+                          <div class="ml-4 text-xl">
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Regulatory
                               Compliance</h4>
                             <p class="mt-2 text-gray-600">
@@ -476,7 +476,7 @@
                                     d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path>
                             </svg>
                           </div>
-                          <div class="ml-4 text-lg">
+                          <div class="ml-4 text-xl">
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Brand &
                               Talent</h4>
                             <p class="mt-2 text-gray-600">
@@ -532,7 +532,7 @@
                           clip-rule="evenodd"></path>
                   </svg>
                 </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                   <span class="font-medium">Cost Rationalization:</span> Identifying redundant legacy systems and quantifying savings from consolidation or migration.
                 </span>
                       </li>
@@ -544,7 +544,7 @@
                           clip-rule="evenodd"></path>
                   </svg>
                 </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                   <span class="font-medium">Innovation Funding:</span> Allocating funds for incubating high-value pilots (e.g., generative AI, edge analytics) versus core operations.
                 </span>
                       </li>
@@ -556,7 +556,7 @@
                           clip-rule="evenodd"></path>
                   </svg>
                 </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                   <span class="font-medium">Risk-Adjusted Prioritization:</span> Using financial and risk metrics to rank projects, ensuring capital is deployed where it drives greatest strategic advantage.
                       </span>
                       </li>
@@ -568,7 +568,7 @@
                           clip-rule="evenodd"></path>
                   </svg>
                 </span>
-                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                        <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                   <span class="font-medium">Vendor & Partnership Strategy:</span> Evaluating third-party providers and strategic alliances to supplement internal capabilities.
                 </span>
                       </li>
@@ -590,7 +590,7 @@
                                     d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                             </svg>
                           </div>
-                          <div class="ml-4 text-lg">
+                          <div class="ml-4 text-xl">
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Financial
                               Discipline</h4>
                             <p class="mt-2 text-gray-600">
@@ -609,7 +609,7 @@
                                     d="M13 10V3L4 14h7v7l9-11h-7z"></path>
                             </svg>
                           </div>
-                          <div class="ml-4 text-lg">
+                          <div class="ml-4 text-xl">
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Agility &
                               Growth</h4>
                             <p class="mt-2 text-gray-600">
@@ -629,7 +629,7 @@
                                     d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
                             </svg>
                           </div>
-                          <div class="ml-4 text-lg">
+                          <div class="ml-4 text-xl">
                             <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Competitive
                               Differentiation</h4>
                             <p class="mt-2 text-gray-600">
@@ -654,7 +654,7 @@
               <div class="text-center max-w-3xl mx-auto">
                 <h2 class="text-3xl md:text-4xl font-bold text-white tracking-tight">Expected <span
                     class="text-secondary-light">Outcomes</span></h2>
-                <p class="mt-4 text-lg text-blue-200 leading-relaxed">
+                <p class="mt-4 text-xl text-blue-200 leading-relaxed">
                   Transformational results that build organizational resilience and competitive advantage
                 </p>
               </div>

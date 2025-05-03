@@ -38,7 +38,7 @@
           <div class="space-y-8 lg:col-span-2">
             <div>
               <h2 class="text-3xl font-semibold text-gray-900">Our Approach</h2>
-              <p class="mt-4 text-lg text-gray-500">
+              <p class="mt-4 text-xl text-gray-500">
                 By weaving together strategic foresight, intelligent solutions, cybersecurity resilience, and adaptive
                 transformation, we guide clients from vision to value ensuring they are equipped to compete today and
                 prepared for tomorrow's challenges.
@@ -49,11 +49,11 @@
             <div class="mt-12">
               <h2 class="text-3xl font-semibold text-gray-900">Our Story</h2>
               <div class="mt-6 border-t border-gray-200 pt-6">
-                <p class="text-lg text-gray-500">
+                <p class="text-xl text-gray-500">
                   Born out of a shared passion for innovation and impact, our firm was founded by senior leaders with
                   decades of experience across AI, data science, cybersecurity, sustainability, and change management.
                 </p>
-                <p class="mt-4 text-lg text-gray-500">
+                <p class="mt-4 text-xl text-gray-500">
                   Witnessing firsthand how siloed initiatives too often fall short, we set out to create an integrated
                   advisory model one that combines big-picture strategy with deep technical execution and
                   people-centered change. From our first engagement designing a data-driven supply-chain dashboard to
@@ -67,7 +67,7 @@
             <div class="mt-12">
               <h2 class="text-3xl font-semibold text-gray-900">Our Mission</h2>
               <div class="mt-6 border-t border-gray-200 pt-6">
-                <p class="text-lg text-gray-500">
+                <p class="text-xl text-gray-500">
                   To empower organizations to anticipate disruption, harness intelligent technology, manage risk
                   responsibly, and evolve their culture creating resilient, sustainable enterprises that generate value
                   for all stakeholders.
@@ -83,7 +83,7 @@
 
               <div class="mt-6 space-y-6">
                 <div>
-                  <h4 class="text-lg font-medium text-secondary">End-to-End Integration</h4>
+                  <h4 class="text-xl font-medium text-secondary">End-to-End Integration</h4>
                   <p class="mt-2 text-gray-600">
                     We don't just advise on strategy or build a point solution we connect foresight, AI innovation,
                     security, ESG, and change management into a unified roadmap.
@@ -91,7 +91,7 @@
                 </div>
 
                 <div>
-                  <h4 class="text-lg font-medium text-secondary">Tailored Expertise</h4>
+                  <h4 class="text-xl font-medium text-secondary">Tailored Expertise</h4>
                   <p class="mt-2 text-gray-600">
                     Our senior consultants blend domain depth (e.g., energy, financial services, manufacturing) with
                     functional mastery, ensuring every recommendation is both visionary and practical.
@@ -99,7 +99,7 @@
                 </div>
 
                 <div>
-                  <h4 class="text-lg font-medium text-secondary">Measurable Impact</h4>
+                  <h4 class="text-xl font-medium text-secondary">Measurable Impact</h4>
                   <p class="mt-2 text-gray-600">
                     We set clear KPIs and track always-on dashboards so you see ROI at every stage from early POCs to
                     enterprise-scale rollouts.
@@ -107,7 +107,7 @@
                 </div>
 
                 <div>
-                  <h4 class="text-lg font-medium text-secondary">Sustainable Advantage</h4>
+                  <h4 class="text-xl font-medium text-secondary">Sustainable Advantage</h4>
                   <p class="mt-2 text-gray-600">
                     By embedding ESG principles and upskilling your people, we help you not only comply with evolving
                     regulations but also attract talent, investors, and customers who demand purpose-driven leadership.

@@ -79,7 +79,7 @@
             <li v-for="(item, index) in menuItems" :key="index">
               <div @click="toggleMobileSubmenu(index)" class="flex justify-between items-center py-2">
                 <nuxt-link :to="item.target" @click="!item.subitems ? toggleMobileMenu() : null"
-                           class="text-lg font-medium text-gray-900">
+                           class="text-xl font-medium text-gray-900">
                   {{ item.title }}
                 </nuxt-link>
                 <span v-if="item.subitems" class="ml-2">

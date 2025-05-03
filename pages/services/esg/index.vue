@@ -68,7 +68,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">ERP/CRM Rollouts:</span> Minimizing disruption when launching enterprise systems by engaging users early, piloting workflows, and iterating based on feedback.
               </span>
                     </li>
@@ -80,7 +80,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl">
                 <span class="font-medium">M&A & Restructurings:</span> Aligning cultures, processes, and leadership teams following mergers or organizational redesigns to preserve productivity and morale.
               </span>
                     </li>
@@ -92,7 +92,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl">
                 <span class="font-medium">Digital Transformation:</span> Driving user adoption of new AI tools, collaboration platforms, or automation solutions through targeted change campaigns and hands-on coaching.
               </span>
                     </li>
@@ -104,7 +104,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl">
                 <span class="font-medium">Policy & Process Overhauls:</span> Embedding new governance, compliance, or operating procedures with ongoing reinforcement and clear success metrics.
               </span>
                     </li>
@@ -126,7 +126,7 @@
                                   d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"></path>
                           </svg>
                         </div>
-                        <div class="ml-4 text-lg">
+                        <div class="ml-4 text-xl">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Rapid
                             Adoption</h4>
                           <p class="mt-2 text-gray-600">
@@ -146,7 +146,7 @@
                                   d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                           </svg>
                         </div>
-                        <div class="ml-4 text-lg">
+                        <div class="ml-4 text-xl">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Risk
                             Reduction</h4>
                           <p class="mt-2 text-gray-600">
@@ -166,7 +166,7 @@
                                   d="M4 5a1 1 0 011-1h14a1 1 0 011 1v2a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM4 13a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H5a1 1 0 01-1-1v-6zM16 13a1 1 0 011-1h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6z"></path>
                           </svg>
                         </div>
-                        <div class="ml-4 text-lg">
+                        <div class="ml-4 text-xl">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Clear ROI
                             Tracking</h4>
                           <p class="mt-2 text-gray-600">
@@ -217,7 +217,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">Innovation Mindset Cultivation:</span> Running design-thinking and "fail-fast" workshops to embed experimentation across teams.
               </span>
                     </li>
@@ -229,7 +229,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">Inclusive Leadership Programs:</span> Coaching senior executives on equitable decision-making, bias mitigation, and team empowerment.
               </span>
                     </li>
@@ -241,7 +241,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">Cross-Functional Team Alignment:</span> Facilitating off-site retreats and alignment sessions to break silos and accelerate collaboration.
               </span>
                     </li>
@@ -253,7 +253,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">Culture Reinforcement Campaigns:</span> Launching ambassador networks and recognition programs that celebrate and sustain new cultural norms.
               </span>
                     </li>
@@ -275,7 +275,7 @@
                                   d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"></path>
                           </svg>
                         </div>
-                        <div class="ml-4 text-lg">
+                        <div class="ml-4 text-xl">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Enhanced
                             Employee Engagement</h4>
                           <p class="mt-2 text-gray-600">
@@ -295,7 +295,7 @@
                                   d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                           </svg>
                         </div>
-                        <div class="ml-4 text-lg">
+                        <div class="ml-4 text-xl">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Leadership
                             Pipeline Strength</h4>
                           <p class="mt-2 text-gray-600">
@@ -314,7 +314,7 @@
                                   d="M4 5a1 1 0 011-1h14a1 1 0 011 1v2a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM4 13a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H5a1 1 0 01-1-1v-6zM16 13a1 1 0 011-1h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6z"></path>
                           </svg>
                         </div>
-                        <div class="ml-4 text-lg">
+                        <div class="ml-4 text-xl">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Sustainable
                             Culture Shift</h4>
                           <p class="mt-2 text-gray-600">
@@ -364,7 +364,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">Digital Literacy Bootcamps:</span> Equipping employees with foundational skills in data analysis, AI awareness, or cloud-native tools.
               </span>
                     </li>
@@ -376,7 +376,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">Agile & DevOps Training:</span> Building squads that can plan in sprints, deploy safely, and continuously improve.
               </span>
                     </li>
@@ -388,7 +388,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">ESG & Sustainability Awareness:</span> Training cross-functional teams on ESG frameworks, reporting requirements, and sustainable practices.
               </span>
                     </li>
@@ -400,7 +400,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">Leadership Certification Tracks:</span> Offering tiered certifications (foundational to advanced) tied to career-path frameworks.
               </span>
                     </li>
@@ -422,7 +422,7 @@
                                   d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"></path>
                           </svg>
                         </div>
-                        <div class="ml-4 text-lg">
+                        <div class="ml-4 text-xl">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Faster
                             Time-to-Competency</h4>
                           <p class="mt-2 text-gray-600">
@@ -441,7 +441,7 @@
                                   d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                           </svg>
                         </div>
-                        <div class="ml-4 text-lg">
+                        <div class="ml-4 text-xl">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Reduced Skill
                             Gaps</h4>
                           <p class="mt-2 text-gray-600">
@@ -460,7 +460,7 @@
                                   d="M4 5a1 1 0 011-1h14a1 1 0 011 1v2a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM4 13a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H5a1 1 0 01-1-1v-6zM16 13a1 1 0 011-1h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6z"></path>
                           </svg>
                         </div>
-                        <div class="ml-4 text-lg">
+                        <div class="ml-4 text-xl">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Retention &
                             Morale</h4>
                           <p class="mt-2 text-gray-600">
@@ -509,7 +509,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">Agile at Scale:</span> Rolling out Scrum-of-Scrums, Kanban systems, and PI‐planning routines across multiple teams or business units.
               </span>
                     </li>
@@ -521,7 +521,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">Value-Stream Mapping:</span> Identifying and eliminating bottlenecks in end-to-end workflows for faster customer-facing delivery.
               </span>
                     </li>
@@ -533,7 +533,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">Governance & Funding Model Redesign:</span> Moving from annual budgeting to rolling forecasts and "guardrails" that empower squads.
               </span>
                     </li>
@@ -545,7 +545,7 @@
                         clip-rule="evenodd"></path>
                 </svg>
               </span>
-                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-lg ">
+                      <span class="ml-3 text-gray-700 group-hover:text-gray-900 transition-colors text-xl ">
                 <span class="font-medium">Continuous Improvement Programs:</span> Establishing Kaizen events, retrospectives, and metrics (cycle time, throughput) for ongoing optimization.
               </span>
                     </li>
@@ -567,7 +567,7 @@
                                   d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"></path>
                           </svg>
                         </div>
-                        <div class="ml-4 text-lg">
+                        <div class="ml-4 text-xl">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Increased
                             Flexibility</h4>
                           <p class="mt-2 text-gray-600">
@@ -586,7 +586,7 @@
                                   d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                           </svg>
                         </div>
-                        <div class="ml-4 text-lg">
+                        <div class="ml-4 text-xl">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Cost
                             Efficiency</h4>
                           <p class="mt-2 text-gray-600">
@@ -605,7 +605,7 @@
                                   d="M4 5a1 1 0 011-1h14a1 1 0 011 1v2a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM4 13a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H5a1 1 0 01-1-1v-6zM16 13a1 1 0 011-1h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6z"></path>
                           </svg>
                         </div>
-                        <div class="ml-4 text-lg">
+                        <div class="ml-4 text-xl">
                           <h4 class="font-medium text-gray-900 group-hover:text-primary transition-colors">Enhanced
                             Innovation</h4>
                           <p class="mt-2 text-gray-600">
@@ -626,7 +626,7 @@
           <div class="text-center max-w-3xl mx-auto">
             <h2 class="text-3xl md:text-4xl font-bold text-white tracking-tight">Expected <span
                 class="text-secondary-light">Outcomes</span></h2>
-            <p class="mt-4 text-lg text-blue-200 leading-relaxed">
+            <p class="mt-4 text-xl text-blue-200 leading-relaxed">
               Transformational results that build organizational resilience and competitive advantage
             </p>
           </div>

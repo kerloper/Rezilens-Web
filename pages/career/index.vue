@@ -46,7 +46,7 @@
                 </svg>
               </div>
               <div>
-                <h3 class="text-lg font-semibold text-gray-900 mb-1">What We Offer</h3>
+                <h3 class="text-xl font-semibold text-gray-900 mb-1">What We Offer</h3>
                 <p class="text-gray-600">Collaborative culture, ongoing learning, clear career paths</p>
               </div>
             </div>
@@ -58,7 +58,7 @@
                 </svg>
               </div>
               <div>
-                <h3 class="text-lg font-semibold text-gray-900 mb-1">Open Roles</h3>
+                <h3 class="text-xl font-semibold text-gray-900 mb-1">Open Roles</h3>
                 <p class="text-gray-600">AI & Data Engineers, Cybersecurity Experts, ESG Analysts, Change Management Consultants</p>
               </div>
             </div>
@@ -70,7 +70,7 @@
                 </svg>
               </div>
               <div>
-                <h3 class="text-lg font-semibold text-gray-900 mb-1">Perks</h3>
+                <h3 class="text-xl font-semibold text-gray-900 mb-1">Perks</h3>
                 <p class="text-gray-600">Professional certifications sponsorship, flexible work options, global project exposure</p>
               </div>
             </div>

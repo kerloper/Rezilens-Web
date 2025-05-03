@@ -115,7 +115,7 @@
           <!--            </div>-->
           <!--            &lt;!&ndash;        description&ndash;&gt;-->
           <!--            <div class="flex flex-col     rounded-br-lg rounded-bl-lg px-4">-->
-          <!--              <p class="font-bold text-lg py-2 ">{{ item.ordered.title }}</p>-->
+          <!--              <p class="font-bold text-xl py-2 ">{{ item.ordered.title }}</p>-->
           <!--              <div class="hidden sm:flex">-->
           <!--                <p class="mb-4 line-clamp-3">{{ item.ordered.move_time }}</p>-->
           <!--              </div>-->

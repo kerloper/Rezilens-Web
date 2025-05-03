@@ -65,7 +65,7 @@
                           <path
                               d="M23 16.55a4.29 4.29 0 0 0-2.11.56a14.5 14.5 0 0 1 4.35-6a1.1 1.1 0 1 0-1.39-1.7c-4 3.25-5.78 7.75-5.78 10.54a5.08 5.08 0 0 0 3 4.61A4.37 4.37 0 0 0 23 25a4.24 4.24 0 1 0 0-8.47Z"/>
                         </svg>
-                        <p class="ml-4 text-lg text-gray-600 italic">
+                        <p class="ml-4 text-xl text-gray-600 italic">
                           "{{ testimonial.quote }}"
                         </p>
                       </div>
@@ -76,7 +76,7 @@
                             class="h-16 w-16 rounded-full object-cover"
                         >
                         <div class="ml-4">
-                          <p class="text-lg font-medium text-gray-900">
+                          <p class="text-xl font-medium text-gray-900">
                             {{ testimonial.author }}
                           </p>
                           <p class="text-base text-gray-500">
