@@ -2,7 +2,7 @@
   <div>
     <div class="bg-cover w-full" style="background-image: url('/rezilens/page-banner.png')">
       <section
-          class="md:mx-16 lg:mx-16 xl:mx-16 mx-6 pb-10 "
+          class="md:mx-6 lg:mx-6 xl:mx-6 mx-6 pb-10 "
       >
         <div class="grid md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gird-cols-1 gap-2 max-w-[1440px] mx-auto">
 
@@ -17,7 +17,7 @@
                 class="absolute md:left-auto lg:left-auto xl:left-auto left-0"
             >
             <div class="md:pt-20 lg:pt-20 xl:pt-20 lg:pl-16">
-              <h1 class="text-white md:text-5xl lg:text-5xl xl:text-5xl text-4xl font-medium" style="line-height:150%">
+              <h1 class="text-white md:text-6xl lg:text-6xl xl:text-6xl font-semibold text-4xl" style="line-height:150%">
                 Rezilens
               </h1>
               <div class="text-white text-3xl leading-10 mt-6">
@@ -26,9 +26,9 @@
             </div>
           </div>
           <div class="hidden md:block lg:block xl:block">
-            <div class="px-32 pt-28 h-[460px] overflow-hidden">
+            <div class="px-10 pt-28 h-[500px] overflow-hidden">
               <img
-                  src="../static/rezilens/web.png"
+                  src="../static/rezilens/web2.png"
                   alt="rezilens"
                   class="w-full scale-110"
               >
