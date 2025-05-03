@@ -33,9 +33,9 @@
     <div class="max-w-7xl mx-auto px-4 py-16 sm:px-6 lg:px-8">
 
 
-      <div class="mb-16">
+      <div class="mb-24">
         <div class="mt-8 lg:mt-0">
-          <div class="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-2xl shadow-sm border border-gray-100">
+          <div class="bg-gradient-to-br from-white to-gray-50 p-8 rounded-2xl shadow-sm border border-gray-100">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
               <!-- Left Column -->
               <div class="lg:col-span-1 space-y-6">
@@ -160,9 +160,9 @@
       </div>
 
       <!-- Cybersecurity Maturity Assessment -->
-      <div class="mb-16">
+      <div class="mb-24">
         <div class="mt-8 lg:mt-0">
-          <div class="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-2xl shadow-sm border border-gray-100">
+          <div class="bg-gradient-to-br from-white to-gray-50 p-8 rounded-2xl shadow-sm border border-gray-100">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
               <!-- Left Column -->
               <div class="lg:col-span-1 space-y-6">
@@ -287,9 +287,9 @@
       </div>
 
       <!-- ESG Roadmapping -->
-      <div class="mb-16">
+      <div class="mb-24">
         <div class="mt-8 lg:mt-0">
-          <div class="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-2xl shadow-sm border border-gray-100">
+          <div class="bg-gradient-to-br from-white to-gray-50 p-8 rounded-2xl shadow-sm border border-gray-100">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
               <!-- Left Column -->
               <div class="lg:col-span-1 space-y-6">
@@ -414,9 +414,9 @@
       </div>
 
       <!-- Technology Investment Planning -->
-      <div class="mb-16">
+      <div class="mb-24">
         <div class="mt-8 lg:mt-0">
-          <div class="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-2xl shadow-sm border border-gray-100">
+          <div class="bg-gradient-to-br from-white to-gray-50 p-8 rounded-2xl shadow-sm border border-gray-100">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
               <!-- Left Column -->
               <div class="lg:col-span-1 space-y-6">
@@ -541,7 +541,7 @@
       </div>
 
       <!-- Outcomes Section -->
-      <div class="mb-16">
+      <div class="mb-24">
       <div class="mt-8 lg:mt-0">
         <div class="bg-gradient-to-br from-primary to-secondary/40 p-8 rounded-2xl shadow-lg">
           <div class="text-center max-w-3xl mx-auto">
