@@ -69,7 +69,7 @@
                   We are seeking a dynamic and highly organised Business Coordinator & Personal Assistant to support our Founder and Senior Leadership Team. This is a unique hybrid role that combines personal assistant duties, business coordination, operations organisation, and high-level executive support.
                 </p>
                 <p class="mt-2 text-gray-600">
-                  You'll be the engine behind the scenes—handling schedules, managing priorities, organising events, liaising with key stakeholders, and making sure everything runs smoothly and efficiently across both personal and business domains.
+                  You'll be the engine behind the scenes handling schedules, managing priorities, organising events, liaising with key stakeholders, and making sure everything runs smoothly and efficiently across both personal and business domains.
                 </p>
               </div>
 
