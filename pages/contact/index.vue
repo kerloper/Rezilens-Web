@@ -1,5 +1,8 @@
 <script setup>
 
+const route = useRoute()
+const query = route.query
+
 const isLoading = shallowRef(false);
 const isDone = shallowRef(false);
 
@@ -103,6 +106,24 @@ const handleSubmit = async () => {
   isDone.value = true
   isLoading.value = false
 }
+
+onMounted(()=>{
+  // query.subject
+  try{
+    console.log('start')
+    console.log(query.subject)
+    // query.subject
+    let subject = formConfig.formOptions.subject.find(item=>item.key===query.subject)
+    if(subject){
+      form.value.subject = subject
+    }
+    console.log(subject)
+  }catch(error){
+    console.log(error)
+    console.log('error')
+  }
+
+})
 
 </script>
 

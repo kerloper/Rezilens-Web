@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(contact) : contact us">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_29_25,_10_29 AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_29_25__10_29AM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(contact) : add promotion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/contact/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact/index.vue" afterDir="false" />
     </list>
@@ -331,7 +329,7 @@
       <workItem from="1746435399541" duration="1412000" />
       <workItem from="1746453505234" duration="3000" />
       <workItem from="1746508276113" duration="574000" />
-      <workItem from="1746514933062" duration="1450000" />
+      <workItem from="1746514933062" duration="2053000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676985169343</created>
@@ -437,14 +435,6 @@
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1686567858199</updated>
-    </task>
-    <task id="LOCAL-00266" summary="base">
-      <option name="closed" value="true" />
-      <created>1745809590523</created>
-      <option name="number" value="00266" />
-      <option name="presentableId" value="LOCAL-00266" />
-      <option name="project" value="LOCAL" />
-      <updated>1745809590523</updated>
     </task>
     <task id="LOCAL-00267" summary="base">
       <option name="closed" value="true" />
@@ -710,7 +700,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746436796530</updated>
     </task>
-    <option name="localTasksCounter" value="300" />
+    <task id="LOCAL-00300" summary="chore(contact) : add promotion">
+      <option name="closed" value="true" />
+      <created>1746516668519</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1746516668520</updated>
+    </task>
+    <option name="localTasksCounter" value="301" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -728,7 +726,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="set data" />
     <MESSAGE value="footer responsive" />
     <MESSAGE value="services page responsive" />
     <MESSAGE value="solutions page responsive" />
@@ -753,7 +750,8 @@
     <MESSAGE value="chore(global) : improve ui" />
     <MESSAGE value="chore(careers) : add section" />
     <MESSAGE value="chore(contact) : contact us" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore(contact) : contact us" />
+    <MESSAGE value="chore(contact) : add promotion" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore(contact) : add promotion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
