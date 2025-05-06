@@ -53,7 +53,7 @@
             <li>
               <nuxt-link to="https://digrc.com/">
                 <button class="px-2 py-1 bg-primary text-white font-medium rounded-lg transition-colors duration-300">
-                  Our State of the Art GRC
+                  Our GRC Hub
                 </button>
               </nuxt-link>
             </li>
@@ -103,7 +103,7 @@
             <li class="pt-4">
               <nuxt-link to="https://digrc.com/" @click="toggleMobileMenu">
                 <button class="w-full px-4 py-2 bg-primary text-white font-medium rounded-lg">
-                  Our State of the Art GRC
+                  Our GRC Hub
                 </button>
               </nuxt-link>
             </li>

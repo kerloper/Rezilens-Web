@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(contact) : add promotion">
+    <list default="true" id="d7d120a8-ebd3-43f6-a73d-f1cf44241ea4" name="Changes" comment="chore(contact) : add query string in contact us">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/containers/TheHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/TheHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -329,7 +330,7 @@
       <workItem from="1746435399541" duration="1412000" />
       <workItem from="1746453505234" duration="3000" />
       <workItem from="1746508276113" duration="574000" />
-      <workItem from="1746514933062" duration="2053000" />
+      <workItem from="1746514933062" duration="4204000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1676985169343</created>
@@ -435,14 +436,6 @@
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
       <updated>1686567858199</updated>
-    </task>
-    <task id="LOCAL-00267" summary="base">
-      <option name="closed" value="true" />
-      <created>1745921269478</created>
-      <option name="number" value="00267" />
-      <option name="presentableId" value="LOCAL-00267" />
-      <option name="project" value="LOCAL" />
-      <updated>1745921269478</updated>
     </task>
     <task id="LOCAL-00268" summary="base">
       <option name="closed" value="true" />
@@ -708,7 +701,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746516668520</updated>
     </task>
-    <option name="localTasksCounter" value="301" />
+    <task id="LOCAL-00301" summary="chore(contact) : add query string in contact us">
+      <option name="closed" value="true" />
+      <created>1746517352552</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1746517352552</updated>
+    </task>
+    <option name="localTasksCounter" value="302" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -726,7 +727,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="footer responsive" />
     <MESSAGE value="services page responsive" />
     <MESSAGE value="solutions page responsive" />
     <MESSAGE value="services" />
@@ -751,7 +751,8 @@
     <MESSAGE value="chore(careers) : add section" />
     <MESSAGE value="chore(contact) : contact us" />
     <MESSAGE value="chore(contact) : add promotion" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore(contact) : add promotion" />
+    <MESSAGE value="chore(contact) : add query string in contact us" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore(contact) : add query string in contact us" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

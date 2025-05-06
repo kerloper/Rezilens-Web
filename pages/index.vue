@@ -17,7 +17,8 @@
                 class="absolute md:left-auto lg:left-auto xl:left-auto left-0"
             >
             <div class="md:pt-20 lg:pt-20 xl:pt-20 lg:pl-16">
-              <h1 class="text-white md:text-6xl lg:text-6xl xl:text-6xl font-semibold text-4xl" style="line-height:150%">
+              <h1 class="text-white md:text-6xl lg:text-6xl xl:text-6xl font-semibold text-4xl"
+                  style="line-height:150%">
                 Rezilens
               </h1>
               <div class="text-white text-3xl leading-10 mt-6">
@@ -38,6 +39,110 @@
         </div>
       </section>
     </div>
+
+    <section
+        class="bg-white"
+    >
+      <div class="relative w-full max-w-[1440px] mx-auto overflow-hidden">
+        <div class="">
+          <div class="bg-gradient-to-br from-white to-gray-50 p-8 rounded-2xl shadow-sm border border-gray-100">
+            <!-- Catalog Downloads -->
+            <div>
+              <div class="text-center">
+                <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-800 mb-3">Resources</span>
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">Explore Our <span
+                    class="text-primary">Solutions</span></h2>
+
+              </div>
+
+              <div class="mt-10 grid grid-cols-1 md:grid-cols-3 gap-6">
+
+
+                <!-- Catalog 1 -->
+                <div
+                    class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:shadow-md transition-shadow duration-300">
+                  <div class="text-center">
+                    <div class="inline-flex items-center justify-center w-14 h-14 bg-blue-50 rounded-full mb-4">
+                      <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path>
+                      </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-2">Intelligent Solutions</h3>
+                    <a
+                        href="https://cdn.digrc.com/website/intelligent-solutions-for-business-transformation.pdf"
+                        target="_blank"
+                        class="w-full px-3 py-3 bg-primary text-white font-medium rounded-lg hover:bg-secondary transition-colors duration-300 flex items-center justify-center">
+                      Download PDF
+                      <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path>
+                      </svg>
+                    </a>
+                  </div>
+                </div>
+
+                <!-- Catalog 2 -->
+                <div
+                    class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:shadow-md transition-shadow duration-300">
+                  <div class="text-center">
+                    <div class="inline-flex items-center justify-center w-14 h-14 bg-blue-50 rounded-full mb-4">
+                      <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path>
+                      </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-2">GRC Solution and Platform</h3>
+
+                    <a
+                        href="https://cdn.digrc.com/website/navigating-grc-our-comprehensive-perspective.pdf"
+                        target="_blank"
+                        class="w-full px-3 py-3 bg-primary text-white font-medium rounded-lg hover:bg-secondary transition-colors duration-300 flex items-center justify-center">
+                      Download PDF
+                      <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path>
+                      </svg>
+                    </a>
+                  </div>
+                </div>
+
+                <!-- Catalog 3 -->
+                <div
+                    class="bg-white p-6 rounded-xl shadow-xs border border-gray-100 hover:shadow-md transition-shadow duration-300">
+                  <div class="text-center">
+                    <div class="inline-flex items-center justify-center w-14 h-14 bg-blue-50 rounded-full mb-4">
+                      <svg class="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                      </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-2">ESG Solution and Platform</h3>
+                    <a
+                        href="https://cdn.digrc.com/website/navigating-esg-our-comprehensive-perspective.pdf"
+                        target="_blank"
+                        class="w-full px-3 py-3 bg-primary text-white font-medium rounded-lg hover:bg-secondary transition-colors duration-300 flex items-center justify-center">
+                      Download PDF
+                      <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path>
+                      </svg>
+                    </a>
+                  </div>
+                </div>
+
+              </div>
+
+              <div class="mt-8 text-center">
+                <p class="text-gray-500 text-sm">Need customized solutions? <nuxt-link to="/contact"
+                                                                               class="text-primary hover:underline">Contact
+                  our team</nuxt-link> for a tailored consultation.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <section
         class="bg-white"
