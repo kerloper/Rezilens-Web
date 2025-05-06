@@ -7,6 +7,7 @@ const isDone = shallowRef(false);
 const formConfig = {
   "formOptions": {
     "subject": [
+      {"key": "gisec-promotion-free-ai-assessment", "value": "GISEC Promotion - Free AI Assessment"},
       {"key": "voucher", "value": "Request a Voucher Code"},
       {"key": "assessment", "value": "Cyber Resilience Assessment"},
       {"key": "penetration", "value": "Penetration Testing"},
@@ -174,7 +175,7 @@ const handleSubmit = async () => {
                 </div>
 
                 <div
-                    v-show="form.subject?.key==='voucher'"
+                    v-show="form.subject?.key==='voucher'||form.subject?.key==='gisec-promotion-free-ai-assessment'"
                 >
                   <label for="subject" class="block text-sm font-medium text-gray-700 mb-2">
                     <span class="text-red-600 font-semibold">*</span> Select an framework
