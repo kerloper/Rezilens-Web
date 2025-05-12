@@ -36,6 +36,256 @@
     <div class="py-16 bg-gray-50">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
+        <div class="mb-24">
+          <div class="bg-gradient-to-br from-white to-gray-50 p-8 rounded-2xl shadow-sm border border-gray-100">
+            <!-- GRC Analyst -->
+            <div>
+              <div class="flex justify-between items-start">
+                <div>
+                  <span class="inline-block px-3 py-1 text-xs font-medium rounded-full bg-red-100 text-red-800 mb-3">GRC</span>
+                  <h2 class="text-3xl md:text-4xl font-bold text-gray-900 tracking-tight">GRC <span class="text-primary">Analyst</span></h2>
+                </div>
+                <button
+                    class="w-full sm:w-auto px-8 py-3 bg-primary from-indigo-600 to-blue-600 text-white font-medium rounded-lg shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300">
+                  Submit Your Resume
+                  <svg class="w-4 h-4 ml-2 inline" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                          d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                  </svg>
+                </button>
+              </div>
+
+              <div class="mt-6 bg-white p-6 rounded-xl shadow-xs border border-gray-100">
+                <h3 class="text-xl font-semibold text-gray-900">Company Description</h3>
+                <p class="mt-2 text-gray-600">
+                  Rezilens is a global leader in governance, risk, and compliance (GRC), risk management, and cybersecurity solutions headquartered in Dubai with origins in Australia. The company empowers businesses worldwide to navigate complex challenges with confidence through its AI-driven platform, DiGRC.
+                </p>
+              </div>
+
+              <div class="mt-6 bg-white p-6 rounded-xl shadow-xs border border-gray-100">
+                <h3 class="text-xl font-semibold text-gray-900">About the Role</h3>
+                <p class="mt-2 text-gray-600">
+                  We're seeking a dedicated GRC Analyst to join our team in Dubai as the in-house expert for DiGRC   our AI-driven Governance, Risk, and Compliance platform. In this hybrid role, you'll lead client workshops and internal trainings ("Presenter"), and drive end-to-end DiGRC deployments ("Implementor"). You'll translate complex regulatory requirements into pragmatic solutions, ensuring our clients harness the full power of DiGRC to manage risk, streamline compliance, and enhance governance.
+                </p>
+              </div>
+
+              <div class="mt-8 grid grid-cols-1 lg:grid-cols-2 gap-10">
+                <!-- Left Column -->
+                <div class="space-y-6">
+                  <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100">
+                    <h3 class="text-xl font-semibold text-gray-900 flex items-center">
+                      <svg class="w-5 h-5 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                      </svg>
+                      Key Responsibilities
+                    </h3>
+                    <div class="mt-4 space-y-4">
+                      <div>
+                        <h4 class="font-medium text-gray-900">DiGRC Presentation & Training:</h4>
+                        <ul class="mt-2 space-y-2">
+                          <li class="flex items-start">
+                    <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                      <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                      </svg>
+                    </span>
+                            <span class="ml-2 text-gray-700">Develop and deliver engaging demos, workshops, and webinars showcasing DiGRC's capabilities</span>
+                          </li>
+                          <li class="flex items-start">
+                    <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                      <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                      </svg>
+                    </span>
+                            <span class="ml-2 text-gray-700">Tailor presentations to various audiences: C-Suite executives, IT/security teams, and audit/compliance managers</span>
+                          </li>
+                          <li class="flex items-start">
+                    <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                      <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                      </svg>
+                    </span>
+                            <span class="ml-2 text-gray-700">Produce clear user guides, cheat-sheets, and training materials</span>
+                          </li>
+                        </ul>
+                      </div>
+
+                      <div>
+                        <h4 class="font-medium text-gray-900">Solution Implementation & Configuration:</h4>
+                        <ul class="mt-2 space-y-2">
+                          <li class="flex items-start">
+                    <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                      <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                      </svg>
+                    </span>
+                            <span class="ml-2 text-gray-700">Lead requirement-gathering sessions with clients to map their GRC processes and regulatory landscape</span>
+                          </li>
+                          <li class="flex items-start">
+                    <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                      <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                      </svg>
+                    </span>
+                            <span class="ml-2 text-gray-700">Configure DiGRC modules (Risk Management, Compliance, Audit, ESG Integration, Whistleblowing, etc.) to meet client needs</span>
+                          </li>
+                          <li class="flex items-start">
+                    <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                      <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                      </svg>
+                    </span>
+                            <span class="ml-2 text-gray-700">Build custom workflows in the DIFLOW automation engine for end-to-end process orchestration</span>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Right Column -->
+                <div class="space-y-6">
+                  <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100">
+                    <h3 class="text-xl font-semibold text-gray-900 flex items-center">
+                      <svg class="w-5 h-5 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                      </svg>
+                      Key Responsibilities (Continued)
+                    </h3>
+                    <div class="mt-4 space-y-4">
+                      <div>
+                        <h4 class="font-medium text-gray-900">Project Management & Stakeholder Engagement:</h4>
+                        <ul class="mt-2 space-y-2">
+                          <li class="flex items-start">
+                    <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                      <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                      </svg>
+                    </span>
+                            <span class="ml-2 text-gray-700">Own project plans, timelines, and deliverables for POC and full-scale deployments</span>
+                          </li>
+                          <li class="flex items-start">
+                    <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                      <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                      </svg>
+                    </span>
+                            <span class="ml-2 text-gray-700">Coordinate cross-functional teams including development, QA, and support</span>
+                          </li>
+                          <li class="flex items-start">
+                    <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                      <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                      </svg>
+                    </span>
+                            <span class="ml-2 text-gray-700">Provide regular status updates and risk assessments to stakeholders</span>
+                          </li>
+                        </ul>
+                      </div>
+
+                      <div>
+                        <h4 class="font-medium text-gray-900">Technical & Business Analysis:</h4>
+                        <ul class="mt-2 space-y-2">
+                          <li class="flex items-start">
+                    <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                      <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                      </svg>
+                    </span>
+                            <span class="ml-2 text-gray-700">Analyze client data sources (vulnerability scans, incident logs, policies) and integrate into DiGRC's centralized repository</span>
+                          </li>
+                          <li class="flex items-start">
+                    <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                      <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                      </svg>
+                    </span>
+                            <span class="ml-2 text-gray-700">Define Key Risk Indicators (KRIs), control libraries, and reporting dashboards aligned to frameworks (ISO 27001, NESA, ECC, NIST, GDPR, SOC, etc.)</span>
+                          </li>
+                          <li class="flex items-start">
+                    <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                      <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                      </svg>
+                    </span>
+                            <span class="ml-2 text-gray-700">Recommend process improvements leveraging AI-driven insights and predictive analytics</span>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="bg-white p-6 rounded-xl shadow-xs border border-gray-100">
+                    <h3 class="text-xl font-semibold text-gray-900 flex items-center">
+                      <svg class="w-5 h-5 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+                      </svg>
+                      What We're Looking For
+                    </h3>
+                    <ul class="mt-4 space-y-2">
+                      <li class="flex items-start">
+                <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                  <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                  </svg>
+                </span>
+                        <span class="ml-2 text-gray-700">Education: Bachelor's or Master's degree in Information Security, Risk Management, Business Administration, or related field</span>
+                      </li>
+                      <li class="flex items-start">
+                <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                  <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                  </svg>
+                </span>
+                        <span class="ml-2 text-gray-700">Experience: 3+ years in GRC roles, with hands-on experience in implementing GRC platforms</span>
+                      </li>
+                      <li class="flex items-start">
+                <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                  <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                  </svg>
+                </span>
+                        <span class="ml-2 text-gray-700">Proven track record delivering client workshops or training sessions</span>
+                      </li>
+                      <li class="flex items-start">
+                <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                  <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                  </svg>
+                </span>
+                        <span class="ml-2 text-gray-700">Technical Skills: Deep understanding of GRC frameworks (ISO 31000, ISO 27001, COBIT, NIST, PCI DSS, GDPR, etc.)</span>
+                      </li>
+                      <li class="flex items-start">
+                <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                  <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                  </svg>
+                </span>
+                        <span class="ml-2 text-gray-700">Experience with workflow engines or automation tools</span>
+                      </li>
+                      <li class="flex items-start">
+                <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                  <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                  </svg>
+                </span>
+                        <span class="ml-2 text-gray-700">Familiarity with data integration (APIs, web services) and dashboarding tools</span>
+                      </li>
+                      <li class="flex items-start">
+                <span class="flex-shrink-0 mt-1 w-4 h-4 text-primary">
+                  <svg class="w-full h-full" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+                  </svg>
+                </span>
+                        <span class="ml-2 text-gray-700">Soft Skills: Excellent verbal and written communication   able to simplify complex topics</span>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <div class="mb-24">
           <div class="bg-gradient-to-br from-white to-gray-50 p-8 rounded-2xl shadow-sm border border-gray-100">
